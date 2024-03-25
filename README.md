@@ -20,8 +20,31 @@
     <h3>Team Members:</h3>
     </div>
 <div>
-   <ul>
-       <li> Mathias Alejandro Jave Diaz U202212721</li>
-   </ul>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Amaro Villanueva, Camila Elena</td>
+            <td>U202121679</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </div>
 <br>
