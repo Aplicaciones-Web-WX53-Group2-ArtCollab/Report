@@ -17,7 +17,7 @@
 </p>
 
 <div>
-    <h3>Team Members:</h3>
+    <h3 align="center">Team Members:</h3>
     </div>
 <div>
      <table align="center">
