@@ -19,7 +19,7 @@
 <div>
     <h3>Team Members:</h3>
     </div>
-<div style="display:flex justify-content:center">
+<div style="display:flex justify-content:center align-items:center">
    <ul>
        <li> Mathias Alejandro Jave Diaz U202212721</li>
    </ul>
