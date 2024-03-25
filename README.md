@@ -30,8 +30,8 @@
             <td>U202114248</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td> Mathias Alejandro Jave Diaz </td>
+            <td> U202212721</td>
         </tr>
         <tr>
             <td></td>
