@@ -7,7 +7,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - WX53</strong><br>
-    <strong>Profesor:</strong><br>
+    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
     <br>INFORME
 </p>
 
