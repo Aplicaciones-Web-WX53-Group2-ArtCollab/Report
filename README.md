@@ -16,10 +16,10 @@
     <strong>Producto: ArtCollab </strong>
 </p>
 
-<div style="text-align:center;">
+<div>
     <h3>Team Members:</h3>
     </div>
-<div style="text-align:center;>
+<div style="text-align:center">
     | :------------ |:---------------:| -----:|
 </div>
 <br>
