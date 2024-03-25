@@ -34,8 +34,8 @@
             <td> U202212721</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Dam Rubianes, Frida Sofia</td>
+            <td>U202218352</td>
         </tr>
         <tr>
             <td></td>
