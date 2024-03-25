@@ -20,6 +20,6 @@
     <h3>Team Members:</h3>
     </div>
 <div style="text-align:center">
-    | :------------ |:---------------:| -----:|
+   
 </div>
 <br>
