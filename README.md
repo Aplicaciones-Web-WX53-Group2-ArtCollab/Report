@@ -12,11 +12,14 @@
 </p>
 
 <p align="center">
-    <strong>Startup: ArtCollab </strong><br>
-    <strong>Producto: </strong>
+    <strong>Startup:  </strong><br>
+    <strong>Producto: ArtCollab </strong>
 </p>
 
 <div style="text-align:center;">
     <h3>Team Members:</h3>
     </div>
+<div style="text-align:center;>
+    | :------------ |:---------------:| -----:|
+</div>
 <br>
