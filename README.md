@@ -1,6 +1,4 @@
-<hr>
-
-# <center>COURSE PROJECT</center>
+# COURSE PROJECT
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
