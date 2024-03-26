@@ -40,8 +40,8 @@
             <td>U20221A359</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
+            <td>Huilca Chipana, Gustavo</td>
+            <td>U202213983</td>
         </tr>
     </table>
 </div>
