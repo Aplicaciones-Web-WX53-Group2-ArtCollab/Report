@@ -1,62 +1,13 @@
-# COURSE PROJECT
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+Nuestra startup surge del notorio negocio creciente de plataformas para compartir obras escritas en formatos digitales tales como libros y cómics. 
 
-<p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX53</strong><br>
-    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
-    <br>INFORME
-</p>
+Sin embargo, logramos notar que un sector que no ha sido abarcado son los libros ilustrados, por lo que buscamos crear un aplicativo web que sirva como medio para difundir este tipo de obras.
 
-<p align="center">
-    <strong>Startup:  </strong><br>
-    <strong>Producto: ArtCollab </strong>
-</p>
+Asimismo, las plataformas ya existentes no suelen brindar vías de apoyo a los artistas, lo que nosotros sí pensamos hacer, puesto que ellos son uno de los principales pilares de nuestra app.
 
-<div>
-    <h3 align="center">Team Members:</h3>
-    </div>
-<div>
-     <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Amaro Villanueva, Camila Elena</td>
-            <td>U202114248</td>
-        </tr>
-        <tr>
-            <td> Jave Diaz, Mathias Alejandro </td>
-            <td> U202212721</td>
-        </tr>
-        <tr>
-            <td>Dam Rubianes, Frida Sofia</td>
-            <td>U202218352</td>
-        </tr>
-        <tr>
-            <td>Cuadros Rodriguez, Juan Alejandro</td>
-            <td>U20221A359</td>
-        </tr>
-         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-    </table>
-</div>
-<br>
-<p align="center">
-    <strong>Marzo 2023</strong>
-</p>
-<br>
+### Misión
+Apoyar al crecimiento de los artistas al brindarles medios para compatir su portafolio, a la vez de impulsar la difusión de obras en formato escrito a tráves de la web.
 
-# Registro de Versiones del Informe
-| Versión  | Fecha  | Autor  | Descripción de la modificación  |
-| ------------ | ------------ | ------------ | ------------ |
-| TB1  |   | Todos los integrantes del equipo  | .  |
-<br>
-
-# Project Report Collaboration Insights
-TB1:
-<br>
+### Visión
+Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras destinadas a impulsar la divulgación de historias ilustradas.
