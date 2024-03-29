@@ -11,3 +11,127 @@ Apoyar al crecimiento de los artistas al brindarles medios para compatir su port
 
 ### Visión
 Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras destinadas a impulsar la divulgación de historias ilustradas.
+
+### 1.1.2. Perfiles de los integrantes del equipo
+<table border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Camila%20Amaro%20profile%20image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Camila Elena Amaro Villanueva
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Cuento con conocimientos de programación en el lenguaje C++, python y javascript. Además, entre mis habilidades puedo resaltar la responsabilidad y creatividad que poseo para aportar en los trabajos en equipo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        . 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        .
+        </td>
+    </tr>
+</table>
