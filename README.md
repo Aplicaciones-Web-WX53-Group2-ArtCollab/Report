@@ -179,9 +179,9 @@ Lugar de residencia: Lima, Perú
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista01-escritor.png?raw=true" alt="Entrevista 01 Segmento escritor">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/e73625553f5eebb077562938b7f6d55f790cfbd8/assets/images/entrevistas/entrevista01-escritor.png?raw=true" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EaZD_Deu2WBHsIhBeTtubWsBZ_4rfHc8D9TFMS1hP_ne7w?e=drEFv3
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERcrNV8AAPFIvQ9OLgmVTuoBWWRzW3ksxOwPMiHWdD-RZA?e=kRQzbt
 
 Resumen de la entrevista:
 
@@ -220,9 +220,9 @@ Lugar de residencia: Lima, Perú
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista01-lector.png?raw=true" alt="Entrevista 01 Segmento escritor">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/e73625553f5eebb077562938b7f6d55f790cfbd8/assets/images/entrevistas/entrevista01-lector.png?raw=true" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ETB6yD2rSCRFsdZKlUTRPakBLUXQpJ8vavxhSuXV17gDGg?e=Z6JH4K
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EQaRVTeL31dDgaUhd7OkOCsBAw42Xma7u0Mk9K4lVcsNFQ?e=MfL0W1
 
 Resumen de la entrevista:
 
