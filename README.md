@@ -93,6 +93,15 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Web-app-hero.png?raw=true" alt="Web App Page Desktop Hero">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/G%C3%A9neros.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/recien-llegadas.png?raw=true" alt="Web App Desktop Recien llegadas">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/artistas-populares.png?raw=true" alt="Web App Desktop artistas populares">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/footer-web-app.png?raw=true" alt="Web App Desktop Footer">
+
+Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping.
