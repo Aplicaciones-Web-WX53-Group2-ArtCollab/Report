@@ -86,6 +86,130 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
 </div>
 
 ### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        ArtCollab
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-artcollab.jpeg?raw=true" alt="ArtCollab" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Wattpad
+    <div style="text-align: center; margin-top: 30px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Webtoon
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" width="60px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Tapas
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-tapas.jpeg?raw=true" alt="Tapas" width="60px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Plataforma que permite la lectura y difusión de historias online. Posee autores tanto contratados como libres que publican sus historias a tráves de ella.</td>
+    <td colspan="1" valign="top">Aplicativo para la lectura y publicación de cómics digitales en el formato vertical. Posee autores tanto contratados como libres que publican sus historias por medio de ella, ambos teniendo la opción de generar ingresos. </td>
+    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos y de publicar la mercancía de sus historias a través de la tienda online.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Posee una gran fama entre los jóvenes y escritores. Se encuentra disponible en más de 50 idiomas. Posee su propia editorial donde publica las historias con mayores visualizaciones.</td>
+    <td colspan="1" valign="top">Número 1 en cuanto a cómics digitales se refiere y pionera en el formato de lectura vertical. Posee un acuerdo con Wattpad para la publicación de manera física. Se encuentra disponible en más de 8 idiomas Asimismo, posee una tienda online para algunas de sus historias oiginales.</td>
+    <td colspan="1" valign="top">Posee tanto novelas como cómics en una sola plataforma. Permite que los usuarios muestren su apoyo hacia los autores al donarles ellos mismos pequeñas cantidades. Además, cuenta con la opción de que los autores vendan sus mercancias por emdio de su tienda online. </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Público en general mayor de 13 años que este interesado en leer o publicar historias.</td>
+    <td colspan="1" valign="top">Abierto hacia el público de 13 años en adelante.</td>
+    <td colspan="1" valign="top">Dirigido a personas 13 años a más, pero para la sección madura se debe tener la edad mínima de mayoría de edad según cada país.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales y participación en eventos.</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales, participación en eventos y spots publicitarios.</td>
+    <td colspan="1" valign="top">Posee varias redes sociales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Plataforma móvil y web para la lectura y publicación de historias online. Posee autores libres y contratados.</td>
+    <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics online en formato vertical. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para algunos de sus cómics originales.</td>
+    <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics y novelas digitales. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para que los autores vendan mercancías de sus historias.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita, micropagos de monedas para la plataforma de entre 1.90 a 50.99 soles y planes de suscripciones de 4.99 y 7.49 dólares mensuales.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la plataforma de entre 0.99 a 9.99 dólares.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la paltaforma de entre 1.99 a 99.99 dólares.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store, Google Play y Huawei App Gallery.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Posee una gran cantidad de usuarios y funciona a manera de vitrina para que los autores se den a conocer más fácilmente a las editoriales, además de poseer su propia editorial.</td>
+    <td colspan="1" valign="top">Pionera en el formato de lectura vertical de cómics digitales y posee una gran comunidad de usuarios. Asimismo, tiene la opción de publicar en físico los cómics de sus autores originales.</td>
+    <td colspan="1" valign="top">Permite la publicación tanto de novelas como de cómics. Además, permite a los autores vender sus mercancías por medio de su tienda online.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">No cuenta con una opción para filtrar a las historias fanfics de ideas originales.</td>
+    <td colspan="1" valign="top">No permite desbloquear toda la historia de manera anticipada. Su tienda online solo esta limitada a ciertos cómics originales, por lo que debidoa  eso podría eprder varios usuarios potenciales.</td>
+    <td colspan="1" valign="top">La mayoría de las historias solo están disponibles en inglés y no cuenta con opciones publicación física.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Promocionar más a las historias con ideas originales dentro de la app ayudaría a la creación de más historias con contenido novedoso.</td>
+    <td colspan="1" valign="top">Incorporar características adicionales para promocionar a los autores libres dentro de la plataforma y darles la opción de tener sus cómics publicados en físico.</td>
+    <td colspan="1" valign="top">Aumentar la cantidad de idiomas para llegar a un mayor público objetivo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">El auge de las plataformas de cómics online puede disminuir los números de la plataforma.</td>
+    <td colspan="1" valign="top">La competencia de otras plataformas de lectura y publicación de cómics digitales podrían disminuir la relevancia de Webtoon en el mercado.</td>
+    <td colspan="1" valign="top">El no ser una plataforma tan internacional puede llevar a grandes desventajas.</td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
