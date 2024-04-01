@@ -64,3 +64,9 @@ TB1:
 
 
 ### 2.3 Needfinding
+
+### User Personas.
+<img src="assets/images/User-Persona-Autor.png"> 
+### User Task Matrix.
+### User Journey Mapping.
+
