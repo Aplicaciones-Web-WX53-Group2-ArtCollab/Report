@@ -81,12 +81,12 @@
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
    <h4> Login en version desktop </h4>
-   <img style="width:500px" src=""/>
+   <img style="width:500px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/landing-page/Login-Desktop.png"/>
 </div>
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
     <h4 style=" padding-top:10px;" > Login en version mobile </h4>
-   <img style=" width:200px" src=""/>
+   <img style=" width:200px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/landing-page/Login-Mobile.png"/>
 </div>
 
 
