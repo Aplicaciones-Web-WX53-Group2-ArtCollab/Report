@@ -152,3 +152,5 @@ Por esa razón, nosotros mediante una aplicación web de lectura y difusión de 
 #### What/Qué
 #### ¿Cuál es el problema?
 Los artistas no suelen tener medios de apoyo que les ayuden a promocionarse y a ser más visibles. Muchos de ellos solo generan ingresos a través del arte, por lo que les sería de gran ayuda poder hacerse más conocidos por la comunidad para poder recibir mayores comisiones y generar así más ingresos.
+
+### 1.2.2. Lean UX Process
