@@ -63,6 +63,28 @@ TB1:
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra aplicación para conectar ilustradores con escritores. Estas son:
+1. **Wattpad:**
+Es una plataforma en línea donde los usuarios pueden publicar, leer y compartir historias escritas por ellos mismos. Permite la lectura de historias de manera gratuita y por medio de suscripciones o micropagos. Es especialmente popular entre los jóvenes y los aficionados a la escritura, ya que ofrece una amplia gama de géneros y estilos literarios.
+
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" style="max-width: 400px; width: 25%;">
+</div>
+
+2. **Webtoons:**
+Es una plataforma digital que permite a los usuarios leer y publicar cómics en línea. Permite visualizar los cómics de manera gratuita o a través de micropagos. Se caracteriza por presentar los cómics en un formato de desplazamiento vertical, lo que facilita la lectura en dispositivos móviles. Asimismo, cuenta con una tienda online para sus autores originales, en la cual pueden vender mercancía relacionada a sus personajes.
+
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" style="max-width: 400px; width: 25%;">
+</div>
+
+3. **Tapas :**
+Es una plataforma donde publicar novelas y cómics de manera digital. Permite visualizar los cómics de manera gratuita o a través de micropagos, los últimos también con la opción de ser brindados como apoyo al autor de parte de los lectores. Además, posee una tienda digital donde los creadores de contenido pueden subir su mercancía para ser adquirida por el publico
+
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-tapas.jpeg?raw=true" alt="Tapas" style="max-width: 400px; width: 25%;">
+</div>
+
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
