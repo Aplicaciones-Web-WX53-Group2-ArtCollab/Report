@@ -64,26 +64,27 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Juan-Image.png?raw=true" alt="Juan Alejandro Cuadros Rodriguez" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            .
+            Juan Alejandro Cuadros Rodriguez
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        .
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        . 
+        Soy una persona comprometida, responsable y proactiva.  Los conocimientos que tengo se basan en los lenguajes de programación C++, HTML, CSS y Python. Además, tengo conocimientos en Análisis de datos, vulnerabilidades y explotación de datos. 
+Estoy comprometido con este trabajo y el equipo. 
         </td>
     </tr>
     <tr align="center">
