@@ -67,6 +67,9 @@ TB1:
 
 ### User Personas.
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-Persona-Autor.png"> 
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-Persona-Ilustrador.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-Persona-Lector.png">
+
 ### User Task Matrix.
 ### User Journey Mapping.
 
