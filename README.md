@@ -89,26 +89,26 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/Mathias-Jave-Diaz.png" alt="" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            .
+            Mathias Alejandro Jave Diaz
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        .
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        .
+         Mi nombre es Mathias Alejandro Jave Diaz, estoy cursando el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias aplicadas. Soy una persona responsable, solidaria, creativa, perseverante y comunicativa. Tengo conocimiento en en lenguajes de programación como c++, python, dart, js, c#, java, entre otros. Asimismo soy una persona apasionada por el desarrollo frontend, donde considero que cuento con un desempeño óptimo puesto a que manejo tecnologías como Tailwind.css y React.js. Considero que mi capacidad de aprendizaje autónomo para temas relacionados con el desarrollo web complementará las habilidades de mis compañeros en el desarrollo del trabajo.
         </td>
     </tr>
     <tr align="center">
