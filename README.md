@@ -222,3 +222,109 @@ obra</p></th>
 <hr>
 
 ## 3.4. Product Backlog.
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#Orden</th>
+<th>User Story ID</th>
+<th>Titulo</th>
+<th>Descripcion</th>
+<th>Prioridad</th>
+<th>Story Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>US01</td>
+<td>Inicio de Datos</td>
+<td>Como usuario quiero registrarme e iniciar sesión</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>US02</td>
+<td>Asignación de rol</td>
+<td>Como usuario quiero poder asignarme un rol para poder visualizar la
+pagina</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>US03</td>
+<td>Escribe tus libros</td>
+<td>Como escritor quiero una herramienta para escribir mis libros</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>US04</td>
+<td>Comunidad</td>
+<td>Como Usuario quiero estar en una comunidad para poder expresarme
+libremente</td>
+<td>Media</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>US05</td>
+<td>Colaborar otros escritores</td>
+<td>Como escritor quiero colaborar con otros escritores para escribir
+obras</td>
+<td>Baja</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>US06</td>
+<td>Ilustradores</td>
+<td>Como escritor deseo que mis obras sean ilustradas</td>
+<td>Media</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>US07</td>
+<td>Destaca tus libros</td>
+<td>Como escritor quiero destacar mis libros</td>
+<td>Baja</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>US08</td>
+<td>Reparto por Ingresos publicitarios</td>
+<td>Como escritor quiero generar ingresos</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>US09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>US10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
