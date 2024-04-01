@@ -71,5 +71,20 @@ TB1:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-Persona-Lector.png">
 
 ### User Task Matrix.
+    |                        | Marian Cornwell (Autor) | Javier Pérez (Ilustrador) | Jimena Fuentes (Lectora) |
+|------------------------|-------------------------|----------------------------|--------------------------|
+|                        | Frecuencia | Importancia | Frecuencia | Importancia | Frecuencia | Importancia |
+| Buscar ilustradores   | Media      | Alta        | -          | -            | -          | -            |
+| Negociación de términos en el contrato | Media | Alta | Alta | Alta | - | - |
+| Publicar el libro | Media | Alta | - | - | - | - |
+| Publicitar los libros | Alta | Alta | - | - | - | - |
+| Buscar ofertas de trabajo/proyectos | - | - | Alta | Alta | - | - |
+| Evaluar ofertas | - | - | Alta | Alta | - | - |
+| Presentar avances al empleador | - | - | Media | Alta | - | - |
+| Buscar autores | - | - | - | - | Alta | Alta |
+| Buscar Libros | - | - | - | - | Alta | Alta |
+| Comprar libros | - | - | - | - | Media | Alta |
+| Escribir reseñas | - | - | - | - | Media | Media |
+
 ### User Journey Mapping.
 
