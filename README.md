@@ -66,7 +66,7 @@ TB1:
 ### 2.3 Needfinding
 
 ### User Personas.
-<img src="assets/images/User-Persona-Autor.png"> 
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-Persona-Autor.png"> 
 ### User Task Matrix.
 ### User Journey Mapping.
 
