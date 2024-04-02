@@ -91,8 +91,8 @@
      <tr>
      <th>  ID:  </th>
      <th colspan="3"> Title:  </th>
-      <th> ID:  </th>
-     <th> Title:  </th>
+      <th>   </th>
+     <th>   </th>
      <th>  </th>
      <th>  </th>
      <th>  </th> 
