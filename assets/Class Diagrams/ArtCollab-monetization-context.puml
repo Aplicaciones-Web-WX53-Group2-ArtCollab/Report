@@ -1,0 +1,101 @@
+@startuml
+
+class Subscription{
+}
+
+class Reader{
+}
+
+class Writer{
+}
+
+class Illustrator{
+
+}
+
+class Plan{
+}
+
+class SubscriptionManager{
+}
+
+class Commission{
+}
+
+class Payment{
+}
+
+class SubscriptionHistory{
+}
+
+interface SubscriptionStrategy{
+}
+
+class ReaderSubscriptionStrategy{
+}
+
+class WriterSubscriptionStrategy{
+}
+
+class IllustratorSubscriptionStrategy{
+}
+
+class PaymentFacade{
+}
+
+abstract class Observer{
+}
+
+class SubscriptionObserver{
+}
+
+class PaymentObserver{
+}
+
+Observer <|-- SubscriptionObserver
+
+Observer <|-- PaymentObserver
+
+SubscriptionObserver --> Subscription
+
+PaymentObserver --> Payment
+
+PaymentFacade <-- Payment
+
+SubscriptionStrategy <-- SubscriptionManager
+
+SubscriptionStrategy <|-up- ReaderSubscriptionStrategy
+
+SubscriptionStrategy <|-up- WriterSubscriptionStrategy
+
+SubscriptionStrategy <|-up- IllustratorSubscriptionStrategy
+
+SubscriptionManager --> Subscription
+
+SubscriptionManager --> Reader
+
+SubscriptionManager --> Writer
+
+SubscriptionManager --> Illustrator
+
+Plan --> Subscription
+
+Commission -up-> Writer
+
+Commission --> Illustrator
+
+Commission <-- Reader
+
+Payment -up-> Subscription
+
+Payment --> Commission
+
+SubscriptionHistory --> Subscription
+
+
+
+
+
+
+
+@enduml
