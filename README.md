@@ -64,3 +64,14 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagram.
 ### 4.6.3. Software Architecture Component Diagram.
+<hr>
+
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+<hr>
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
