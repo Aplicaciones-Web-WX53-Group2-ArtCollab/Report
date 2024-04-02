@@ -70,8 +70,8 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <div style="display:flex; justify-content:center; flex-direction:column; text-align:center">
-   <p> A continuacion se detallara el modelo fisico realizado para esta eentrega, donde se considero los requerimientos necesarios para el negocio </p>
-   <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/data-base-design/ArtCollab_DataBase.png "> 
+   <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
+   <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/data-base-design/ArtCollab_DataBase.png " alt="ArtCollab Database Model"> 
 </div>
 
 ### 4.7.2. Class Dictionary
