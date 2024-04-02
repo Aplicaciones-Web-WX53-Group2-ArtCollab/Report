@@ -118,21 +118,21 @@ Estoy comprometido con este trabajo y el equipo.
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            .
+            Frida Sofia Dam Rubianes 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        .
+        Ingeniería de Software.
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        .
+            Me apasiona aprender nuevos lenguajes de programación y trabajar en equipo. Actualmente domino C++ y estoy estudiando Python, C# y  Java. Además, me caracterizo             por ser responsable, participativa y empática.
         </td>
     </tr>
 </table>
