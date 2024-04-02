@@ -52,6 +52,21 @@ class SubscriptionObserver{
 class PaymentObserver{
 }
 
+interface PlanStrategy{
+}
+
+class FreemiumPlanStrategy{
+}
+
+class PremiumPlanStrategy{
+}
+
+PlanStrategy <|-up- FreemiumPlanStrategy
+
+PlanStrategy <|-up- PremiumPlanStrategy
+
+PlanStrategy --> Plan
+
 Observer <|-- SubscriptionObserver
 
 Observer <|-- PaymentObserver
