@@ -89,10 +89,10 @@
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
      <tr>
-     <th>  </th>
-     <th  colspan="3">  </th>
-      <th>  </th>
-     <th>  </th>
+     <th>  ID:  </th>
+     <th colspan="3"> Title:  </th>
+      <th> ID:  </th>
+     <th> Title:  </th>
      <th>  </th>
      <th>  </th>
      <th>  </th> 
