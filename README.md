@@ -24,7 +24,7 @@
 <tr class="odd">
 <th>US01</th>
 <th>Inicio de Datos</th>
-<th>Como usuario quiero registrarme e iniciar sesión</th>
+<th>Como usuario quiero ingresar mis datos para registrarme e iniciar sesión</th>
 <th><p>Escenario 1: Acceso al registro de datos.</p>
 <p>Dado que me encuentro en la página de inicio</p>
 <p>Cuando el usuario le da clic en registrarse</p>
@@ -149,7 +149,7 @@ ilustradores</p>
 <tr class="odd">
 <th>US07</th>
 <th>Destaca tus libros</th>
-<th>Como escritor quiero destacar mis libros</th>
+<th>Como escritor quiero destacar mis libros para tener un mayor alcance</th>
 <th><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
