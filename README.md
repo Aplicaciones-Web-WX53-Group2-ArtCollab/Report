@@ -71,15 +71,19 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 ### 4.7.1. Class Diagrams
 
 User Bounded Context
+
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab_UserContext.png?raw=true" alt="User Bounded Context Class Diagram">
 
 Content Bounded Context
+
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-Content-Context.png?raw=true" alt="Content Bounded Context Class Diagram">
 
 Collaboration Bounded Context
+
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-colaboration-context.png?raw=true" alt="Collaboration Bounded Context Class Diagram">
 
 Monetization Bounded Context
+
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-monetization-context.png?raw=true" alt="Monetization Bounded Context Class Diagram">
 
 ### 4.7.2. Class Dictionary
