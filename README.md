@@ -64,14 +64,14 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil</p></td>
     <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Plataforma que permite la lectura y publicación de libros ilustrados digitales. Asimismo, ayuda a conectar escritores e ilustradores, para que trabajen como equipo en el dasarrollo de un libro. Ambos tienen la opción de poder generar ingresos.</td>
     <td colspan="1" valign="top">Plataforma que permite la lectura y difusión de historias online. Posee autores tanto contratados como libres que publican sus historias a tráves de ella.</td>
     <td colspan="1" valign="top">Aplicativo para la lectura y publicación de cómics digitales en el formato vertical. Posee autores tanto contratados como libres que publican sus historias por medio de ella, ambos teniendo la opción de generar ingresos. </td>
     <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos y de publicar la mercancía de sus historias a través de la tienda online.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Posee la novedosa funcionalidad de conectar escritores con artistas. Además, es la única app en el mercado actual en tener difundir libros ilustrados.</td>
     <td colspan="1" valign="top">Posee una gran fama entre los jóvenes y escritores. Se encuentra disponible en más de 50 idiomas. Posee su propia editorial donde publica las historias con mayores visualizaciones.</td>
     <td colspan="1" valign="top">Número 1 en cuanto a cómics digitales se refiere y pionera en el formato de lectura vertical. Posee un acuerdo con Wattpad para la publicación de manera física. Se encuentra disponible en más de 8 idiomas Asimismo, posee una tienda online para algunas de sus historias oiginales.</td>
     <td colspan="1" valign="top">Posee tanto novelas como cómics en una sola plataforma. Permite que los usuarios muestren su apoyo hacia los autores al donarles ellos mismos pequeñas cantidades. Además, cuenta con la opción de que los autores vendan sus mercancias por emdio de su tienda online. </td>
@@ -79,14 +79,14 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
     <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Abierto a público en general. Centrado especialmente en la población infantil y juvenil de entre 10 y 27 años.</td>
     <td colspan="1" valign="top">Público en general mayor de 13 años que este interesado en leer o publicar historias.</td>
     <td colspan="1" valign="top">Abierto hacia el público de 13 años en adelante.</td>
     <td colspan="1" valign="top">Dirigido a personas 13 años a más, pero para la sección madura se debe tener la edad mínima de mayoría de edad según cada país.</td>
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales y participación en eventos.</td>
     <td colspan="1" valign="top">Posee diversas redes sociales y participación en eventos.</td>
     <td colspan="1" valign="top">Posee diversas redes sociales, participación en eventos y spots publicitarios.</td>
     <td colspan="1" valign="top">Posee varias redes sociales.</td>
@@ -94,21 +94,21 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
   <tr>
     <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
     <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Aplicación web para la lectura y publicación de historias online. Posee autores y artistas que generan ganancias mediante los anuncios y vistas totales poseídas.</td>
     <td colspan="1" valign="top">Plataforma móvil y web para la lectura y publicación de historias online. Posee autores libres y contratados.</td>
     <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics online en formato vertical. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para algunos de sus cómics originales.</td>
     <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics y novelas digitales. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para que los autores vendan mercancías de sus historias.</td>
   </tr>
   <tr>
     <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita, micropagos de monedas para la plataforma de entre 1.90 a 45.90 soles y planes de suscripciones para artistas y escritores de 3.99 y 7.99 dólares mensuales respectivamente.</td>
     <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita, micropagos de monedas para la plataforma de entre 1.90 a 50.99 soles y planes de suscripciones de 4.99 y 7.49 dólares mensuales.</td>
     <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la plataforma de entre 0.99 a 9.99 dólares.</td>
     <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la paltaforma de entre 1.99 a 99.99 dólares.</td>
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Canal de distribución digital web.</td>
     <td colspan="1" valign="top">Canales de distribución digitales como web, App Store, Google Play y Huawei App Gallery.</td>
     <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
     <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
@@ -119,28 +119,28 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
   </tr>
   <tr>
     <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Implementa la funcionalidad de conectar escritores con artistas sin tener que salir de la plataforma.</td>
     <td colspan="1" valign="top">Posee una gran cantidad de usuarios y funciona a manera de vitrina para que los autores se den a conocer más fácilmente a las editoriales, además de poseer su propia editorial.</td>
     <td colspan="1" valign="top">Pionera en el formato de lectura vertical de cómics digitales y posee una gran comunidad de usuarios. Asimismo, tiene la opción de publicar en físico los cómics de sus autores originales.</td>
     <td colspan="1" valign="top">Permite la publicación tanto de novelas como de cómics. Además, permite a los autores vender sus mercancías por medio de su tienda online.</td>
   </tr>
   <tr>
     <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">No poseer una editorial propia para la publicación física de los libros.</td>
     <td colspan="1" valign="top">No cuenta con una opción para filtrar a las historias fanfics de ideas originales.</td>
     <td colspan="1" valign="top">No permite desbloquear toda la historia de manera anticipada. Su tienda online solo esta limitada a ciertos cómics originales, por lo que debidoa  eso podría eprder varios usuarios potenciales.</td>
     <td colspan="1" valign="top">La mayoría de las historias solo están disponibles en inglés y no cuenta con opciones publicación física.</td>
   </tr>
   <tr>
     <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Aumentar las estrategias de marketing para conseguri mayor cantidad de usuarios en el menor intervalo posible.</td>
     <td colspan="1" valign="top">Promocionar más a las historias con ideas originales dentro de la app ayudaría a la creación de más historias con contenido novedoso.</td>
     <td colspan="1" valign="top">Incorporar características adicionales para promocionar a los autores libres dentro de la plataforma y darles la opción de tener sus cómics publicados en físico.</td>
     <td colspan="1" valign="top">Aumentar la cantidad de idiomas para llegar a un mayor público objetivo.</td>
   </tr>
   <tr>
     <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top">.</td>
+    <td colspan="1" valign="top">Al ser una nueva plataforma en el mercado, cuenta con una gran desventaja para adquirir usuarios comparado a sus competidores.</td>
     <td colspan="1" valign="top">El auge de las plataformas de cómics online puede disminuir los números de la plataforma.</td>
     <td colspan="1" valign="top">La competencia de otras plataformas de lectura y publicación de cómics digitales podrían disminuir la relevancia de Webtoon en el mercado.</td>
     <td colspan="1" valign="top">El no ser una plataforma tan internacional puede llevar a grandes desventajas.</td>
