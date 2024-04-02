@@ -42,6 +42,8 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+
+#### Mock-up de la página principal
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Web-app-hero.png?raw=true" alt="Web App Page Desktop Hero">
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/G%C3%A9neros.png?raw=true" alt="Web App Desktop Generos">
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/populares.png?raw=true" alt="Web App Desktop Populares">
