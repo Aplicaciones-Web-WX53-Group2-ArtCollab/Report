@@ -87,4 +87,12 @@ TB1:
 | Escribir reseñas | - / - | - / - | Media / Media |
 
 ### User Journey Mapping.
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-journey-map-Autor.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/User-journey-map-Ilustrador.png">
+
+### Empathy Mapping.
+### As-is Scenario Mapping.
+### Ubiquitous Language.
+
+
 
