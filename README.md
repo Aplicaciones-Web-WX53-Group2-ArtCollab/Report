@@ -5,6 +5,13 @@
 <hr>
 
 ### 4.1.1. General Style Guidelines.
+### Brand Name
+El nombre del producto es ArtCollab, el cual cuenta con el siguiente logo:
+
+
+### Colores
+Esta es la gama de colores elegida.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 <hr>
