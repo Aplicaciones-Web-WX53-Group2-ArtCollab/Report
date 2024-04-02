@@ -113,7 +113,7 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+                        <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/FridaDam-Profile.jpg" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
