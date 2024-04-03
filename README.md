@@ -303,7 +303,7 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/037822b62daed66bc427bbe2a05bf8bc86ff1e4f/assets/images/entrevistas/entrevista01-ilustrador.png?raw=true" alt="Entrevista 01 Segmento ilustrador">
 
-Enlace de entrevista: 
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EevdKzDXimpKrbWS4WwtV1QBpkg6_4AXtaOIzK-2c6lJeA?e=fWEWi0
 
 Resumen de la entrevista:
 
