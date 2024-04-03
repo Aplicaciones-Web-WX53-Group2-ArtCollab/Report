@@ -260,6 +260,8 @@ Edad: 24 años
 
 Lugar de residencia: Lima, Perú
 
+Entrevistador: Gustavo Huilca Chipana
+
 Evidencia de la entrevista:
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/e73625553f5eebb077562938b7f6d55f790cfbd8/assets/images/entrevistas/entrevista01-escritor.png?raw=true" alt="Entrevista 01 Segmento escritor">
@@ -287,6 +289,40 @@ así como comisiones exclusivas de sus lectores.
 
 **Entrevista 1:**
 
+Nombres: Omar
+
+Apellidos: Fernández Araujo
+
+Edad: 50 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/037822b62daed66bc427bbe2a05bf8bc86ff1e4f/assets/images/entrevistas/entrevista01-ilustrador.png?raw=true" alt="Entrevista 01 Segmento ilustrador">
+
+Enlace de entrevista: 
+
+Resumen de la entrevista:
+
+Se entrevistó a Omar, un ilustrador de 50 años que actualmente se encuentra trabajando en la ciudad de Lima. 
+Actualmente, Omar promociona sus trabajos a través de su cuenta de Instagram y de Facebook, y nos comenta que le gustaría tener una plataforma especializada para promocionar sus servicios de ilustración.
+
+Nos comenta que en un principio le resultó difícil encontrar un espacio para publicitar sus servicios, pero que con el tiempo ha logrado hacerse un nombre en el mercado.
+Además, nos menciona que, al momento de aceptar comisiones a escritores, tiene muy en cuenta la comunicación constante, un buen entendimiento de la temática del libro y
+qué es lo que el escritor espera de él y sus servicios. También, comenta que el monto no es un factor tan determinante para él, pero que la seguridad del pago es muy importante.
+
+Sobre las herramientas online que le gustaría tener acceso, nos comenta que las funcionalidades de redes sociales como Instagram y Facebook le resultan muy útiles para promocionar sus trabajos,
+tales como un chat en vivo, videollamadas y una forma de compartir borradores y comentarios sobre su avance en el proyecto.
+Además, menciona que en el perfil de ilustrador le gustaría que sus clientes puedan encontrar su portafolio fácilmente y que le gustaría tener una sección donde pueda interactuar con los lectores de la app.
+
+Para finalizar, nos comenta que para que las historias nuevas o con pocos lectores tengan posibilidades de ser visualizadas dentro de la app, le gustaría que la plataforma ofrezca una opción de compartir
+sus trabajos en redes sociales a través de códigos QR y que se le dé la oportunidad de tener su perfil destacado en las búsquedas. Además, sobre la monetización de sus trabajos, 
+nos comenta que le gustaría establecer un sistema de compensación por su trabajo a través de comisiones. Finalmente, sobre la suscripción premium, nos menciona que preferiría que en las recomendaciones de escritores 
+dentro de la plataforma se le dé prioridad a los perfiles de los ilustradores que tengan más experiencia o más trabajos publicados, y que la suscripción premium pueda garantizar a los ilustradores
+una mayor protección de sus derechos de autor, ya que la piratería es un problema que le preocupa mucho.
 
 
 **Segmento lector:**
@@ -300,6 +336,8 @@ Apellidos: Masaveu Infante
 Edad: 24 años
 
 Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
