@@ -62,8 +62,35 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 <hr>
 
 ### 4.6.1. Software Architecture Context Diagram.
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
+
 ### 4.6.2. Software Architecture Container Diagram.
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4/container-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+
 ### 4.6.3. Software Architecture Component Diagram.
+
+API Rest Component Diagram:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
+
+User Bounded Context Component Diagram:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//userbc-component-diagram.png?raw=true" alt="User BC Component Diagram">
+
+Content Bounded Context Component Diagram:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//contentbc-component-diagram.png?raw=true" alt="Content BC Component Diagram">
+
+Collaboration Bounded Context Component Diagram:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//collaborationbc-component-diagram.png?raw=true" alt="Collaboration BC Component Diagram">
+
+Monetization Bounded Context Component Diagram:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//monetizationbc-component-diagram.png?raw=true" alt="Monetization BC Component Diagram">
+
 <hr>
 
 
