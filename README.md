@@ -22,6 +22,23 @@ Gama de colores elegida que va acorde al logo:
 <hr>
 
 ### 4.2.1. Organization System.
+El Sistema de Organización planteado tiene como objetivo facilitar la
+interacción entre el usuario y la aplicación web y garantizar todos los
+servicios que ofrece ArtCollab. Respecto a la organización visual del
+contenido será de forma jerárquica (visual hierarchy) la landing page
+para destacar elementos claves como el publicar o Iniciar sesión.
+
+Además, se utilizarán organización secuencial (step-by-step to
+accomplish) en procesos como el registro del usuario y configuración del
+perfil.
+
+En cuanto la organización matricial se aplicará filtros de búsqueda
+respecto a los géneros literarios o autor.
+
+También se usará esquemas de categorización por ejemplo la búsqueda de
+libros o autores donde los usuarios podrán ordenarlo de manera
+alfabética. La categorización de audiencias se va a dividir en tres por
+los roles del usuario como lector, escritor o ilustrador.
 ### 4.2.2. Labeling System.
 ### 4.2.3. SEO Tags and Meta Tags.
 ### 4.2.4. Searching Systems.
