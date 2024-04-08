@@ -260,6 +260,7 @@ etc.</p></th>
 <hr>
 
 ## 3.4. Product Backlog.
+https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF56/mi-tablero-de-trello
 <table>
 <colgroup>
 <col style="width: 13%" />
