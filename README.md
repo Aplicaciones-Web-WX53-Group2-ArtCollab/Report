@@ -64,7 +64,17 @@ sea por genero literario o autores. Además, de poder ordenar los
 resultados de manera alfabética.
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Search.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="500"/>
+
 ### 4.2.5. Navigation Systems.
+En el caso de la navegación en la aplicación web será de una manera
+sencilla y minimalista debido a que tiene diversas opciones de interés
+para el usuario.
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Navigation.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="1000"/>
+Tampoco nos olvidamos del lado Mobile en este caso tienes un menú
+desplegable donde tienes diversas opciones a elegir para volver a la
+página principal basta con apretar en el logo de ArtCollab
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/NavigationMobile.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="800"/>
+
 ## 4.3. Landing Page UI Design.
 <hr>
 
