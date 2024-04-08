@@ -55,6 +55,15 @@ previos
 Artista: Muestra los mejores artistas del momento en toda la plataforma
 ### 4.2.3. SEO Tags and Meta Tags.
 ### 4.2.4. Searching Systems.
+El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
+del usuario. La búsqueda digitada le va a redireccionar al libro o autor
+escrito del que esté interesado.
+
+Luego de la búsqueda se va a poder filtrar como el usuario lo desee ya
+sea por genero literario o autores. Además, de poder ordenar los
+resultados de manera alfabética.
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Search.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="500"/>
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
 <hr>
