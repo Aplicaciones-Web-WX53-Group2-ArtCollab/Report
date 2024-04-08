@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <strong>Startup:  </strong><br>
+    <strong>Startup: ImaginaTales </strong><br>
     <strong>Producto: ArtCollab </strong>
 </p>
 
