@@ -262,12 +262,12 @@ etc.</p></th>
 ## 3.4. Product Backlog.
 <table>
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 12%" />
+<col style="width: 18%" />
+<col style="width: 28%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -300,69 +300,87 @@ pagina</td>
 <tr class="odd">
 <td>3</td>
 <td>US03</td>
-<td>Escribe tus libros</td>
-<td>Como escritor quiero una herramienta para escribir mis libros</td>
+<td>Sube tus libros</td>
+<td>Como escritor quiero una plataforma para subir mis libros</td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>4</td>
 <td>US04</td>
-<td>Comunidad</td>
-<td>Como Usuario quiero estar en una comunidad para poder expresarme
-libremente</td>
+<td>Colaboración con Ilustradores</td>
+<td>Como escritor deseo que mis obras sean ilustradas</td>
 <td>Media</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>5</td>
 <td>US05</td>
-<td>Colaborar otros escritores</td>
-<td>Como escritor quiero colaborar con otros escritores para escribir
-obras</td>
-<td>Baja</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>US06</td>
-<td>Ilustradores</td>
-<td>Como escritor deseo que mis obras sean ilustradas</td>
-<td>Media</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>US07</td>
 <td>Destaca tus libros</td>
 <td>Como escritor quiero destacar mis libros</td>
 <td>Baja</td>
 <td>1</td>
 </tr>
 <tr class="even">
-<td>8</td>
-<td>US08</td>
+<td>6</td>
+<td>US06</td>
 <td>Reparto por Ingresos publicitarios</td>
 <td>Como escritor quiero generar ingresos</td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
+<td>7</td>
+<td>US07</td>
+<td>Ingreso por las ilustraciones</td>
+<td>Como ilustrador quiero tener una compensación justa</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>US08</td>
+<td>Configuracion de Perfil de Usuario</td>
+<td>Como usuario quiero configurar mi perfil para satisfacer mis
+gustos</td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
 <td>9</td>
 <td>US09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Desbloqueo de Capítulos</td>
+<td>Como usuario tener acceso al contenido exclusivo de la
+plataforma</td>
+<td>Media</td>
+<td>2</td>
 </tr>
 <tr class="even">
 <td>10</td>
 <td>US10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Dejar Comentarios</td>
+<td>Como usuario quiero poder comentar las obras para ayudar con mi
+feedback</td>
+<td>Baja</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>US11</td>
+<td>Flexibilidad al ilustrar</td>
+<td>Como ilustrador quiero tener flexibilidad creativa a la hora de
+dibujar</td>
+<td>Media</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>US12</td>
+<td>diversos géneros</td>
+<td>Como usuario quiero tener una gran cantidad de géneros literarios a
+mi disposición</td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
-
