@@ -30,6 +30,11 @@ Gama de colores elegida que va acorde al logo:
 <hr>
 
 ### 4.3.1. Landing Page Wireframe.
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/Hero.png?raw=true" alt="Landing Page Hero Wireframe">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/DESCUBRE.png?raw=true" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/COLABORA.png?raw=true" alt="Landing Page COLABORA Wireframe">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/Footer.png?raw=true" alt="Landing Page Footer Wireframe">
+
 ### 4.3.2. Landing Page Mockup.
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/Hero.png?raw=true" alt="Landing Page Desktop Hero">
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/DESCUBRE.png?raw=true" alt="Landing Page Desktop DESCUBRE">
