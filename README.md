@@ -40,6 +40,19 @@ libros o autores donde los usuarios podrán ordenarlo de manera
 alfabética. La categorización de audiencias se va a dividir en tres por
 los roles del usuario como lector, escritor o ilustrador.
 ### 4.2.2. Labeling System.
+Etiquetas:
+
+Home: Boton invisible que te redirige a la pagina principal en el logo
+
+Populares: Se muestran los libros que están en trending
+
+Suscripciones/Premiun: Son una suscripción mensual donde te brindan
+diferentes beneficios
+
+Monetizacion: Únicamente para los Escritores cumpliendo requisitos
+previos
+
+Artista: Muestra los mejores artistas del momento en toda la plataforma
 ### 4.2.3. SEO Tags and Meta Tags.
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
