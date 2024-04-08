@@ -377,6 +377,7 @@ Finalmente, nos comenta que estaría dispuesto a ser un usuario concurrente de n
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Pon aca el nombre de User" style="max-width: 400px; width: 100%;">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
