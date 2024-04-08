@@ -285,7 +285,7 @@ https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF5
 <td>1</td>
 <td>US01</td>
 <td>Inicio de Datos</td>
-<td>Como usuario quiero registrarme e iniciar sesión</td>
+<td>Como usuario quiero registrarme e ingresar mis datos para iniciar sesión</td>
 <td>Alta</td>
 <td>3</td>
 </tr>
