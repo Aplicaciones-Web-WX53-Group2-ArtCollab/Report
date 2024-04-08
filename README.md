@@ -148,6 +148,16 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+Nuestro enfoque principal como startup se basa en las siguientes estrategias y tácticas clave:
+
+- **Diferenciación de la plataforma:** Identificaremos y resaltaremos características únicas de tu plataforma, como una amplia variedad de géneros y estilos de ilustración, herramientas de colaboración creativa avanzadas, o una experiencia de usuario excepcionalmente intuitiva.
+
+- **Comunidad activa:** Fomentaremos una comunidad activa de escritores, ilustradores y lectores en tu plataforma, ofreciendo espacios para que compartan sus trabajos, interactúen entre sí y reciban retroalimentación constructiva.
+
+- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a tu público objetivo, como publicidad en redes sociales, colaboraciones con influencers y participación en eventos relevantes.
+
+- **Monetización creativa:** Exploraremos diferentes modelos de monetización, como distintos tipos de suscripciones premium, micropagos, publicidad no intrusiva y patrocinios, para diversificar los fuentes de ingresos y ofrecer opciones flexibles a tus usuarios.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
