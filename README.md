@@ -15,16 +15,17 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th>User Story ID</th>
+<th>Epic / Story ID</th>
 <th>Título</th>
 <th>Descripción</th>
 <th>Criterios de Aceptación</th>
 <th>Relación Epic ID</th>
 </tr>
 <tr class="odd">
-<th>US01</th>
+<th>E1-US01</th>
 <th>Inicio de Datos</th>
-<th>Como usuario quiero ingresar mis datos para registrarme e iniciar sesión</th>
+<th>Como usuario quiero registrarme e iniciar sesión para explorar la
+páginas</th>
 <th><p>Escenario 1: Acceso al registro de datos.</p>
 <p>Dado que me encuentro en la página de inicio</p>
 <p>Cuando el usuario le da clic en registrarse</p>
@@ -40,12 +41,13 @@ verificación enviado a mi correo</p>
 <p>Cuando el usuario coloque sus datos y le dé en iniciar sesión</p>
 <p>Entonces la página le redirige a la pantalla principal con el usuario
 ya logueado</p></th>
-<th>EP01</th>
+<th>1</th>
 </tr>
 <tr class="header">
-<th>US02</th>
+<th>E1-US02</th>
 <th>Asignación de rol</th>
-<th>Como usuario quiero poder asignarme un rol para poder visualiza</th>
+<th>Como usuario quiero poder asignarle un rol para poder visualizar la
+página</th>
 <th><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
 <p>Dado que el usuario se encuentra logueado en la página</p>
 <p>Cuando se desplace le aparecerá una ventana para que elija un rol
@@ -61,76 +63,27 @@ que haya escogido</p>
 <p>Cuando se desplace se le dirigiera a la página principal</p>
 <p>Entonces se le mostrará la página principal actualizada dependiendo
 al rol que haya escogido con nuevas herramientas.</p></th>
-<th>EP01</th>
+<th>1</th>
 </tr>
 <tr class="odd">
-<th>US03</th>
-<th>Escribe tus libros</th>
-<th>Como escritor quiero una herramienta para escribir mis libros</th>
+<th>E2-US03</th>
+<th>Sube tus libros</th>
+<th>Como escritor quiero una plataforma para subir mis libros</th>
 <th><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
-<p>Entonces se le abrirá una página aparte de escritora</p>
-<p>Escenario 2: Herramientas</p>
-<p>Dado que el escritor se encuentra en el apartado de creación</p>
-<p>Cuando le dé clic en empezar</p>
-<p>Entonces se le mostrará las diversas herramientas de fuente, estilos
-y edición</p>
-<p>Escenario 3:</p>
+<p>Entonces se le abrirá una página donde podrá subir su obra</p>
+<p>Escenario 2:</p>
 <p>Dado que el escritor terminó la obra</p>
 <p>Cuando le dé clic en publicar</p>
-<p>Entonces la obra será publicada</p></th>
-<th>EP02</th>
+<p>Entonces la obra será publicada y se verá en su portafolio</p></th>
+<th>2</th>
 </tr>
 <tr class="header">
-<th>US04</th>
-<th>Comunidad</th>
-<th>Como Usuario quiero estar en una comunidad para poder expresarme
-libremente</th>
-<th><p>Escenario 1: Comunidad</p>
-<p>Dado que el escritor se encuentra en la página principal</p>
-<p>Cuando le de clic a Comunidad</p>
-<p>Entonces se le mostrará la comunidad dependiendo su rol</p>
-<p>Escenario 2: Publicaciones</p>
-<p>Dado que el escritor se encuentra en la página de comunidad</p>
-<p>Cuando le dé clic a Publicaciones</p>
-<p>Entonces podrá interactuar, publicar y comentar estas.</p>
-<p>Escenario 3: Chats</p>
-<p>Dado que el escritor se encuentre en la página de comunidad habrá un
-apartado de chats</p>
-<p>Cuando le dé clic al botón chatear</p>
-<p>Entonces entrará a un chat general donde podrá chatear con otras
-personas en público o privado</p></th>
-<th>EP01</th>
-</tr>
-<tr class="odd">
-<th>US05</th>
-<th>Colaborar otros escritores</th>
-<th>Como escritor quiero colaborar con otros escritores para escribir
-obras</th>
-<th><p>Escenario 1: Comunidad</p>
-<p>Dado que el escritor se encuentra en la página principal</p>
-<p>Cuando le dé clic a Comunidad</p>
-<p>Entonces se le va a redirigir a una pestaña diferente</p>
-<p>Escenario 2: Comunidad</p>
-<p>Dado que el escritor se encuentra en la pestaña comunidad
-(escritores) podrá visualizar las publicaciones y los diversos rankings
-de escritores.</p>
-<p>Cuando elija alguno y le de conectar</p>
-<p>Entonces se le abrirá un chat donde el otro escritor le responderá
-primero</p>
-<p>Escenario 3: Conectar</p>
-<p>Dado que el escritor se encuentra en el chat con otro escritor</p>
-<p>Cuando ambos hayan llegado a un acuerdo, en el chat darán clic en
-colaborar</p>
-<p>Entonces ambos escritores tendrán acceso a una obra elegida o
-creada.</p></th>
-<th>EP02</th>
-</tr>
-<tr class="header">
-<th>US06</th>
-<th>Ilustradores</th>
-<th>Como escritor deseo que mis obras sean ilustradas</th>
+<th>E2-US04</th>
+<th>Colaboración con Ilustradores</th>
+<th>Como escritor quiero que mis obras sean ilustradas para
+mejorarlas</th>
 <th><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -144,12 +97,13 @@ ilustradores</p>
 <p>Dado que ambos llegaron a un acuerdo</p>
 <p>Cuando le den clic al botón acuerdo en el chat</p>
 <p>Entonces elegirás que obra poder darle acceso</p></th>
-<th></th>
+<th>2</th>
 </tr>
 <tr class="odd">
-<th>US07</th>
+<th>E3-US05</th>
 <th>Destaca tus libros</th>
-<th>Como escritor quiero destacar mis libros para tener un mayor alcance</th>
+<th>Como escritor quiero destacar mis libros para tener mayores
+visualizaciones</th>
 <th><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -165,12 +119,12 @@ monedas</p>
 <p>Cuando le clic en una obra específica y en destacar</p>
 <p>Entonces se le mostrará un monto y por cuánto tiempo se destacó la
 obra</p></th>
-<th>EP02</th>
+<th>3</th>
 </tr>
 <tr class="header">
-<th>US08</th>
+<th>E3-US06</th>
 <th>Reparto por Ingresos publicitarios</th>
-<th>Como escritor quiero generar ingresos</th>
+<th>Como escritor quiero generar ingresos para mejorar mis libros</th>
 <th><p>Escenario 1: Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
@@ -186,28 +140,112 @@ obra</p></th>
 <p>Entonces se le mostrará un mensaje de bienvenida donde recibirá un
 50% de ingreso neto por los anuncios mostrados cuando leen la
 obra</p></th>
-<th>EP02</th>
+<th>3</th>
 </tr>
 <tr class="odd">
-<th>US09</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th>E5-US07</th>
+<th>Ingreso por las ilustraciones</th>
+<th>Como ilustrador quiero tener una compensación justa para poder
+invertir en mis dibujos</th>
+<th><p>Escenario 1: Acuerdo Mutuo</p>
+<p>Dado que el ilustrador fue contactado por el escritor</p>
+<p>Cuando ambas partes lleguen a un acuerdo se dará a una
+colaboración</p>
+<p>Entonces cuando se termine el trabajo acordaron un pago de manera
+externa</p>
+<p>Escenario 2: Fecha de Pago</p>
+<p>Dado que el ilustrador terminó sus ilustraciones pendientes</p>
+<p>Cuando le comente a su colaborador (Escritor)</p>
+<p>Entonces se le pagará por un medio externo</p></th>
+<th>5</th>
 </tr>
 <tr class="header">
-<th>US10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th>E1-US08</th>
+<th>Configuracion de Perfil de Usuario</th>
+<th>Como usuario quiero configurar mi perfil para satisfacer mis
+gustos</th>
+<th><p>Escenario 1: Ingresar al perfil</p>
+<p>Dado que el usuario se encuentra en la página principal</p>
+<p>Cuando le de click en su perfil</p>
+<p>Entonces se le abrirá su perfil</p>
+<p>Escenario 2: Configuración de perfil</p>
+<p>Dado que se encuentra en su perfil</p>
+<p>Cuando le de click en Configuración</p>
+<p>Entonces podrá configurar su perfil en aspectos estetica, finanzas y
+portafolio</p></th>
+<th>1</th>
 </tr>
 <tr class="odd">
-<th>US11</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th>E4-US09</th>
+<th>Desbloqueo de Capítulos</th>
+<th>Como usuario quiero tener acceso al contenido exclusivo de la
+plataforma para ver mas capitulos</th>
+<th><p>Escenario 1: Finanzas</p>
+<p>Dado que el usuario se encuentra en la página principal</p>
+<p>Cuando le de clic al apartado de monedas</p>
+<p>Entonces se le mostrará el valor de las monedas</p>
+<p>Escenario 2:Monedas</p>
+<p>Dado que el usuario se encuentra en el apartado de monedas</p>
+<p>Cuando elija cuántas quiere y elija el modo de pago</p>
+<p>Entonces se le redirige a una pestaña de pago de su elección</p>
+<p>Escenario 3: Pago</p>
+<p>Dado que el usuario pago y se le depositó las monedas</p>
+<p>Cuando vaya al libro a desbloquear los nuevos capítulos cuando le de
+clic en desbloquear</p>
+<p>Entonces se le desbloqueara el capítulo</p></th>
+<th>4</th>
+</tr>
+<tr class="header">
+<th>E4-US10</th>
+<th>Dejar Comentarios</th>
+<th>Como usuario quiero poder comentar las obras para ayudar con mi
+feedback</th>
+<th><p>Escenario 1: Escoge el libro</p>
+<p>Dado que el usuario se encuentra en la página principal</p>
+<p>Cuando le de click en su perfil</p>
+<p>Entonces podrá visualizar sus libros recién leídos</p>
+<p>Escenario 2: Reseña</p>
+<p>Dado que el usuario se encuentra en el libro seleccionado</p>
+<p>Cuando le de clic en el apartado de “dejar comentarios”</p>
+<p>Entonces podrá escribir su comentario y publicarlo</p></th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>E5-US11</th>
+<th>Flexibilidad al ilustrar</th>
+<th>Como ilustrador quiero tener flexibilidad creativa a la hora de
+dibujar para tener un mejor rendimiento</th>
+<th><p>Escenario 1: Añade Flexibilidad</p>
+<p>Dado que el ilustrador se encuentra en la página principal</p>
+<p>Cuando le de clic a perfil</p>
+<p>Entonces podrá visualizar su perfil</p>
+<p>Escenario 2: perfil flexible</p>
+<p>Dado que el ilustrador configuración de perfil</p>
+<p>Cuando le de clic en editar su perfil</p>
+<p>Entonces podrá elegir editar sus preferencias por la flexibilidad
+creativa</p>
+<p>Escenario 3: Creatividad</p>
+<p>Dado que los escritores revisen tu perfil</p>
+<p>Cuando le den clic a preferencias</p>
+<p>Entonces podrán visualizar tu preferencia por la flexibilidad
+creativa</p></th>
+<th>5</th>
+</tr>
+<tr class="header">
+<th>E4-US12</th>
+<th>Diversos géneros literarios</th>
+<th>Como usuario quiero tener una gran cantidad de géneros literarios
+para tenerlos a mi disposición</th>
+<th><p>Escenario 1: Opción géneros</p>
+<p>Dado que me encuentro en la página principal</p>
+<p>Cuando le de clic a ver catalogo</p>
+<p>Entonces me redirigirá al catálogo literario de la página</p>
+<p>Escenario 2: Filtración</p>
+<p>Dado que me encuentro en el catálogo literario de la página</p>
+<p>Cuando le de clic a filtrar</p>
+<p>Entonces lo podré filtrar por género, número de páginas, popularidad,
+etc.</p></th>
+<th>4</th>
 </tr>
 </thead>
 <tbody>
