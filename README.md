@@ -110,6 +110,38 @@ Donde:
 - scope: Indica dónde se realizó el commit en el proyecto. Ayuda a dar dar el contexto y alcance del cambio. Es opcional.
 - description: Menciona de manera breve los cambios en el código. 
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
+- Se debe declarar el tipo de documento al principio del archivo con <!DOCTYPE html>.
+- Indicar los meta tags 
+- El elemento &lt;title&gt; se debe ubicar entre las etiquetas < head >.
+- La identación es de dos espacios a la vez.
+- Usar solo minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
+- Encerrar entre comillas a los atributos de los elementos HTML.
+- Cada elemento HTML debe tener su etiqueta de cierre.
+- Evitar largas líneas de código.
+- Indicar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
+
+Para el desarrollo del código en JavaScript, se eligió la convención Google Java Style Guide. Algunas de estas convenciones son: 
+- Cada línea de código debe terminar con un punto y coma (;).
+- Tanto las variables como funciones deben estar en Camelcase.
+- Los valores strings deben estar entre comillas simples.
+- La identación del contenido es de +2.
+- Se debe evitar definir variables con la sentencia *var*. En su lugar, se recomienda *let* y *const*.
+
+Para el desarrollo de los aceptance test con el leguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:
+- Para describir los pasos del escenario, utilizar las palabras "Give", "When", "Then" y "And".
+- Identar los pasos que comienzan con "And".
+- Agregar líneas entre pasos.
+- Encerrar entre comillas simples los parámetros.
+- Usar un comentario separador y dos líneas en blanco entre cada escenario.
+
+Para el desarrollo del código en Java, se seleccionó como convención estándar el Google Java Style Guid. Entre las más importantes destacan:
+- Los nombres de los paquetes deben estar en minúsculas, las clases se escriben usando UpperCamelCase y lo métodos con lowerCamelCase.
+- No se tabula para las indentaciones. Debe haber 2 o 4 espacios.
+- Dividir las líneas de código de más de 100 caracteres.
+- Los archivos Java deben tener el mismo nombre de la clase que contienen y está debe ser única y pública. 
+- Luego de cada declaración, se hace un salto de línea.
+
 ### 5.1.4. Software Deployment Configuration.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
