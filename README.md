@@ -108,7 +108,7 @@ Versión Mobile:
 <br>
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/COLABORA-Mobile.png?raw=true" alt="Landing Page Mobile COLABORA Wireframe">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer Wireframe">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/images/landing-page/Wireframes/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer Wireframe">
 
 ### 4.3.2. Landing Page Mockup.
 
@@ -226,17 +226,17 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4/container-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/component-diagram.png?raw=true" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
 API Rest Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
 
 User Bounded Context Component Diagram:
 
@@ -274,7 +274,7 @@ Collaboration Bounded Context
 
 Monetization Bounded Context
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-monetization-context.png?raw=true" alt="Monetization Bounded Context Class Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization Bounded Context Class Diagram">
 
 ### 4.7.2. Class Dictionary
 <hr>
