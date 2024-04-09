@@ -8,13 +8,13 @@
 ### Brand Name
 El nombre del producto es ArtCollab, el cual cuenta con el siguiente logo:
 <div style="text-align: center;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-artcollab.jpeg?raw=true" alt="Wattpad" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/logo-artcollab.jpeg?raw=true" alt="Art Collab Logo" style="max-width: 400px; width: 25%;">
 </div>
 
 ### Colores
 Gama de colores elegida que va acorde al logo:
 <div style="text-align: center;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Paleta-de-colores.png?raw=true" alt="Wattpad">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Paleta-de-colores.png?raw=true" alt="Color Palette">
 </div>
 
 ### 4.1.2. Web Style Guidelines.
