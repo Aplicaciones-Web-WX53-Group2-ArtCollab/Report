@@ -370,6 +370,39 @@ Asimismo, en el caso de un perfil para ilustrador ella nos menciona que le serí
 
 Por último, nos expresó que se encuentra de acuerdo con pagar un monto para que su perfil se destaque en la página principal del aplicativo, debido a que considera esto como una inversión para su trabajo.
 
+
+**Entrevista 3:**
+
+Nombre: Aaron
+
+Apellido: Acuña
+
+Edad: 22 años
+
+Lugar de residencia: La Victoria, Lima Peru
+
+Entrevistador: Mathias Jave
+
+Evidencia de la entrevista:
+
+Se entrevisto a Aaron Acuña, un joven de 22 años que trabaja como ilustrador independiente por medio de las redes sociales.
+
+El menciona que particularmente no considera complicado contactar a otros escritores a traves de las redes sociales mas famosas, puesto a que existen comunidades en plataformas como facebook, instagram o twitter.
+
+Sin embargo, nos menciona de que en su caso considera importante evaluar la trayectoria artistica de un escritor antes de entablar una relacion profesional, por otro lado tambien destaca la comunicacion continua como una de las grandes necesidades de todo artista.
+
+Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor numero de alcance dentro la plataforma, pues considera que esto le brindaria grandes beneficios.
+
+Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
+
+
+Evidencia de la entrevista: 
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
+
+
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
+
 **Segmento lector:**
 
 **Entrevista 1:**
@@ -403,6 +436,9 @@ y tener acceso a contenido exclusivo de los autores. Además, nos menciona que n
 Sobre los beneficios de un plan premium, nos comenta que considera importante incluir funciones innovadoras y que estaría dispuesto a pagar por ellas. Le gustaría que este plan incluya
 
 Finalmente, nos comenta que estaría dispuesto a ser un usuario concurrente de nuestra plataforma, ya que le parece interesante la propuesta y le gustaría tener acceso a contenido exclusivo de artistas emergentes.
+
+
+
 
 
 ### 2.2.3 Análisis de entrevistas.
