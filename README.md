@@ -163,7 +163,6 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/PublicarLibro.png"/>
 
 <h4> User goal: Editar Libros </h4>
-
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 
