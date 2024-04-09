@@ -134,6 +134,86 @@ Versión Mobile:
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
+
+<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/InicioSesion.png" />
+
+<h4> <strong> Descripcion: </strong> </h4>
+
+Al iniciar la aplicación, el usuario se encuentra en la página de opciones, donde puede iniciar sesión mediante correo electrónico o las plataformas de Google y Facebook.
+El usuario también puede registrar una nueva cuenta utilizando su correo electrónico o las plataformas mencionadas anteriormente. En caso de olvidar su contraseña, el usuario tiene la opción de recuperarla utilizando su correo electrónico.
+
+
+<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarLibro.png" />
+
+<h4> <strong> Descripcion: </strong> </h4>
+ Cuando el usuario visualiza sus historias en su portafolio personal, puede editarlas. Al hacer clic en "editar", puede modificar el contenido de las historias, incluyendo el texto, las imágenes y otros elementos. Las historias se organizan en series. El usuario puede editar las series de una historia, añadiendo, eliminando o modificando las existentes. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su portafolio personal.
+
+
+<h4> <strong> User goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/PublicarLibro.png"/>
+
+<h4> <strong> Descripcion: </strong> </h4>
+El usuario puede crear una nueva historia desde su portafolio personal.Al crear una nueva historia, el usuario debe proporcionar los detalles correspondientes, como el título, la descripción, el género, etc.Una vez que la historia tenga los detalles básicos, el usuario puede agregar series a la misma. Cada serie representa una parte o capítulo de la historia. El usuario puede editar las series de la historia, añadiendo, eliminando o modificando las existentes. Una vez que la historia esté completa, el usuario puede publicarla para que otros usuarios puedan verla y leerla.
+
+<h4> <strong> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IniciarSala.png" />
+<h4> <strong> Descripcion: </strong> </h4>
+
+La plataforma ofrece una función de recomendación de artistas segun los intereses del usuario. Una vez que el usuario encuentra un artista que le interesa, puede contactarlo directamente desde la plataforma. Al establecer contacto con un artista, se crea una sala de chats privada donde ambos usuarios pueden comunicarse.
+
+<h4> <strong> User goal, usuario del tipo ilustrador edita su perfil  </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilArtista.png"/>
+<h4> <strong> Descripcion: </strong> </h4>
+
+Al iniciar sesion y encontrase dentro de la pantalla principal, el usuario del tipo ilustrador visualiza la opción de editar perfil. Al darle click puede editar su perfil profesional, posteriormente al guardar los cambios estos se actualizan en su perfil.
+
+
+
+<h4> <strong> User goal, usuario del tipo escritor edita su perfil  </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilEscritor.png"/>
+
+<h4> <strong> Descripcion: </strong> </h4>
+Los usuarios del tipo escritor también pueden editar su perfil profesional desde la pantalla principal de la aplicación.Al editar su perfil, el usuario puede modificar su información profesional, como su nombre, biografía, portafolio, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su perfil.
+
+
+<h4> <strong> User goal, usuario busca un libro segun su popularidad y género  </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/BuscarLibros.png"/>
+
+<h4> <strong> Descripcion: </strong> </h4>
+ Al iniciar la aplicación, el usuario se encuentra en la pantalla principal. La pantalla principal muestra una selección de los libros más populares de la plataforma. El usuario puede utilizar filtros de búsqueda para encontrar libros según su género de preferencia. La plataforma muestra una lista de resultados de búsqueda que coinciden con los criterios del usuario.
+
+<h4> <strong> User goal: usuario edita el perfil de cuenta </strong>  </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarCuenta.png"/>
+<h4> <strong> Descripcion: </strong> </h4>
+El usuario puede editar su perfil de cuenta desde la pantalla principal de la aplicación. Al editar su perfil de cuenta, el usuario puede modificar su información personal, como su nombre, correo electrónico, contraseña, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su cuenta.
+
+<h4> <strong> User goal, usuario visualiza las comisiones obtenidas por cada historia </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IngresosObtenidos.png"/>
+<h4> <strong> Descripcion: </strong> </h4>
+Al encontrarse dentro de su portafolio personal el usuario visualiza sus obras publicadas, al seleccionar la opción
+de editar la historia visualiza los detalles de su historia, posteriormente visualiza tres opciones, editar detalles de la historia, editar tabla de contenido y visualizar los ingresos obtenidos. Al seleccionar la opción de ver ingresos obtenidos, donde puede visualizar los ingresos obtenidos por una historia en particular.
+
+
+<h4> <strong> User goal: usuario visualiza los planes de suscripción </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Suscripcion.png"/>
+<h4> <strong> Descripcion: </strong> </h4>
+Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver planes de suscripción, luego selecciona la opción mencionada previamente y visualiza todos los planes disponibles.
+
+
+
+<h4> <strong> User goal: usuario visualiza el sistema de monetización </strong> </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Monetizacion.png"/>
+<h4> <strong> Descripcion: </strong> </h4>
+Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver los sistemas de monetización, posteriomente selecciona la opción mencionada previamente y visualiza todas las opciones que ofrece la aplicación.
+
+
+
+
 ### 4.4.3. Web Applications Mock-ups
 
 #### Mock-up de la página principal
@@ -184,37 +264,37 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/3042a7f1-cfbd-49ad-bb1d-7d5b1e8f9c67/edit?viewport_loc=248%2C38%2C5260%2C2976%2C0_0&invitationId=inv_faedf934-db22-495f-9b16-9d38cb444726
 
 
-<h4> User goal: Inicio de Sesion </h4>
+<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/InicioSesion.png"/>
 
-<h4> Use goal: Publicar Libros </h4>
+<h4> <strong> UUser goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/PublicarLibro.png"/>
 
-<h4> User goal: Editar Libros </h4>
+<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
-<h4> User goal: Iniciar una sala de chat </h4>
+<h4> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/Userflow-diagrams/IniciarSala.png"/>
 
-<h4> User goal: Editar perfil de ilustrador </h4>
+<h4> User goal, usuario del tipo ilustrador edita su perfil </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilArtista.png"/>
 
-<h4> User goal: Editar perfil de escritor </h4>
+<h4> User goal, usuario del tipo escritor edita su perfil</h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilEscritor.png"/>
 
-<h4> User goal: Buscar un libro </h4>
+<h4> User goal, usuario busca un libro segun su popularidad y género  </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/BuscarLibros.png"/>
 
-<h4> User goal: Editar perfil de cuenta </h4>
+<h4> User goal: usuario edita el perfil de cuenta </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarCuenta.png"/>
 
-<h4> Uset goal: Ver ingresos obtenidos por obra </h4>
+<h4>  User goal, usuario visualiza las comisiones obtenidas por cada historia </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/ComisionesObras.png"/>
 
-<h4> User goal: Ver planes de suscripción </h4>
+<h4> User goal: usuario visualiza los planes de suscripción </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/Suscripcion.png"/>
 
-<h4> User goal: Ver sistemas de monetización </h4>
+<h4> User goal: usuario visualiza el sistema de monetización </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/Monteizacion.png"/>
 
 
