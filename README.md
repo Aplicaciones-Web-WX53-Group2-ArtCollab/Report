@@ -16,7 +16,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
 <table border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Camila%20Amaro%20profile%20image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/Camila%20Amaro%20profile%20image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -40,7 +40,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Gustavo-Huilca-Chipana.png?raw=true" alt="Gustavo Huilca Chipana" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/Gustavo-Huilca-Chipana.png?raw=true" alt="Gustavo Huilca Chipana" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -64,7 +64,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Juan-Image.png?raw=true" alt="Juan Alejandro Cuadros Rodriguez" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/Juan-Image.png?raw=true" alt="Juan Alejandro Cuadros Rodriguez" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -89,7 +89,7 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/Mathias-Jave-Diaz.png" alt="" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/Mathias-Jave-Diaz.png?raw=true" alt="" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -113,7 +113,7 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/FridaDam-Profile.jpg" alt=""  style="margin-bottom: 5px;" width="600"/>
+                        <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/FridaDam-Profile.jpg?raw=true" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
