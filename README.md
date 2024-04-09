@@ -177,6 +177,9 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <h4> User goal: Buscar un libro </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/BuscarLibros.png"/>
 
+<h4> User goal: Editar perfil de cuenta </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarCuenta.png"/>
+
 
 ## 4.5. Web Applications Prototyping.
 <hr>
