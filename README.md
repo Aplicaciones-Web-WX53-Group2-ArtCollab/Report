@@ -183,6 +183,12 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <h4> Uset goal: Ver ingresos obtenidos por obra </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/ComisionesObras.png"/>
 
+<h4> User goal: Ver planes de suscripción </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/Suscripcion.png"/>
+
+<h4> User goal: Ver sistemas de monetización </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/Monteizacion.png"/>
+
 
 ## 4.5. Web Applications Prototyping.
 <hr>
