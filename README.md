@@ -166,7 +166,13 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 <h4> User goal: Iniciar una sala de chat </h4>
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Userflow-diagrams/InicarSala.png"
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Userflow-diagrams/InicarSala.png"/>
+
+<h4> User goal: Editar perfil de ilustrador </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilArtista.png"/>
+
+<h4> User goal: Editar perfil de escritor </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilEscritor.png"/>
 
 
 ## 4.5. Web Applications Prototyping.
