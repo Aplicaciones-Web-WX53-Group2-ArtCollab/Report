@@ -93,7 +93,7 @@ TB1:
 
 ### Empathy Mapping.
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png">
-
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Ilustrador.png">
 
 ### As-is Scenario Mapping.
 ### Ubiquitous Language.
