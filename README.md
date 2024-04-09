@@ -89,6 +89,7 @@ TB1:
 ### User Journey Mapping.
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Autor.png">
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Ilustrador.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Lector.png">
 
 ### Empathy Mapping.
 ### As-is Scenario Mapping.
