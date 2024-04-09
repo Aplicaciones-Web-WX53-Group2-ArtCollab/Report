@@ -17,6 +17,17 @@ Gama de colores elegida que va acorde al logo:
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Paleta-de-colores.png?raw=true" alt="Color Palette">
 </div>
 
+### Tipografía
+Elegimos esta fuente porque es legible dentro de un entorno móvil y web, además de no ser una tan frecuentemente usada , por lo que nos genera una mayor diferencia frente a nuestra competencia
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-1.png?raw=true" alt="Tipografía 1">
+</div>
+
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-2.png?raw=true" alt="Tipografía 2">
+</div>
+
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 <hr>
