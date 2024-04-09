@@ -252,7 +252,7 @@ Collaboration Bounded Context Component Diagram:
 
 Monetization Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//monetizationbc-component-diagram.png?raw=true" alt="Monetization BC Component Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization Bounded Context Class Diagram">
 
 <hr>
 
@@ -274,7 +274,7 @@ Collaboration Bounded Context
 
 Monetization Bounded Context
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization Bounded Context Class Diagram">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-monetization-context.png?raw=true" alt="Monetization Bounded Context Class Diagram">
 
 ### 4.7.2. Class Dictionary
 <hr>
