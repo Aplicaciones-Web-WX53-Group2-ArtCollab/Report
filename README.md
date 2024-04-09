@@ -385,6 +385,13 @@ Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
 
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
+
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
+
+Resumen de la entrevista:
+
 Se entrevisto a Aaron Acuña, un joven de 22 años que trabaja como ilustrador independiente por medio de las redes sociales.
 
 El menciona que particularmente no considera complicado contactar a otros escritores a traves de las redes sociales mas famosas, puesto a que existen comunidades en plataformas como facebook, instagram o twitter.
@@ -396,12 +403,9 @@ Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor n
 Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
 
 
-Evidencia de la entrevista: 
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
 
 
 
-Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
 
 **Segmento lector:**
 
@@ -457,7 +461,10 @@ Entrevistador: Mathias Jave
 Evidencia de la entrevista:
  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png" alt="Entrevista 03 Segmento Lector"/>
 
+
  Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ 
+ Resumen de la entrevista: 
 
  Se entrevisto a Mauricio,un joven de 22 años que actualmente se encuentra estudiando la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas en la ciudad de Lima.
 
