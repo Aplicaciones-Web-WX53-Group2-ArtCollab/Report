@@ -5,21 +5,21 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 Es una plataforma en línea donde los usuarios pueden publicar, leer y compartir historias escritas por ellos mismos. Permite la lectura de historias de manera gratuita y por medio de suscripciones o micropagos. Es especialmente popular entre los jóvenes y los aficionados a la escritura, ya que ofrece una amplia gama de géneros y estilos literarios.
 
 <div style="text-align: center;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-wattpad.png?raw=true" alt="Wattpad" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Webtoons:**
 Es una plataforma digital que permite a los usuarios leer y publicar cómics en línea. Permite visualizar los cómics de manera gratuita o a través de micropagos. Se caracteriza por presentar los cómics en un formato de desplazamiento vertical, lo que facilita la lectura en dispositivos móviles. Asimismo, cuenta con una tienda online para sus autores originales, en la cual pueden vender mercancía relacionada a sus personajes.
 
 <div style="text-align: center;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-webtoons.png?raw=true" alt="Webtoon" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Tapas :**
 Es una plataforma donde publicar novelas y cómics de manera digital. Permite visualizar los cómics de manera gratuita o a través de micropagos, los últimos también con la opción de ser brindados como apoyo al autor de parte de los lectores. Además, posee una tienda digital donde los creadores de contenido pueden subir su mercancía para ser adquirida por el publico
 
 <div style="text-align: center;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-tapas.jpeg?raw=true" alt="Tapas" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-tapas.jpeg?raw=true" alt="Tapas" style="max-width: 400px; width: 25%;">
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -40,24 +40,24 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
         ArtCollab
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-artcollab.jpeg?raw=true" alt="ArtCollab" width="60px">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/logo-artcollab.jpeg?raw=true" alt="ArtCollab" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Wattpad
     <div style="text-align: center; margin-top: 30px;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Webtoon
       <div style="text-align: center; margin-top: 10px;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" width="60px">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-webtoons.png?raw=true" alt="Webtoon" width="60px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Tapas
       <div style="text-align: center; margin-top: 10px;">
-                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/logo-tapas.jpeg?raw=true" alt="Tapas" width="60px">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-tapas.jpeg?raw=true" alt="Tapas" width="60px">
             </div>
     </td>
   </tr>
@@ -348,7 +348,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista02-ilustrador.png?raw=true" alt="Entrevista 02 Segmento ilustrador">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista02-ilustrador.png?raw=true" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ER7c3WWPRA5AjihjBObrqGEBXs0lQ9PRBNwEhbDPXaaJxw
 
@@ -385,7 +385,7 @@ Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
 
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Mathi/entrevista03-ilustrador.png?raw=true" alt="Entrevista 03 Segmento Ilustrador" />
 
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
@@ -459,7 +459,7 @@ Lugar de residencia: San Miguel, Lima Perú
 Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
- <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png" alt="Entrevista 03 Segmento Lector"/>
+ <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Mathi/entrevista03-lector.png?raw=true" alt="Entrevista 03 Segmento Lector"/>
 
 
  Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
