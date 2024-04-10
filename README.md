@@ -436,19 +436,19 @@ Evidencia de la entrevista:
 ### 2.2.3 Análisis de entrevistas.
 <TABLE BORDER>
 	<TR>
-		<TD COLSPAN = 2>
+		<TD COLSPAN = 2 align=center>
 
 **Características**</TD>
 
-<TD>
+<TD align=center>
 
 **Escritor**</TD> 
 
-<TD>
+<TD align=center>
 
 **Ilustrador**</TD> 
 
-<TD>
+<TD align=center>
 
 **Lector**</TD>
 	
