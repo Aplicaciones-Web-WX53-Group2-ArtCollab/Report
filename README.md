@@ -234,15 +234,77 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
      <tr>
-     <th>  </th>
-     <th colspan="3"> </th>
-      <th>   </th>
-     <th>   </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> EP1-US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section  </th>
+     <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
+     <th> 0.3  </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
    </tr>
+    <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3">  Barra de navegación en la Landing Page  </th>
+      <th> W02  </th>
+     <th> Responsive Navbar Section </th>
+     <th> Adptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> 0.5  </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W03  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
+     <th> 0.3  </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W04  </th>
+     <th> Resposnsive Footer Section </th>
+     <th> Adaptar el footer en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> 0.3  </th>
+     <th> Gustavo Huilca/Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US03 </th>
+     <th colspan="3"> E1-US03  Sección de Conócenos </th>
+      <th> W05  </th>
+     <th> Conocenos Section </th>
+     <th> Implementar la sección de conocenos con la información de nuestra startup   </th>
+     <th> 2  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US04</th>
+     <th colspan="3"> E1-US03 Colabora Section</th>
+      <th> W06  </th>
+     <th> Colabora Section </th>
+     <th> Implementar la sección de colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
+     <th> 2  </th>
+     <th> Frida Dam </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> EP1-US05</th>
+     <th colspan="3"> E1-US03 Colabora Section</th>
+      <th> W07  </th>
+     <th> CHero Section </th>
+     <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
+     <th> 2  </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+
 
 
 </table>
