@@ -184,7 +184,7 @@ Versión Mobile:
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-## Wireframes versión Desktop:
+### Wireframes versión Desktop:
 
 #### Mock-ups de la sección Géneros
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Generos">
