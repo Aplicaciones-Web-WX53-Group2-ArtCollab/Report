@@ -102,29 +102,29 @@ TB1:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-lector.png">
 
 ### Ubiquitous Language.
-User (Usuario): El individuo que interactúa con el sistema o la aplicación para lograr ciertos objetivos o tareas.
+1. User (Usuario): El individuo que interactúa con el sistema o la aplicación para lograr ciertos objetivos o tareas.
 
-Dashboard (Tablero de control):  Un elemento de la interfaz gráfica de usuario que proporciona un resumen de información clave y datos relevantes para las actividades o roles del usuario dentro del sistema.
+2. Dashboard (Tablero de control):  Un elemento de la interfaz gráfica de usuario que proporciona un resumen de información clave y datos relevantes para las actividades o roles del usuario dentro del sistema.
 
-Profile (Perfil):  Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
+3. Profile (Perfil):  Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
 
-Subscription (Suscripción): Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
+4. Subscription (Suscripción): Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
 
-Feature (Funcionalidad): Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
+5. Feature (Funcionalidad): Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
 
-Maintenance (Mantenimiento): El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
+6. Maintenance (Mantenimiento): El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
 
-Performance (Rendimiento): La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+7. Performance (Rendimiento): La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
 
-Decision-making process (Proceso de toma de decisiones): La serie de pasos o acciones tomadas por los usuarios o administradores para analizar información, evaluar opciones y elegir un curso de acción para lograr un resultado deseado.
+8. Decision-making process (Proceso de toma de decisiones): La serie de pasos o acciones tomadas por los usuarios o administradores para analizar información, evaluar opciones y elegir un curso de acción para lograr un resultado deseado.
 
-Well-being (Bienestar): El estado general de salud, felicidad y satisfacción experimentado por los individuos dentro del entorno educativo, que abarca aspectos físicos, mentales y emocionales.
+9. Well-being (Bienestar): El estado general de salud, felicidad y satisfacción experimentado por los individuos dentro del entorno educativo, que abarca aspectos físicos, mentales y emocionales.
 
-Infrastructure (Infraestructura): El conjunto de instalaciones y servicios que permiten el funcionamiento de una escuela, así como el desarrollo de las actividades cotidianas en el edificio escolar.
+10. Infrastructure (Infraestructura): El conjunto de instalaciones y servicios que permiten el funcionamiento de una escuela, así como el desarrollo de las actividades cotidianas en el edificio escolar.
 
-Efficiency (Eficiencia): La capacidad del sistema para realizar tareas o procesos con un mínimo desperdicio de tiempo, recursos o esfuerzo.
+11. Efficiency (Eficiencia): La capacidad del sistema para realizar tareas o procesos con un mínimo desperdicio de tiempo, recursos o esfuerzo.
 
-Interactivity (Interactividad): El grado en que los usuarios pueden interactuar y manipular el sistema, típicamente a través de interfaces de usuario y mecanismos de entrada.
+12. Interactivity (Interactividad): El grado en que los usuarios pueden interactuar y manipular el sistema, típicamente a través de interfaces de usuario y mecanismos de entrada.
 
-Decision support (Apoyo a la toma de decisiones): Herramientas, características o funcionalidades dentro del sistema diseñadas para proporcionar a los usuarios información relevante y perspicacia para facilitar procesos de toma de decisiones.
+13. Decision support (Apoyo a la toma de decisiones): Herramientas, características o funcionalidades dentro del sistema diseñadas para proporcionar a los usuarios información relevante y perspicacia para facilitar procesos de toma de decisiones.
 
