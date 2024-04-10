@@ -184,6 +184,52 @@ Versión Mobile:
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+## Wireframes versión Desktop:
+
+#### Mock-ups de la sección Géneros
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Generos">
+
+#### Mock-ups de la sección Populares
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Populares%201%20(desktop).png?raw=true" alt="Web App Desktop Populares">
+
+#### Mock-ups de la sección Suscripciones
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Suscripciones">
+
+#### Mock-ups de la sección Monetización
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n%20(desktop)%20(1).png?raw=true" alt="Web App Desktop artistas monetización">
+
+#### Mock-ups de la sección Artistas
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Artistas%20(desktop)%20(1).png?raw=true" alt="Web App Desktop Artistas">
+
+#### Mock-ups de la sección inicio de sesión
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Inicio de sesión">
+
+#### Mock-ups de la sección registro
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Registro">
+
+#### Mock-ups de la sección perfiles
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Perfiles">
+
+#### Mock-ups de la sección chat artista
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+
+#### Mock-ups de la sección historia
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/historia.png?raw=true" alt="Web App Desktop Historia">
+
+#### Mock-ups de la sección publicar libro
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Publicar libro">
+
+#### Mock-ups de la sección editar historia
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+
+#### Mock-ups de la sección editar perfil escritor/lector
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+
+#### Mock-ups de la sección editar perfil artista
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
+
+Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=151%3A467&mode=design&t=UfHDditQXtCzv4qd-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
@@ -266,9 +312,8 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 
 
 ### 4.4.3. Web Applications Mock-ups
-
-#### Mock-up de la página principal
 ### Mock-ups versión Desktop:
+
 #### Mock-ups de la página principal
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
 
@@ -303,7 +348,7 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/historia.png?raw=true" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/publicar-libro.png?raw=true" alt="Web App Desktop Publciar libro">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
 
 #### Mock-ups de la sección editar historia
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
@@ -314,7 +359,7 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 #### Mock-ups de la sección editar perfil artista
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Editar-perfil-ilustrador.png?raw=truee" alt="Web App Desktop Editar artista">
 
-Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
+Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
