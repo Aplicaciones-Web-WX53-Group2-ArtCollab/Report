@@ -30,6 +30,7 @@ TB1 <br>
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
+Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
 
 </td>
             <td>TB1:</td>
@@ -57,6 +58,7 @@ TB1 <br>
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
+En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
 
 </td>
             <td>TB1:</td>
