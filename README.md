@@ -114,3 +114,7 @@ Feature: Una capacidad o función específica proporcionada por el sistema para 
 
 Maintenance: El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
 
+Capacity: La cantidad máxima de datos, usuarios o recursos que el sistema puede manejar eficazmente sin experimentar problemas de rendimiento o degradación.
+
+Performance La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+
