@@ -25,7 +25,7 @@ Decidimos elegir la siguiente gama de colores, ya que va acorde al logo y se enc
 </div>
 
 ### Tipografía
-Elegimos esta fuente porque es legible dentro de un entorno móvil y web, además de no ser una tan frecuentemente usada, por lo que nos genera una mayor diferencia frente a nuestra competencia.
+Elegimos esta fuente porque es legible dentro de todo tipo de entornos, además de no ser una tan frecuentemente usada, por lo que nos genera una mayor diferencia frente a nuestra competencia.
 <div style="text-align: center;">
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-1.png?raw=true" alt="Tipografía 1">
 </div>
