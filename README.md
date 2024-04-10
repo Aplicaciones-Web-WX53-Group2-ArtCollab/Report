@@ -17,7 +17,7 @@ software.</td>
 
 Amaro Villanueva, Camila Elena <br>
 TB1 <br>
-Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realziados en conjunto.
+Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realizados en conjunto.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
