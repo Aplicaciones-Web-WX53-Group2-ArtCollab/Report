@@ -208,6 +208,10 @@ Para el desarrollo del código en Java, se seleccionó como convención estánda
 
 ### 5.2.1.2. Sprint backlog 1
 
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
+
+Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
+
 <table style="width:400px; height:100px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
