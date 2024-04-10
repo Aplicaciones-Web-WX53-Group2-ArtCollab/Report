@@ -252,6 +252,22 @@ para tenerlos a mi disposición</th>
 etc.</p></th>
 <th>4</th>
 </tr>
+  <tr class="header">
+<th>E5-US13</th>
+<th>Información del Producto en la Página de Inicio</th>
+<th>Como usuario interesado en tu producto, quiero encontrar fácilmente información relevante sobre sus características y beneficios en la página de inicio, para comprender rápidamente cómo puede ayudarme.</th>
+<th><p>Escenario 1: Búsqueda deslizando.</p>
+<p>Dado que el usuario ha accedido al Landing page</p>
+<p>Cuando quiera visualizar las características y beneficios.</p>
+<p>Entonces desliza hacia abajo 
+Y encuentra la sección de características y beneficios.
+</p>
+<p>Escenario 2: Búsqueda por barra</p>
+<pDado que el usuario ha accedido al Landing page</p>
+<p>Cuando quiera visualizar las características y beneficios.</p>
+<p>Entonces indica por medio de los links que quiere visualizar la sección de características y beneficios.</p></th>
+<th>4</th>
+</tr>
 </thead>
 <tbody>
 </tbody>
