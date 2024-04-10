@@ -250,7 +250,7 @@ para tenerlos a mi disposición</th>
 <p>Cuando le de clic a filtrar</p>
 <p>Entonces lo podré filtrar por género, número de páginas, popularidad,
 etc.</p></th>
-<th>4</th>
+<th>5</th>
 </tr>
   <tr class="header">
 <th>E5-US13</th>
@@ -266,7 +266,7 @@ Y encuentra la sección de características y beneficios.
 <pDado que el usuario ha accedido al Landing page</p>
 <p>Cuando quiera visualizar las características y beneficios.</p>
 <p>Entonces indica por medio de los links que quiere visualizar la sección de características y beneficios.</p></th>
-<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
