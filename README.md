@@ -45,6 +45,12 @@ Interlineado: 24px
 Usaremos un tono divertido, casual, respetuoso y entusiasta, puesto que consideramos que sería adecuado para nuestro tipo de aplicación. Este tono reflejaría la creatividad y el aspecto lúdico de los libros ilustrados, mientras que al mismo tiempo mantendría un nivel de respeto hacia los creadores y la audiencia.
 
 ### 4.1.2. Web Style Guidelines.
+Nuestro sitio web está optimizado para proporcionar una experiencia fluida y accesible, independientemente del dispositivo que estés utilizando. Además, hemos implementado un diseño web basado en el patrón Z, que guía intuitivamente la mirada de los usuarios a través de los elementos más importantes de la página, asegurando que puedas captar rápidamente la información clave sin esfuerzo.
+
+Entendemos que la comodidad y la facilidad de uso son fundamentales para disfrutar de la lectura y la navegación en línea. Por eso, hemos puesto especial atención en crear un entorno que no solo sea estéticamente agradable, sino también funcional y eficiente. Queremos que nuestros usuarios se sientan bienvenidos y que su experiencia en nuestra plataforma sea siempre agradable y satisfactoria.
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Devices MockUp" style="max-width: 400px; width: 100%;">
+
 ## 4.2. Information Architecture.
 <hr>
 
