@@ -27,6 +27,8 @@ TB1 <br>
 
 Huilca Chipana, Gustavo <br>
 TB1 <br>
+En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page. 
+Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -54,7 +56,9 @@ Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 
 Huilca Chipana, Gustavo <br>
-TB1 <br>
+TB1<br>
+En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
+Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -63,7 +67,7 @@ En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diag
 </td>
             <td>TB1:</td>
         <tr>
-<table>
+</table>
 
 <br>
 
