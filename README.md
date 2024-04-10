@@ -72,7 +72,9 @@ También se usará esquemas de categorización por ejemplo la búsqueda de
 libros o autores donde los usuarios podrán ordenarlo de manera
 alfabética. La categorización de audiencias se va a dividir en tres por
 los roles del usuario como lector, escritor o ilustrador.
-### 4.2.2. Labeling System.
+### 4.2.2. Labeling Systems.
+En ArtCollab, el sistema de etiquetas será diseñado para que los usuarios encuentren fácilmente la información que buscan, haciéndolo muy intuitivo y accesible.
+
 Etiquetas:
 
 Home: Boton invisible que te redirige a la pagina principal en el logo
@@ -80,16 +82,18 @@ Home: Boton invisible que te redirige a la pagina principal en el logo
 Populares: Se muestran los libros que están en trending
 
 Suscripciones/Premium: Son una suscripción mensual donde te brindan
-diferentes beneficios según tu tipo de usuario.
+diferentes beneficios según tu tipo de usuario
 
 Monetizacion: Únicamente para los Escritores cumpliendo requisitos
 previos
 
-Artista: Muestra los mejores artistas del momento en toda la plataforma
+Artista: Muestra los mejores artistas del momento en toda la plataforma 
+
+<br>
 
 Además, una vez creada una cuenta y de haber iniciado sesión:
 
-Publicar: Sección disponible luego de iniciar sesión que permite publicar un libro nuevo
+Publicar: Sección disponible luego de iniciar sesión que brinda información de cómo publicar un libro nuevo
 
 ### 4.2.3. SEO Tags and Meta Tags.
 ### 4.2.4. Searching Systems.
