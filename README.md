@@ -358,6 +358,80 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 ## 4.5. Web Applications Prototyping.
 <hr>
 
+A continuación se presentan los prototipos de la aplicación web de ArtCollab, los cuales fueron realizados en Figma. Además,
+se adjunta el enlace al video completo de la presentación del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY
+
+Enlace a los prototipos de la App Web en Figma versión Desktop: https://www.figma.com/proto/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?page-id=0%3A1&type=design&node-id=153-733&viewport=504%2C535%2C0.05&t=vnFXzvafyXOAzCvf-1&scaling=scale-down&starting-point-node-id=153%3A733&show-proto-sidebar=1&mode=design
+
+Asimismo, se presentan capturas del video de presentación del prototipo y los timings de cada sección en los que se cumplen los
+user goals.
+
+<strong> User goal: usuario inicia sesion, se registra y recupera su contraseña </strong>
+
+Timing: 0:00
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
+<br>
+<strong> User goal: usuario publica una nueva historia y agrega series a la historia </strong>
+
+Timing: 1:32
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
+<br>
+<strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
+
+Timing: 2:40
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/ce9ec3bf9b9b20dbd95b91eb62fabd2545965ac8/assets/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
+<br>
+<strong> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong>
+
+Timing: 3:30
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
+<br>
+<strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
+
+Timing: 4:50
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
+<br>
+<strong> User goal: usuario del tipo escritor edita su perfil </strong>
+
+Timing: 5:27
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
+<br>
+<strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
+
+Timing: 6:05
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
+<br>
+<strong> User goal: usuario edita el perfil de cuenta </strong>
+
+Timing: 7:15
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
+<br>
+<strong>  User goal: usuario visualiza las comisiones obtenidas por cada historia </strong>
+
+Timing: 7:50
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
+<br>
+<strong> User goal: usuario visualiza los planes de suscripción </strong>
+
+Timing: 8:23
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
+<br>
+<strong> User goal: usuario visualiza el sistema de monetización </strong>
+
+Timing: 8:54
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal10.png?raw=true" alt="Web App Prototype User goal 11">
+
 ## 4.6. Domain-Driven Software Architecture.
 <hr>
 
