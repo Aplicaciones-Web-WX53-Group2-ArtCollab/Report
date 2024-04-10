@@ -7,4 +7,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe. 
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Commits-Overview.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Commits.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Network-Graph.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
 ---
