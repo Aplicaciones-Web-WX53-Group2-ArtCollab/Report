@@ -250,7 +250,7 @@ para tenerlos a mi disposición</th>
 <p>Cuando le de clic a filtrar</p>
 <p>Entonces lo podré filtrar por género, número de páginas, popularidad,
 etc.</p></th>
-<th>5</th>
+<th>6</th>
 </tr>
   <tr class="header">
 <th>E5-US13</th>
@@ -263,11 +263,34 @@ etc.</p></th>
 Y encuentra la sección de características y beneficios.
 </p>
 <p>Escenario 2: Búsqueda por barra</p>
-<pDado que el usuario ha accedido al Landing page</p>
+<p>Dado que el usuario ha accedido al Landing page</p>
 <p>Cuando quiera visualizar las características y beneficios.</p>
 <p>Entonces indica por medio de los links que quiere visualizar la sección de características y beneficios.</p></th>
-<th>5</th>
+<th>6</th>
 </tr>
+<th>E5-US14</th>
+<th>Obtener perfiles en redes sociales</th>
+<th>Como usuario interesado, quiero encontrar enlaces a tus perfiles de redes sociales y canales de comunicación, para poder seguirte y mantenerme actualizado sobre las últimas novedades y comunicaciones de la empresa.</th>
+<th><p>Escenario 1: Búsqueda del perfil de Instagram.</p>
+<p>Entonces desliza hacia abajo 
+Y encuentra la sección posterior el icono de Instagram que lo redirige al perfil.
+</p>
+<p>Escenario 2: Búsqueda del perfil de Twitter.</p>
+<p>Dado que el usuario ha accedido al Landing page</p>
+<p>Cuando quiere visualizar el perfil de Twitter del startup.</p>
+<p>Entonces desliza hacia abajo 
+Y encuentra la sección posterior el icono de Twitter que lo redirige al perfil.</p>
+<p>Escenario 3: Búsqueda del perfil de Facebook.</p>
+<p>Dado que el usuario ha accedido al Landing page</p>
+<p>Cuando quiere visualizar el perfil de Facebook del startup.</p>
+<p>Entonces desliza hacia abajo 
+Y encuentra la sección posterior el icono de Facebook que lo redirige al perfil.
+</p>
+</th>
+<th>6</th>
+</tr>
+
+  
 </thead>
 <tbody>
 </tbody>
