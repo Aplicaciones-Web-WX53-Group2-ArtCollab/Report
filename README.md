@@ -79,13 +79,18 @@ Home: Boton invisible que te redirige a la pagina principal en el logo
 
 Populares: Se muestran los libros que están en trending
 
-Suscripciones/Premiun: Son una suscripción mensual donde te brindan
-diferentes beneficios
+Suscripciones/Premium: Son una suscripción mensual donde te brindan
+diferentes beneficios según tu tipo de usuario.
 
 Monetizacion: Únicamente para los Escritores cumpliendo requisitos
 previos
 
 Artista: Muestra los mejores artistas del momento en toda la plataforma
+
+Además, una vez creada una cuenta y de haber iniciado sesión:
+
+Publicar: Sección disponible luego de iniciar sesión que permite publicar un libro nuevo
+
 ### 4.2.3. SEO Tags and Meta Tags.
 ### 4.2.4. Searching Systems.
 El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
