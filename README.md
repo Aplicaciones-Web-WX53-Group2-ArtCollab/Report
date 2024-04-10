@@ -173,7 +173,20 @@ Para el desarrollo del código en Java, se seleccionó como convención estánda
      </tr>
       <tr>
         <td style="font-weight: bold;"> Prepared By </td>
-        <td> Amaro Villanueva, Camila <td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
