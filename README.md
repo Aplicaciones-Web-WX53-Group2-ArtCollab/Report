@@ -212,6 +212,8 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
 
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Sprint-Backlog/SprintBacklogpng.png"/>
+
 <table style="width:400px; height:100px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
