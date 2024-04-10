@@ -176,9 +176,9 @@ Para el desarrollo del código en Java, se seleccionó como convención estánda
         <td> Amaro Villanueva, Camila <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint n – 0 Review Summary </td>
+        <td style="font-weight: bold;"> Sprint n – 1 Review Summary </td>
         <td> Dado que es nuestro primer sprint de desarrollo no existe 
-        un summary del sprint <td>
+        un review summary del sprint <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary </td>
@@ -189,12 +189,16 @@ Para el desarrollo del código en Java, se seleccionó como convención estánda
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td> Elaborar el diseño de la landing page usando la estructurización por directorios para una buena consistencia en el codigo, ademas se espera enfocar el core del negocio y que sea facil e intuitiva para el usuario <td>
+      </tr>
+       <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  <td>
+          <td>  13  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td>  <td>
+          <td> 13  <td>
       </tr>
 
 
