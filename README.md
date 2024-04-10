@@ -102,11 +102,15 @@ TB1:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-lector.png">
 
 ### Ubiquitous Language.
-User: (Usuario) El individuo que interactúa con el sistema o la aplicación para lograr ciertos objetivos o tareas.
+User (Usuario): El individuo que interactúa con el sistema o la aplicación para lograr ciertos objetivos o tareas.
 
-Dashboard: (Tablero de control) Un elemento de la interfaz gráfica de usuario que proporciona un resumen de información clave y datos relevantes para las actividades o roles del usuario dentro del sistema.
+Dashboard (Tablero de control):  Un elemento de la interfaz gráfica de usuario que proporciona un resumen de información clave y datos relevantes para las actividades o roles del usuario dentro del sistema.
 
-Profile: (Perfil) Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
+Profile (Perfil):  Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
 
+Subscription: Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
 
+Feature: Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
+
+Maintenance: El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
 
