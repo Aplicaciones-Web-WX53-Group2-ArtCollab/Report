@@ -5,20 +5,27 @@
 <hr>
 
 ### 4.1.1. General Style Guidelines.
+### Historia de la marca
+### Misión
+Facilitar un espacio inclusivo y colaborativo que empodere a escritores e ilustradores para compartir sus historias con el mundo, ofreciendo herramientas innovadoras que permitan la creación, distribución y monetización de contenido literario y artístico, al tiempo que se enriquece la experiencia de lectura para una comunidad global de entusiastas de los libros.
+
+### Visión
+Ser la plataforma líder y referente en la publicación digital de libros ilustrados, reconocida por su compromiso con la sostenibilidad y el éxito de los creadores, y por ofrecer una experiencia de lectura excepcional que inspire, eduque y entretenga a lectores de todas las edades y culturas.
+
 ### Brand Name
-El nombre del producto es ArtCollab, el cual cuenta con el siguiente logo:
+El nombre del producto es ArtCollab, el cual cuenta con un logo representado por el icono de un bolígrafo con motivos coloridos a su alrededor haciendo referencia tanto a los escritores como artistas que son parte de los usuarios principales de nuestro aplicativo.
 <div style="text-align: center;">
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/logo-artcollab.jpeg?raw=true" alt="Art Collab Logo" style="max-width: 400px; width: 25%;">
 </div>
 
 ### Colores
-Gama de colores elegida que va acorde al logo:
+Decidimos elegir la siguiente gama de colores, ya que va acorde al logo y se encuentran relacionados con la temática de nuestra app.
 <div style="text-align: center;">
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Paleta-de-colores.png?raw=true" alt="Color Palette">
 </div>
 
 ### Tipografía
-Elegimos esta fuente porque es legible dentro de un entorno móvil y web, además de no ser una tan frecuentemente usada , por lo que nos genera una mayor diferencia frente a nuestra competencia
+Elegimos esta fuente porque es legible dentro de un entorno móvil y web, además de no ser una tan frecuentemente usada, por lo que nos genera una mayor diferencia frente a nuestra competencia.
 <div style="text-align: center;">
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-1.png?raw=true" alt="Tipografía 1">
 </div>
@@ -27,6 +34,15 @@ Elegimos esta fuente porque es legible dentro de un entorno móvil y web, ademá
                 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-2.png?raw=true" alt="Tipografía 2">
 </div>
 
+### Espaciado
+Siguiendo las recomendaciones de especialistas en diseño de interfaces, se aconseja que el interlineado de los párrafos sea 1.5 veces el tamaño del texto, lo que facilita la lectura al crear una separación adecuada entre las líneas.
+
+Tamaño de letra: 16px
+
+Interlineado: 24px
+
+### Tono de comunicación y lenguaje aplicado
+Usaremos un tono divertido, casual, respetuoso y entusiasta, puesto que consideramos que sería adecuado para nuestro tipo de aplicación. Este tono reflejaría la creatividad y el aspecto lúdico de los libros ilustrados, mientras que al mismo tiempo mantendría un nivel de respeto hacia los creadores y la audiencia.
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
