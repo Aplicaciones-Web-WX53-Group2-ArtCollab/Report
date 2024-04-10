@@ -1,80 +1,65 @@
-# COURSE PROJECT
-
-<p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX53</strong><br>
-    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
-    <br>INFORME
-</p>
-
-<p align="center">
-    <strong>Startup: ImaginaTales </strong><br>
-    <strong>Producto: ArtCollab </strong>
-</p>
-
-<div>
-    <h3 align="center">Team Members:</h3>
-    </div>
-<div>
-     <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Amaro Villanueva, Camila Elena</td>
-            <td>U202114248</td>
-        </tr>
-        <tr>
-            <td>Cuadros Rodriguez, Juan Alejandro</td>
-            <td>U20221A359</td>
-        </tr>
-        <tr>
-            <td>Dam Rubianes, Frida Sofia</td>
-            <td>U202218352</td>
-        </tr>
-        <tr>
-            <td>Huilca Chipana, Gustavo</td>
-            <td>U202213983</td>
-        </tr>
-         <tr>
-            <td>Jave Diaz, Mathias Alejandro</td>
-            <td>U202212721</td>
-         </tr>
-</table>
-
-<br>
-
----
-
-# Registro de Versiones del Informe
+# Student Outcome
 
 <table >
         <tr>
-            <th style="text-align:center;">Versión</th>
-            <th style="text-align:center;">Fecha</th>
-            <th style="text-align:center;">Autor</th>
-            <th style="text-align:center;">Descripción de la modificación</th>
+            <th style="text-align:center;">Criterio específico</th>
+            <th style="text-align:center;">Acciones realizadas</th>
+            <th style="text-align:center;">Conclusiones</th>
         </tr>
         <tr>
-            <td align = "center">TB1</td>
-            <td>11/04/2024</td>
+            <td align = "center">Participa en equipos
+multidisciplinarios con eficacia,
+eficiencia y objetividad, en el
+marco de un proyecto en
+soluciones de ingeniería de
+software.</td>
             <td> 
 
-Amaro Villanueva, Camila Elena
+Amaro Villanueva, Camila Elena <br>
+TB1 <br>
+Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realziados en conjunto.
 
-Cuadros Rodriguez, Juan Alejandro 
+Cuadros Rodriguez, Juan Alejandro <br>
+TB1 <br>
 
-Dam Rubianes, Frida Sofia 
+Dam Rubianes, Frida Sofia <br>
+TB1 <br>
 
-Huilca Chipana, Gustavo 
+Huilca Chipana, Gustavo <br>
+TB1 <br>
 
-Jave Diaz,  Mathias Alejandro 
+Jave Diaz,  Mathias Alejandro <br>
+TB1 <br>
 
 </td>
-            <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
+            <td>TB1:</td>
+        <tr>
+
+   <tr>
+            <td align = "center">Conoce al menos un sector
+empresarial o dominio de
+aplicación de soluciones de
+software.</td>
+            <td> 
+
+Amaro Villanueva, Camila Elena <br>
+TB1 <br>
+Para esta entrega se analizaron las preferencias de los segmentos escritor, ilustrador y lector mendiante la realización y análisis de entrevistas. Además, de aplicar un adecuado diseño UX/UI acorde a los usuarios.
+
+Cuadros Rodriguez, Juan Alejandro <br>
+TB1 <br>
+
+Dam Rubianes, Frida Sofia <br>
+TB1 <br>
+
+Huilca Chipana, Gustavo <br>
+TB1 <br>
+
+Jave Diaz,  Mathias Alejandro <br>
+TB1 <br>
+
+</td>
+            <td>TB1:</td>
         <tr>
 <table>
 
