@@ -102,29 +102,32 @@ TB1:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-lector.png">
 
 ### Ubiquitous Language.
-1. User (Usuario): El individuo que interactúa con el sistema o la aplicación para lograr ciertos objetivos o tareas.
+Digital Publishing Platform (Plataforma de Publicación Digital): Una plataforma en línea donde escritores e ilustradores pueden colaborar y publicar libros ilustrados digitales.
 
-2. Dashboard (Tablero de control):  Un elemento de la interfaz gráfica de usuario que proporciona un resumen de información clave y datos relevantes para las actividades o roles del usuario dentro del sistema.
+Creative Collaboration (Colaboración Creativa): El proceso mediante el cual escritores e ilustradores trabajan juntos para crear libros ilustrados digitales.
 
-3. Profile (Perfil):  Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
+User (Usuario): Cualquier persona que utilice la plataforma, incluyendo escritores, ilustradores y lectores.
 
-4. Subscription (Suscripción): Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
+User Profile (Perfil de Usuario): Un espacio personalizado en la plataforma donde los usuarios pueden mostrar su trabajo, intereses y proyectos.
 
-5. Feature (Funcionalidad): Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
+Digital Library (Biblioteca Digital): El catálogo de libros ilustrados digitales disponibles para ser leídos en línea.
 
-6. Maintenance (Mantenimiento): El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
+Transparent Monetization System (Sistema de Monetización Transparente): Un sistema justo y claro que permite a los creadores ganar ingresos por su trabajo.
 
-7. Performance (Rendimiento): La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+Talent Marketplace (Mercado de Talentos): Un espacio donde los escritores pueden buscar y conectar con ilustradores para colaborar en proyectos.
 
-8. Decision-making process (Proceso de toma de decisiones): La serie de pasos o acciones tomadas por los usuarios o administradores para analizar información, evaluar opciones y elegir un curso de acción para lograr un resultado deseado.
+Constructive Feedback (Feedback Constructivo): Comentarios valiosos proporcionados por la comunidad de la plataforma para mejorar el trabajo de los escritores e ilustradores.
 
-9. Well-being (Bienestar): El estado general de salud, felicidad y satisfacción experimentado por los individuos dentro del entorno educativo, que abarca aspectos físicos, mentales y emocionales.
+Premium Subscription (Suscripción Premium): Una opción que ofrece beneficios adicionales a los usuarios que pagan una tarifa periódica.
 
-10. Infrastructure (Infraestructura): El conjunto de instalaciones y servicios que permiten el funcionamiento de una escuela, así como el desarrollo de las actividades cotidianas en el edificio escolar.
+Intuitive Interface (Interfaz Intuitiva): Un diseño de la plataforma que es fácil de entender y usar para los usuarios.
 
-11. Efficiency (Eficiencia): La capacidad del sistema para realizar tareas o procesos con un mínimo desperdicio de tiempo, recursos o esfuerzo.
+Featured Section (Sección Destacada): Una parte de la plataforma que resalta los mejores libros ilustrados de la semana para aumentar la participación de los lectores.
 
-12. Interactivity (Interactividad): El grado en que los usuarios pueden interactuar y manipular el sistema, típicamente a través de interfaces de usuario y mecanismos de entrada.
+Performance Metrics (Métricas de Desempeño): Datos claros sobre visualizaciones y ventas de libros que motivan a los creadores a seguir produciendo contenido.
 
-13. Decision support (Apoyo a la toma de decisiones): Herramientas, características o funcionalidades dentro del sistema diseñadas para proporcionar a los usuarios información relevante y perspicacia para facilitar procesos de toma de decisiones.
+User Retention (Retención de Usuarios): Mantener a los usuarios activos en la plataforma a través de una experiencia satisfactoria y continua.
 
+Subscriptions (Suscripciones): Modelos de ingresos que permiten a los usuarios acceder a contenido premium a cambio de una tarifa periódica.
+
+Creative Networking (Networking Creativo): La capacidad de conectarse con otros artistas y escritores para oportunidades de colaboración y crecimiento profesional.
