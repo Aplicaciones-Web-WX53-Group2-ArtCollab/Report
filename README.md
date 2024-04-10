@@ -116,5 +116,11 @@ Maintenance: El proceso de preservar la funcionalidad e integridad del sistema m
 
 Capacity: La cantidad máxima de datos, usuarios o recursos que el sistema puede manejar eficazmente sin experimentar problemas de rendimiento o degradación.
 
-Performance La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+Performance: La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+
+Decision-making process: La serie de pasos o acciones tomadas por los usuarios o administradores para analizar información, evaluar opciones y elegir un curso de acción para lograr un resultado deseado.
+
+Well-being: El estado general de salud, felicidad y satisfacción experimentado por los individuos dentro del entorno educativo, que abarca aspectos físicos, mentales y emocionales.
+
+Infrastructure: El marco o estructura subyacente que soporta la operación y funcionalidad del sistema, incluidos componentes de hardware, software y redes.
 
