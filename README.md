@@ -108,13 +108,13 @@ Dashboard (Tablero de control):  Un elemento de la interfaz gráfica de usuario 
 
 Profile (Perfil):  Una colección de información personal y ajustes asociados con un usuario individual, que puede incluir preferencias, detalles de contacto y ajustes de cuenta.
 
-Subscription: Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
+Subscription (Suscripción): Un acuerdo por el cual un usuario paga una tarifa recurrente a cambio de acceso continuo a un servicio o producto.
 
-Feature: Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
+Feature (Funcionalidad): Una capacidad o función específica proporcionada por el sistema para satisfacer las necesidades o requisitos del usuario.
 
-Maintenance: El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
+Maintenance (Mantenimiento): El proceso de preservar la funcionalidad e integridad del sistema mediante actualizaciones regulares, correcciones y optimizaciones.
 
-Performance: La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
+Performance (Rendimiento): La eficiencia y velocidad con la que opera y responde el sistema a las interacciones y solicitudes de los usuarios.
 
 Decision-making process: La serie de pasos o acciones tomadas por los usuarios o administradores para analizar información, evaluar opciones y elegir un curso de acción para lograr un resultado deseado.
 
