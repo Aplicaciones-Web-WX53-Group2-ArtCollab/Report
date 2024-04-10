@@ -75,7 +75,7 @@ los roles del usuario como lector, escritor o ilustrador.
 ### 4.2.2. Labeling Systems.
 En ArtCollab, el sistema de etiquetas será diseñado para que los usuarios encuentren fácilmente la información que buscan, haciéndolo muy intuitivo y accesible.
 
-Etiquetas:
+### Etiquetas:
 
 Home: Boton invisible que te redirige a la pagina principal en el logo
 
@@ -96,6 +96,26 @@ Además, una vez creada una cuenta y de haber iniciado sesión:
 Publicar: Sección disponible luego de iniciar sesión que brinda información de cómo publicar un libro nuevo
 
 ### 4.2.3. SEO Tags and Meta Tags.
+En esta sección, se describen las etiquetas SEO y Meta que se utilizarán para identificar y posicionar el sitio web y landing page de ArtCollab de manera única en internet. Estas etiquetas son fundamentales para que el sitio sea fácilmente encontrado por los usuarios a través de los motores de búsqueda como Google, Bing y otros. Al optimizar estas etiquetas, se aumenta la visibilidad del sitio y se mejora su posicionamiento en los resultados de búsqueda, lo que puede atraer más visitantes interesados en nuestro aplicativo.
+
+### Para la landing page
+**Title Tag:** "ArtCollab - ImaginaTales Oficial Landing Page"
+
+**Meta Description:** "ArtCollab Landing Page where you can find a presentation of all the main features of our app."
+
+**Keywords:** Illustrated books, creative collaboration, writers, illustrators, digital platform.
+
+**Authors:** ImaginaTales
+
+### Para la aplicación web:
+**Title Tag:** "ArtCollab - Illustrated book platform for writers and illustrators"
+
+**Meta Description:** "Discover and collaborate on creative projects with talented writers and illustrators on ArtCollab. Explore a vast collection of digital picture books and share your own works"
+
+**Keywords:** Illustrated books, creative collaboration, writers, illustrators, digital platform, visual narrative, online publishing.
+
+**Authors:** ImaginaTales
+
 ### 4.2.4. Searching Systems.
 El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
 del usuario. La búsqueda digitada le va a redireccionar al libro o autor
