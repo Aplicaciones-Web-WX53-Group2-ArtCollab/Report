@@ -292,7 +292,7 @@ Y encuentra la sección posterior el icono de Facebook que lo redirige al perfil
 <th>E5-US15</th>
 <th>Obtener perfiles en redes sociales</th>
 <th>Como usuario interesado, quiero una navegación clara y fácil de usar, con textos y botones destacados que me guíen hacia la acción deseada, ya sea registrarme o solicitar el ingreso a la página web.</th>
-<p>Escenario 1: El usuario se registra.</p>
+<th><p>Escenario 1: El usuario se registra.</p>
 <p>Dado que el usuario ha accedido al Landing page</p>
 <p>Cuando ordena que se quiere registrar a través del botón “regístrate”</p>
 <p>Entonces se despliega una pestaña para que acceda sus datos.</p>
@@ -302,8 +302,6 @@ Y encuentra la sección posterior el icono de Facebook que lo redirige al perfil
 <p>Entonces se abre en otra pestaña la página web.</p>
 </th>
 <th>6</th>
-
-  
 </thead>
 <tbody>
 </tbody>
