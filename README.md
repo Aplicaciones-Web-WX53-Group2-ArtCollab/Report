@@ -284,9 +284,13 @@ Edad: 23 años
 
 Lugar de residencia: Lima, Perú
 
+Entrevistador: Camila Amaro
+
 Evidencia de la entrevista: 
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista03-escritor.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EQ-b5M6dCkJPhEhXzimJ3_4Bi6s4u6Ic1tNvN5cI9fNLqw
 
 Resumen de la entrevista:
 Diego es un estudiante de Ingeniería de Software. Al realizarle las preguntas pude notar que como escritor amateur le ha sido difícil poder sobresalir, ya que, a pesar de haber publicado historias en foros en línea y grupos en redes sociales no ha conseguido que muchas personas lean sus historias.
@@ -469,9 +473,13 @@ Edad: 20 años
 
 Lugar de residencia: Lima, Perú
 
+Entrevistador: Camila Amaro
+
 Evidencia de la entrevista: 
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista02-lector.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eap5x4CPEWJKhlziBHlAaRoB5pD_2ptRcT7BhhkS8X8l9w
 
 Resumen de la entrevista:
 Alvaro es un estudiante de Ingeniería Electrónica. Al realizarle la entrevista él indicó que no suele leer libros en plataformas online muy seguido, puesto que estas suelen presentar muchos anuncios, característica que no es de su agrado.
