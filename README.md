@@ -401,6 +401,27 @@ es descriptivo.</p>
 <td>1</td>
 </tr>
 
+
+<tr class="odd">
+<td>E1-US18</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong>desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong>permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+  
+<td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
+<p>Cuando desea iniciar sesión con Google.</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Google y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales.</p>
+  
+<p>Escenario 2: Inicio de sesión con cuenta de Facebook </p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Facebook</p>
+<p>Cuando desea iniciar sesión con Facebook</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Facebook y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales </p>
+
+<td>7</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
