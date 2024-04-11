@@ -1,0 +1,84 @@
+@startuml ArtCollab-UserContext
+
+Abstract class User{
+}
+
+class Reader{
+
+}
+
+class Writer{
+
+}
+
+class Illustrator{
+
+}
+
+class Account{
+
+}
+
+class Subscription{
+
+}
+
+class Plan{
+
+}
+
+Abstract class UserFactory{
+    +createUser()
+}
+
+class WriterFactory{
+    +createUser()
+}
+
+class IllustratorFactory{
+    +createUser()
+}
+
+class ReaderFactory{
+    +createUser()
+}
+
+class UserManager{
+    +createUser()
+    +getUser()
+    +updateUser()
+    +deleteUser()
+}
+
+abstract class Observer{
+    +update()
+}
+
+class UserObserver{
+    +update()
+}
+
+class SubscriptionObserver{
+    +update()
+}
+
+UserObserver --> UserManager
+UserObserver --|> Observer
+SubscriptionObserver --|> Observer
+SubscriptionObserver --> Subscription
+UserManager <-- UserManager
+UserManager <|-left- UserFactory
+User <-right- UserFactory
+UserFactory <|-- WriterFactory
+UserFactory <|-- IllustratorFactory
+UserFactory <|-- ReaderFactory
+ReaderFactory --> Reader
+WriterFactory --> Writer
+IllustratorFactory --> Illustrator
+User <-up- Account
+Account -left->Subscription
+Subscription -left-> Plan
+
+
+
+@enduml
