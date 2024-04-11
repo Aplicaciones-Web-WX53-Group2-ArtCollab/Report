@@ -49,8 +49,6 @@ Nuestro sitio web está optimizado para proporcionar una experiencia fluida y ac
 
 Entendemos que la comodidad y la facilidad de uso son fundamentales para disfrutar de la lectura y la navegación en línea. Por eso, hemos puesto especial atención en crear un entorno que no solo sea estéticamente agradable, sino también funcional y eficiente. Queremos que nuestros usuarios se sientan bienvenidos y que su experiencia en nuestra plataforma sea siempre agradable y satisfactoria.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Devices MockUp" style="max-width: 400px; width: 100%;">
-
 ## 4.2. Information Architecture.
 <hr>
 
@@ -72,6 +70,7 @@ También se usará esquemas de categorización por ejemplo la búsqueda de
 libros o autores donde los usuarios podrán ordenarlo de manera
 alfabética. La categorización de audiencias se va a dividir en tres por
 los roles del usuario como lector, escritor o ilustrador.
+
 ### 4.2.2. Labeling Systems.
 En ArtCollab, el sistema de etiquetas será diseñado para que los usuarios encuentren fácilmente la información que buscan, haciéndolo muy intuitivo y accesible.
 
