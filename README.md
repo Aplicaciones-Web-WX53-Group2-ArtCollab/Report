@@ -466,9 +466,9 @@ y elije la red la red social Twitter.
 <p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
 
 <p>Escenario 4: Manejo de errores al compartir </p>
-<p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
-<p>Cuando La publicación se ha realizado correctamente en la red social seleccionada.</p>
-<p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
+<p>Dado que el usuario intenta compartir un libro en una red social.</p>
+<p>Cuando Se presenta un error al intentar publicar el libro en la red social seleccionada.</p>
+<p>Entonces la aplicación debe mostrar un mensaje de error al usuario indicando que ha ocurrido un problema. </p>
 
 <td>7</td>
 </tr>
