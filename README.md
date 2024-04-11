@@ -75,21 +75,21 @@ perfil de la startup</p></td>
 </tr>
 <tr class="even">
 <td>E1-US03</td>
-<td>Sección de Conócenos</td>
+<td>Sección de Explora</td>
 <td><p><strong>Como</strong> Usuario</p>
 <p><strong>quiero</strong> conocer los servicios que ofrece la
 aplicación</p>
 <p><strong>para</strong> saber las características que ofrece</p></td>
-<td><p>Escenario 1: Conocenos</p>
+<td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
-<p>Cuando se encuentre en la sección Conócenos</p>
+<p>Cuando se encuentre en la sección Explora</p>
 <p>Entonces podrá visualizar los diversos libros en trending y los
 mejores ilustradores</p></td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>E1-US04</td>
-<td>Sección Colabora</td>
+<td>Sección Explora</td>
 <td><p><strong>Como</strong> Usuario</p>
 <p><strong>quiero</strong> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
