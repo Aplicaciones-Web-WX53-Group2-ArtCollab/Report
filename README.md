@@ -26,16 +26,7 @@
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
-<tr class="even">
-<td>Epic 1:</td>
-<td>Lineamienos para el Landing Page</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar el landing page</p>
-<p><strong>para</strong> conocer la información general de la aplicación </p></td>
-<td>
-</td>
 
-<td></td>
 </tr>
 <tr class="even">
 <td>E1-US01</td>
