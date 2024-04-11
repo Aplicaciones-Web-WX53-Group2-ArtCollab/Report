@@ -392,6 +392,52 @@ es descriptivo.</p>
 <td>1</td>
 </tr>
 
+<tr class="odd">
+<td>E7-US19</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong>desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong>permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+
+<td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
+<p>Cuando desea iniciar sesión con Google.</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Google y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales.</p>
+
+<p>Escenario 2: Inicio de sesión con cuenta de Facebook </p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Facebook</p>
+<p>Cuando desea iniciar sesión con Facebook</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Facebook y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales </p>
+
+<td>7</td>
+</tr>
+
+
+
+<tr class="odd">
+<td>E7-US20</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal</td>
+<td><p><strong>Como</strong>desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><strong>para</strong>permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+
+<td><p>Escenario 1: Suscribirse</p>
+<p>Dado que el usuario Inicia sesión en la aplicación.</p>
+<p>Cuando busca realizar la suscripción.</p>
+<p>Entonces La aplicación muestra la interfaz de PayPal para completar el proceso de pago de la suscripción.</p>
+
+<p>Escenario 2: Confirmación de pago exitoso </p>
+<p>Dado que el usuario ha completado el proceso de pago de la suscripción a través de PayPal.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago exitoso.</p>
+<p>Entonces la aplicación debe actualizar el estado de la suscripción del usuario a "activo" y proporcionar acceso completo a los servicios premium. </p>
+
+<p>Escenario 3: Manejo de pago fallido </p>
+<p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago fallido.</p>
+<p>Entonces la aplicación debe informar al usuario sobre el fallo del pago y brindar la opción de intentar nuevamente o seleccionar otro método de pago. </p>
+<td>7</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
