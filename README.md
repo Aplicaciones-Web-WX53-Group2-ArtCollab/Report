@@ -21,6 +21,7 @@ Entre todo el equipo se hizo el trabajo mediante una división justa de las secc
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
+En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
