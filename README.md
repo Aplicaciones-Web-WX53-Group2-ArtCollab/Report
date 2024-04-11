@@ -342,7 +342,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
    </tr>
      <tr>
       <th> EP1-US04</th>
-     <th colspan="3"> E1-US03 Colabora Section</th>
+     <th colspan="3"> E1-US04 Sección Colabora</th>
       <th> W06  </th>
      <th> Colabora Section </th>
      <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
@@ -353,7 +353,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      </tr>
      <tr>
       <th> EP1-US05</th>
-     <th colspan="3"> E1-US03 Colabora Section</th>
+     <th colspan="3"> E1-US05 Sección Hero</th>
       <th> W07  </th>
      <th> Hero Section </th>
      <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
