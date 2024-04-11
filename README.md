@@ -986,7 +986,91 @@ Para el presente sprint, se ha desarrollado la landing page. Para el despliegue 
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta el insight del equipo a través de la paltaforma GitHub: 
+El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta las tareas asignadas a cada integrante del equipo, asi como también el insight del equipo a través de la plataforma GitHub: 
+
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th>  Implementacion de la navbar tanto en su versión mobile como desktop, tambien en la implementación de la sección footer en su modo responsive </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th>  Implementacion de la sección footer tanto en su versión mobile como desktop </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th>  Implementacion de la sección hero en su versión mobile y desktop </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th>  Implementacion de la sección colabora tanto en su versión mobile como desktop </th>
+ </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th>  Implementacion de la sección conocenos tanto en su versión mobile como desktop </th>
+ </tr>
+
+</table>
+
+Hemos desarrollado en conjunto un total de 43 commits para el desarrollo de la landing page, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (Github) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostraran los graficos de insights durante el sprint:
+
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/Pulse.png"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/Contributions.png" />
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/ColaborationsInsights.png" />
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
 
 
 
