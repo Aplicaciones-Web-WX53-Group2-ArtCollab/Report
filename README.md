@@ -251,11 +251,11 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  13  <td>
+          <td>  19  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 13  <td>
+          <td> 19 <td>
       </tr>
 
 
@@ -361,6 +361,30 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      <th> Camila Amaro </th> 
      <th> Done </th>
    </tr>
+   
+   
+
+  <tr>
+      <th> EP1-US17</th>
+     <th colspan="3"> E1-US017   Compatibilidad con diferentes dispositivos </th>
+      <th> W08  </th>
+     <th> Landing Page </th>
+     <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
+     <th> 2.5  </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-U18 </th>
+     <th colspan="3"> E1-US18 Accesibilidad en el Landing page</th>
+      <th> W09  </th>
+     <th> Landing Page </th>
+     <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
+     <th> 2  </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+
 
 
 
