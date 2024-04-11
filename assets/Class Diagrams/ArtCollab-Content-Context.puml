@@ -1,0 +1,67 @@
+@startuml
+
+class Book{
+}
+
+class Illustration{
+}
+
+class Chapter{
+}
+
+class Review{
+}
+
+class Portfolio{
+}
+
+abstract class ContentFactory{
+    +createContent()
+}
+
+class IllustrationFactory{
+    +createIllustration()
+}
+
+class BookFactory{
+    +createBook()
+}
+
+abstract ViewStrategy{
+    +viewContent()
+}
+
+interface PortfolioViewStrategy{
+    +viewContent()
+}
+
+class ThumbnailViewStrategy{
+    +viewContent()
+}
+
+class ListViewStrategy{
+    +viewContent()
+}
+
+class DetailedViewStrategy{
+    +viewContent()
+}
+
+
+ViewStrategy <|-- PortfolioViewStrategy
+PortfolioViewStrategy <|-- ThumbnailViewStrategy
+PortfolioViewStrategy <|-- ListViewStrategy
+PortfolioViewStrategy <|-- DetailedViewStrategy
+PortfolioViewStrategy --> Portfolio
+Book  o--  Illustration
+Chapter --* Book
+Review --* Book
+Review --* Illustration
+Book --o Portfolio
+Illustration --o Portfolio
+ContentFactory <|-- IllustrationFactory
+ContentFactory <|-- BookFactory
+IllustrationFactory --> Illustration
+BookFactory --> Book
+
+@enduml
