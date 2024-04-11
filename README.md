@@ -250,6 +250,30 @@ a través de un chat en vivo, videollamadas o correos electrónicos.
 Finalmente, en cuanto a la publicidad de sus libros, nos comenta que le gustaría ofrecer a sus lectores contenido exclusivo, como capítulos adicionales,
 así como comisiones exclusivas de sus lectores.
 
+**Entrevista 2:**
+
+Nombres: Rody Sebastian
+
+Apellidos: Vilchez Marin
+
+Edad: 23 años
+
+Lugar de residencia: Trujillo, Perú
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Juan/entrevista02-Escritor.png?raw=true" alt="Entrevista 02 Segmento escritor">
+
+Enlace de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EVRmfD-tfg9JtW2r5wza-VABSrYWk7KR-Sf5FW3U_UVC1w?e=DMIaa7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto a Rody Vílchez es un estudiante de Ciencias de la Computación de 23 años y Reside en Trujillo, Perú. Rody es un gran entusiasta por la escritura puesto que antes lleva la carrera de Derecho. Actualmente se hace conocer en WattPad, le gusta la aplicación, pero no puede interactuar en totalidad con sus lectores.
+
+En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda interactuar con los lectores en el contexto de esto el pronostica que aumentaría la calidad de sus obras aumentaría debido a que podría ordenar mejor todas sus ideas. 
+
+Finalmente, le interesa la idea de colaborar con ilustradores para comprender mas el punto de vista y comodidad.
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
