@@ -295,6 +295,8 @@ Asimismo, me indicó que le gustaría que en una plataforma de publicación de l
 
 Al preguntarle si a él le gustaría publicar libros ilustrados respondió de manera afirmativa, dado que lo ve como una opción distintiva para presentar sus historias y que de esa manera los lectores puedan tener una visión más fiel de como él se imaginaba los personajes y escenarios del libro.
 
+<br>
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
@@ -422,8 +424,7 @@ En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, 
 
 Finalmente, le interesa la idea de pagar para que su portafolio y perfil sean vistos piensa que es una excelente oportunidad para darse a conocer.
 
-
-
+<br>
 
 **Segmento lector:**
 
