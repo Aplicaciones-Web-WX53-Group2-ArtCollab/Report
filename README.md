@@ -226,6 +226,9 @@ En esta sección se pueden encontrar los wireframes relacionados a nuestro aplic
 #### Mock-ups de la sección registro
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
 
+#### Mock-ups de la sección recuperar contraseña
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+
 #### Mock-ups de la sección perfiles
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
 
@@ -354,6 +357,9 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 
 #### Mock-ups de la sección registro
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+
+#### Mock-ups de la sección recuperar contraseña
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
 
 #### Mock-ups de la sección perfiles
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
