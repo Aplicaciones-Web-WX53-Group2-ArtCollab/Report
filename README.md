@@ -25,6 +25,7 @@ En el avance del trabajo se hizo mediante branches para la colaboracion en la cr
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
+Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
 
 Huilca Chipana, Gustavo <br>
 TB1 <br>
