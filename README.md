@@ -114,7 +114,7 @@ Para el desarrollo del código en HTML y CSS se decidió seguir la convención d
 - Se debe declarar el tipo de documento al principio del archivo con <!DOCTYPE html>.
 - Indicar los meta tags 
 - El elemento &lt;title&gt; se debe ubicar entre las etiquetas < head >.
-- La identación es de dos espacios a la vez.
+- La indentación es de dos espacios a la vez.
 - Usar solo minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
 - Encerrar entre comillas a los atributos de los elementos HTML.
 - Cada elemento HTML debe tener su etiqueta de cierre.
@@ -125,12 +125,12 @@ Para el desarrollo del código en JavaScript, se eligió la convención Google J
 - Cada línea de código debe terminar con un punto y coma (;).
 - Tanto las variables como funciones deben estar en Camelcase.
 - Los valores strings deben estar entre comillas simples.
-- La identación del contenido es de +2.
+- La indentación del contenido es de +2.
 - Se debe evitar definir variables con la sentencia *var*. En su lugar, se recomienda *let* y *const*.
 
-Para el desarrollo de los aceptance test con el leguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:
+Para el desarrollo de los acceptance test con el lenguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:
 - Para describir los pasos del escenario, utilizar las palabras "Give", "When", "Then" y "And".
-- Identar los pasos que comienzan con "And".
+- Indentar los pasos que comienzan con "And".
 - Agregar líneas entre pasos.
 - Encerrar entre comillas simples los parámetros.
 - Usar un comentario separador y dos líneas en blanco entre cada escenario.
@@ -147,7 +147,7 @@ Para el desarrollo del código en C#, se seleccionó como convención estándar 
 En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en la nube de Netlify, a continuación se describiran los pasos para lograr el presente objeto.
 
 <ol>
-  <li> Nos aseguramos que el repositorio este configurado correctamente, puesto a que posteriormente lo vincularemos con Netlify.
+  <li> Nos aseguramos que el repositorio esté configurado correctamente, puesto a que posteriormente lo vincularemos con Netlify.
 
   <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/repository.png">
   </li>
@@ -305,7 +305,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      <th colspan="3">  Barra de navegación en la Landing Page  </th>
       <th> W02  </th>
      <th> Responsive Navbar Section </th>
-     <th> Adptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> Adaptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
      <th> 0.5  </th>
      <th> Mathias Jave </th> 
      <th> Done </th>
@@ -324,18 +324,18 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
       <th> EP1-US02 </th>
      <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
       <th> W04  </th>
-     <th> Resposnsive Footer Section </th>
-     <th> Adaptar el footer en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> Responsive Footer Section </th>
+     <th> Adaptar el footer en dispositivos móviles usando el enfoque mobile first   </th>
      <th> 0.3  </th>
      <th> Gustavo Huilca/Mathias Jave </th> 
      <th> Done </th>
    </tr>
      <tr>
       <th> EP1-US03 </th>
-     <th colspan="3"> E1-US03  Sección de Conócenos </th>
+     <th colspan="3"> E1-US03 Sección de Conócenos </th>
       <th> W05  </th>
      <th> Conocenos Section </th>
-     <th> Implementar la sección de conocenos con la información de nuestra startup   </th>
+     <th> Implementar la sección Conócenos con la información de nuestra startup   </th>
      <th> 2  </th>
      <th> Juan Cuadros </th> 
      <th> Done </th>
@@ -345,7 +345,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      <th colspan="3"> E1-US03 Colabora Section</th>
       <th> W06  </th>
      <th> Colabora Section </th>
-     <th> Implementar la sección de colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
+     <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
      <th> 2  </th>
      <th> Frida Dam </th> 
      <th> Done </th>
@@ -826,7 +826,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  </tr>
 
  <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 4d69fbc54b771c61bdd247d72c58603587c9e618  </strong> </th>
     <th> <strong> Initial commit </strong> </th>
@@ -835,7 +835,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  <tr>
 
   <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> a59189021fcba58acac041db7460f5815e28effd  </strong> </th>
     <th> <strong> feat: Added us-01 acceptance test </strong> </th>
@@ -844,7 +844,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  <tr>
 
    <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> f96bfc729fd1b1675138f985c486c076c545e18b  </strong> </th>
     <th> <strong> feat: Added us-02 acceptance test </strong> </th>
@@ -853,7 +853,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  <tr>
 
   <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </strong> </th>
     <th> <strong> feat: Added us-03 acceptance test </strong> </th>
@@ -862,7 +862,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  <tr>
 
    <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </strong> </th>
     <th> <strong> feat: Added us-04 acceptance test </strong> </th>
@@ -871,7 +871,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  <tr>
 
    <tr>
-   <th> <strong> Acceptanse-Test </strong> </th>
+   <th> <strong> Acceptance-Test </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </strong> </th>
     <th> <strong> feat: Added us-05 acceptance test </strong> </th>
@@ -940,17 +940,17 @@ Enlace del deploy de la landing page mediante Netlify: https://group2-wx53-si730
 
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
-    <h4 style=" padding-top:10px;" > Login versión desktop (Orinteativo para el usuario, no funcional) </h4>
+    <h4 style=" padding-top:10px;" > Login versión desktop (Orientativo para el usuario, no funcional) </h4>
    <img style=" width:600px; height:300px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-desktop.png" />
 </div>
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
-    <h4 style=" padding-top:10px;" > Login versión mobile sin dropdown (Orinteativo para el usuario, no funcional) </h4>
+    <h4 style=" padding-top:10px;" > Login versión mobile sin dropdown (Orientativo para el usuario, no funcional) </h4>
    <img style=" width:200px; height:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-mobile-1.png" />
 </div>
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
-    <h4 style=" padding-top:10px;" > Login versión mobile con dropdown (Orinteativo para el usuario, no funcional) </h4>
+    <h4 style=" padding-top:10px;" > Login versión mobile con dropdown (Orientativo para el usuario, no funcional) </h4>
    <img style=" width:200px; height:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-mobile-2.png" />
 </div>
 
@@ -966,11 +966,11 @@ En el alcance del sprint 1 se ha priorizado el desarrollado la landing page, por
 Para el presente sprint, se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas.
 
 <ul>
- <li> Git: Sistema de control de versiones el cual empleamos para trabjar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
 
  </li>
 
- <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitio dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+ <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
 
  <li>
     GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
@@ -999,22 +999,22 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
 
   <tr> 
    <th> Jave Diaz, Mathias Alejandro  </th>
-   <th>  Implementacion de la navbar tanto en su versión mobile como desktop, tambien en la implementación de la sección footer en su modo responsive </th>
+   <th>  Implementación de la navbar tanto en su versión mobile como desktop, también en la implementación de la sección footer en su modo responsive </th>
  </tr>
   <tr> 
    <th> Huilca Chipana, Gustavo  </th>
-   <th>  Implementacion de la sección footer tanto en su versión mobile como desktop </th>
+   <th>  Implementación de la sección footer tanto en su versión mobile como desktop </th>
  </tr>
   <tr> 
    <th> Amaro Villanueva, Camila Elena  </th>
-   <th>  Implementacion de la sección hero en su versión mobile y desktop </th>
+   <th>  Implementación de la sección hero en su versión mobile y desktop </th>
  </tr>
   <tr> 
    <th> Dam Rubianes, Frida Sofia  </th>
-   <th>  Implementacion de la sección colabora tanto en su versión mobile como desktop </th>
+   <th>  Implementación de la sección colabora tanto en su versión mobile como desktop </th>
  </tr> <tr> 
    <th> Cuadros Rodriguez, Juan Alejandro  </th>
-   <th>  Implementacion de la sección conocenos tanto en su versión mobile como desktop </th>
+   <th>  Implementación de la sección Conócenos tanto en su versión mobile como desktop </th>
  </tr>
 
 </table>
@@ -1028,7 +1028,7 @@ Tabla de integrantes:
 
 <table>
   <tr> 
-   <th> <strong> Username (Github) </strong></th>
+   <th> <strong> Username (GitHub) </strong></th>
    <th> <strong> Nombre </strong></th>
    </tr>
 
@@ -1056,7 +1056,7 @@ Tabla de integrantes:
 
 </table>
 
-A continuación se mostraran los graficos de insights durante el sprint:
+A continuación se mostrarán los gráficos de insights durante el sprint:
 
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/Pulse.png"/>
