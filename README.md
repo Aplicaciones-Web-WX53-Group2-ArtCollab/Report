@@ -460,10 +460,10 @@ y elije la red la red social Twitter.
 </p>
 <p>Entonces la aplicación abre una ventana emergente que le permite al usuario iniciar sesión en Twitter y publicar el libro en su feed de Twitter con un mensaje personalizado y el enlace al libro. </p>
 
-<p>Escenario 3: Manejo de pago fallido </p>
-<p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
-<p>Cuando PayPal notifique a la aplicación sobre el pago fallido.</p>
-<p>Entonces la aplicación debe informar al usuario sobre el fallo del pago y brindar la opción de intentar nuevamente o seleccionar otro método de pago. </p>
+<p>Escenario 3: Confirmación de publicación exitosa en redes sociales </p>
+<p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
+<p>Cuando La publicación se ha realizado correctamente en la red social seleccionada.</p>
+<p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
 <td>7</td>
 </tr>
 
