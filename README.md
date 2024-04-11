@@ -883,7 +883,9 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
 
-<p> A continuacion se evidenciara la implementacion parcial del landing page en codigo, con el uso de  HTML, CSS and JavaScript y el uso del framework de Tailwind.css y la libreria de Alpine.js </p>
+<p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web  </p>
+
+
 
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
