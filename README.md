@@ -39,15 +39,15 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 **Software Development** 
 1.	Landing Page
     
-    Para la creación de la landing page, se utilizaron las tecnologías base del desarrollo web: HTML5, CSS3 y JavaScript. También se usó los frameworks Tailwind CSS y Alpine.js para facilitar el desarrollo del proyecto.
+    Para la creación de la landing page, se utilizaron las tecnologías base del desarrollo web: HTML5, CSS3 y JavaScript. También se usó los frameworks Tailwind CSS y las librerias de Alpine.js y Swiper para facilitar el desarrollo del proyecto.
 
 2.	Frontend Web Applications
 
-    En el caso de la aplicación web, además de HTML5, CSS3 y JavaScript. En el caso de los componentes, se usó Angular Material.
+    En el caso de la aplicación web, además de HTML5, CSS3 y JavaScript. En el caso de los componentes, se usó Prime Vue.
 
 3. Web Services
-
-    Para el servicio web, se empleó Java junto al framework Spring Boot. En el caso de la arquitectura, se optó por un RESTful API style.
+   
+    Para el servicio web, se empleó C# junto al framework Asp.Net Core. En el caso de la arquitectura, se optó por un RESTful API style.
 
 **Software Deployment**
 1. Netlify: https://www.netlify.com/
@@ -69,9 +69,9 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 ### 5.1.2. Source Code Management.
 Para el desarrollo y gestión del proyecto, fue creado una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Este fue estructurado de la siguiente manera:
-- **Organization**: https://github.com/Open-Source-SW54-Group-3-ArtCollab 
-- **Landing Page Repository**: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Landing-Page 
-- **Report Repository**: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report 
+- **Organization**: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab
+- **Landing Page Repository**: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/LandingPage
+- **Report Repository**: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report
 
 Por otra parte, para controlar de manera efectiva los cambios en el código de la aplicación y gestionar las ramas por cada repositorio, se ha implementado GitFlow para definir y estructurar nuestro flujo de trabajo. Esto involucra la creación de dos ramas principales:
 - **main**: También denominada "master", es la rama donde se encuentra la versión más estable y lista del proyecto que van a pasar a producción.
@@ -135,11 +135,11 @@ Para el desarrollo de los aceptance test con el leguaje Gherkin, se seleccionó 
 - Encerrar entre comillas simples los parámetros.
 - Usar un comentario separador y dos líneas en blanco entre cada escenario.
 
-Para el desarrollo del código en Java, se seleccionó como convención estándar el Google Java Style Guid. Entre las más importantes destacan:
+Para el desarrollo del código en C#, se seleccionó como convención estándar el Microsoft C# Coding Conventions . Entre las más importantes destacan:
 - Los nombres de los paquetes deben estar en minúsculas, las clases se escriben usando UpperCamelCase y lo métodos con lowerCamelCase.
 - No se tabula para las indentaciones. Debe haber 2 o 4 espacios.
 - Dividir las líneas de código de más de 100 caracteres.
-- Los archivos Java deben tener el mismo nombre de la clase que contienen y está debe ser única y pública. 
+- Los archivos  C# deben tener el mismo nombre de la clase que contienen y está debe ser única y pública. 
 - Luego de cada declaración, se hace un salto de línea.
 
 ### 5.1.4. Software Deployment Configuration.
