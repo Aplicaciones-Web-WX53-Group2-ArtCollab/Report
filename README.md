@@ -231,7 +231,7 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/e73625553f5eebb077562938b7f6d55f790cfbd8/assets/images/entrevistas/entrevista01-escritor.png?raw=true" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERcrNV8AAPFIvQ9OLgmVTuoBWWRzW3ksxOwPMiHWdD-RZA?e=kRQzbt
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EX62KUIbzLpHp4UbKVxNH-IBYz1RTpOl9teAnWEosN-9OA?e=oM1abu
 
 Resumen de la entrevista:
 
@@ -317,7 +317,7 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/037822b62daed66bc427bbe2a05bf8bc86ff1e4f/assets/images/entrevistas/entrevista01-ilustrador.png?raw=true" alt="Entrevista 01 Segmento ilustrador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EevdKzDXimpKrbWS4WwtV1QBpkg6_4AXtaOIzK-2c6lJeA?e=fWEWi0
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EeL3Z8MQ3rRFjh6VWclrFTIBaeTlFuzYXD8c7_VaowBTtQ?e=XrtjEJ
 
 Resumen de la entrevista:
 
@@ -442,7 +442,7 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/e73625553f5eebb077562938b7f6d55f790cfbd8/assets/images/entrevistas/entrevista01-lector.png?raw=true" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EQaRVTeL31dDgaUhd7OkOCsBAw42Xma7u0Mk9K4lVcsNFQ?e=MfL0W1
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
 
 Resumen de la entrevista:
 
@@ -621,19 +621,19 @@ Evidencia de la entrevista:
 | Escribir reseñas | - / - | - / - | Media / Media |
 
 ### 2.3.3. User Journey Mapping
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Autor.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Lector.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Autor.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Ilustrador.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Lector.png?raw=true">
 
 ### 2.3.4. Empathy Mapping
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Lectora.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Ilustrador.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Lectora.png?raw=true">
 
 ### 2.3.5. As-is Scenario Mapping
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-autor.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-lector.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-autor.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-ilustrador.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/As-is-map/As-is-lector.png?raw=true">
 
 ### 2.4. Ubiquitous Language
 1. Digital Publishing Platform (Plataforma de Publicación Digital): Una plataforma en línea donde escritores e ilustradores pueden colaborar y publicar libros ilustrados digitales.
