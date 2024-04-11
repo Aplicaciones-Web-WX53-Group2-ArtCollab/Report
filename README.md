@@ -3,9 +3,9 @@
 
 ## 3.1. To-Be Scenario Mapping.
 <hr>
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-Autor.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-lector.png">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-Autor.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-ilustrador.png?raw=true">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-lector.png?raw=true">
 
 
 
