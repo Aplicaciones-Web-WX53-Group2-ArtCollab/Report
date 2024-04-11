@@ -269,7 +269,7 @@ plataforma</p>
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal </p>
-<p>Cuando le de clic al apartado de monedas</p>
+<p>Cuando ingrese al apartado de monedas</p>
 <p>Entonces se le mostrará el valor de las monedas</p>
 <p>Escenario 2: Monedas</p>
 <p> Dado que el usuario se encuentra en el apartado de monedas</p>
@@ -451,7 +451,7 @@ es descriptivo.</p>
 <p>Dado que el usuario está en la página del libro que desea compartir..</p>
 <p>decide compartirlo</p>
 <p>y elije la red social Facebook.</p>
-<p>Entonces La aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
+<p>Entonces la aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
 
 <p>Escenario 2: Compartir en Twitter </p>
 <p>Dado que el usuario está en la página del libro que desea compartir.</p>
@@ -462,12 +462,12 @@ y elije la red la red social Twitter.
 
 <p>Escenario 3: Confirmación de publicación exitosa en redes sociales </p>
 <p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
-<p>Cuando La publicación se ha realizado correctamente en la red social seleccionada.</p>
+<p>Cuando la publicación se ha realizado correctamente en la red social seleccionada.</p>
 <p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
 
 <p>Escenario 4: Manejo de errores al compartir </p>
 <p>Dado que el usuario intenta compartir un libro en una red social.</p>
-<p>Cuando Se presenta un error al intentar publicar el libro en la red social seleccionada.</p>
+<p>Cuando se presenta un error al intentar publicar el libro en la red social seleccionada.</p>
 <p>Entonces la aplicación debe mostrar un mensaje de error al usuario indicando que ha ocurrido un problema. </p>
 
 <td>7</td>
