@@ -12,7 +12,7 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
     Google Docs es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta con otros usuarios de manera sincrónica. Se utilizo para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
 
-2.	Google Meet: https://meet.google.com/
+2.  Google Meet: https://meet.google.com/
 
     Google Meet es una plataforma de videoconferencias que permite realizar videollamadas con multiples participantes y programar sesiones de trabajo. Se usó como herramienta para llevar a cabo las reuniones del equipo, facilitando la comunicación entre los integrantes del proyecto.
 
@@ -879,7 +879,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
     <th> <strong> 11/04/2024 </strong> </th>
  <tr>
 
-</table
+</table>
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
 
