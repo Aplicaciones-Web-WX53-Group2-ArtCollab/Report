@@ -332,9 +332,9 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
    </tr>
      <tr>
       <th> EP1-US03 </th>
-     <th colspan="3"> E1-US03 Sección de Explora </th>
+     <th colspan="3"> E1-US03  Sección de Conócenos </th>
       <th> W05  </th>
-     <th> Explora Section </th>
+     <th> Conocenos Section </th>
      <th> Implementar la sección de explora con la información de nuestra startup   </th>
      <th> 2  </th>
      <th> Juan Cuadros </th> 
