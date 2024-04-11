@@ -144,6 +144,51 @@ Para el desarrollo del código en C#, se seleccionó como convención estándar 
 
 ### 5.1.4. Software Deployment Configuration.
 
+En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en la nube de Netlify, a continuación se describiran los pasos para lograr el presente objeto.
+
+<ol>
+  <li> Nos aseguramos que el repositorio este configurado correctamente, puesto a que posteriormente lo vincularemos con Netlify.
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/repository.png">
+  </li>
+
+  <li> Accedemos a https://www.netlify.com/ e iniciamos sesión con nuestra cuenta de github, luego seleccionamos la opción de importar un proyecto existente desde git.
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Import-Git-Netlify.png">
+  </li>
+
+   <li>Luego seleccionamos la opción de importar desde un repositorio existente de github.
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Deploy-Netlify.png">
+  </li>
+
+  <li>Despues de seleccionar el repositorio de nuestra landing page, configuramos los detalles de la pagina web.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/configurationpng.png">
+  </li>
+
+  <li>Posteriormente seleccionamos la opción de desplegar nuestra pagina web.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration-Part2-Netlify.png">
+  </li>
+
+
+  <li> Luego de seleccionar la opción de deploy podemos visualizar el proceso de deploy en producción desde el apartado de site overview 
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LandingPageTools.png"/>
+
+  </li>
+
+   <li> Posterior al deploy, Netlify verificara si el nombre del dominio ya existe, en dicho caso asignara un nombre por defecto, sin embargo podemos modificar el nombre accediendo a las confguraciones de nuestro deploy.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration3.png">
+  </li>
+
+<li> Al finalizar el proceso de deploy y configuraciones, podemos visualizar todos los cambios en producción a traves de la opción deploys.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LangingPageProduction.png"/>
+
+</li>
+
+
+</ol>
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 <hr>
 
