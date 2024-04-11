@@ -338,7 +338,33 @@ creativa </p>
 <p>Cuando les den clic a preferencias</p>
 <p>Entonces podrán visualizar tu preferencia por la flexibilidad
 creativa</p></td>
-<td>6</td>
+<td>1</td>
+</tr>
+  
+<tr class="odd">
+<td>E6-US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><strong>Como</strong> usuario interesado en el producto</p>
+<p><strong>quiero</strong> que la landing page sea responsive</p>
+<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p>Escenario 1: Ingresa desde una computadora</p>
+<p>Dado que el usuario se encuentra navegando en una computadora</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran adaptados al tamaño de la pantalla.</p>
+<p>Escenario 2: Ingresa desde un dispositivo móvil </p>
+<p>Dado que el usuario se encuentra navegando en una celular android o ios</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
+Y que se pueda interactuar correctamente con el touch. </p>
+<p>Escenario 3: Ingresa desde una tablet</p>
+<p>Dado que el usuario se encuentra navegando desde una tablet</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
+Y que se pueda interactuar correctamente con el touch.</p></td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
