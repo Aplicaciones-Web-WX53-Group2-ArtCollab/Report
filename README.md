@@ -201,31 +201,31 @@ Versión Mobile:
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-### Wireframes versión Desktop:
+En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
 #### Mock-ups de la sección Géneros
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Generos.png?raw=true" alt="Web App Desktop Generos">
 
 #### Mock-ups de la sección Populares
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Populares%201%20(desktop).png?raw=true" alt="Web App Desktop Populares">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Populares.png?raw=true" alt="Web App Desktop Populares">
 
 #### Mock-ups de la sección Suscripciones
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
 
 #### Mock-ups de la sección Monetización
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n%20(desktop)%20(1).png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n.png?raw=true" alt="Web App Desktop artistas monetización">
 
 #### Mock-ups de la sección Artistas
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Artistas%20(desktop)%20(1).png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Artistas.png?raw=true" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Inicio de sesión">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
 #### Mock-ups de la sección registro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
 
 #### Mock-ups de la sección perfiles
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
 
 #### Mock-ups de la sección chat artista
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
@@ -234,7 +234,7 @@ Versión Mobile:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/historia.png?raw=true" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Web App Desktop Publicar libro">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
 
 #### Mock-ups de la sección editar historia
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
