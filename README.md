@@ -464,6 +464,12 @@ y elije la red la red social Twitter.
 <p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
 <p>Cuando La publicación se ha realizado correctamente en la red social seleccionada.</p>
 <p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
+
+<p>Escenario 4: Manejo de errores al compartir </p>
+<p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
+<p>Cuando La publicación se ha realizado correctamente en la red social seleccionada.</p>
+<p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
+
 <td>7</td>
 </tr>
 
