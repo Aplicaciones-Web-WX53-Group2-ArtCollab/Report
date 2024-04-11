@@ -50,6 +50,7 @@ Nuestro sitio web está optimizado para proporcionar una experiencia fluida y ac
 Entendemos que la comodidad y la facilidad de uso son fundamentales para disfrutar de la lectura y la navegación en línea. Por eso, hemos puesto especial atención en crear un entorno que no solo sea estéticamente agradable, sino también funcional y eficiente. Queremos que nuestros usuarios se sientan bienvenidos y que su experiencia en nuestra plataforma sea siempre agradable y satisfactoria.
 
 ## 4.2. Information Architecture.
+En esta seccción, se va presentarla estructura del software según cada segemento objetivo. Ademas, los elementos que emplearan para la navegacion de esta.
 <hr>
 
 ### 4.2.1. Organization System.
