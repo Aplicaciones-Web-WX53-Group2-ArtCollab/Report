@@ -461,8 +461,28 @@ Sobre los beneficios de un plan premium, nos comenta que considera importante in
 Finalmente, nos comenta que estaría dispuesto a ser un usuario concurrente de nuestra plataforma, ya que le parece interesante la propuesta y le gustaría tener acceso a contenido exclusivo de artistas emergentes.
 
 
+**Entrevista 2:**
 
+Nombres: Alvaro
 
+Apellidos: Rodriguez Amado
+
+Edad: 20 años
+
+Lugar de residencia: Lima, Perú
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista02-lector.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+Resumen de la entrevista:
+Alvaro es un estudiante de Ingeniería Electrónica. Al realizarle la entrevista él indicó que no suele leer libros en plataformas online muy seguido, puesto que estas suelen presentar muchos anuncios, característica que no es de su agrado.
+
+Asimismo, me indicó que estaría dispuesto a pagar un plan premium si tuviera opciones para poder visualizar una vista previa de los libros que se van a agregar en la plataforma o tener próximas actualizaciones de los ya publicados. 
+
+Al preguntarle que le suele llamar la atención para iniciar a leer un libro nos indicó que se suele guiar del título y la portada y más no de las reseñas que tengan estos, aunque si lo ve como una característica útil para fomentar la interacción entre autores y lectores.
+
+De igual manera, mencionó que le parece útil que en una plataforma de este tipo haya una opción de narrador, similar al de los audiolibros, para ayudar de ese modo a que las personas con ceguera puedan también hacer uso de ella.
 
 
 **Entrevista 3:**
