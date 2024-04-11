@@ -36,8 +36,8 @@ TB1 <br>
 Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
 
 </td>
-            <td>TB1:</td>
-        <tr>
+            <td>TB1: El uso de herramientas de colaboración como GitHub y Figma nos ha permitido trabajar de manera eficiente y colaborativa en la creación de los diferentes entregables del proyecto.
+Además, la metodología ágil Scrum nos ha permitido organizar y planificar el trabajo de manera efectiva.</td>
 
    <tr>
             <td align = "center">Conoce al menos un sector
