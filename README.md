@@ -369,11 +369,11 @@ Y que se pueda interactuar correctamente con el touch.</p></td>
 
 <tr class="odd">
 <td>E6-US18</td>
-<td>Accesibiidad en el Landing page</td>
+<td>Accesibilidad  en el Landing page</td>
 <td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
-<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una pagina accesible</p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
 <p><strong>para</strong> navegar de forma fluida 
-y conocer su aplicación sin empedimentos</p></td>
+y conocer su aplicación sin impedimentos</p></td>
 <td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
 <p>Dado que el usuario se encuentra en el landing page</p>
 <p>Cuando le ordena al dispositivo que se lea el contenido</p>
@@ -384,9 +384,9 @@ y conocer su aplicación sin empedimentos</p></td>
 <p>Entonces puede entender con facilidad el texto. </p>
 <p>Escenario 3: Uso del texto de enlace descriptivo</p>
 <p>Dado que el usuario se encuentra en el landing page</p>
-<p>Cuando quiere saber el uso de un boton o elemento el texto que indica su función
+<p>Cuando quiere saber el uso de un botón o elemento el texto que indica su función
 es descriptivo.</p>
-<p>Entonces no se crean confusiones sobre la acción que realiza un boton o elemento.</p></td>
+<p>Entonces no se crean confusiones sobre la acción que realiza un botón o elemento.</p></td>
 <td>1</td>
 </tr>
 
