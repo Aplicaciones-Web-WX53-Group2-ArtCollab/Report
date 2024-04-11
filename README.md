@@ -56,6 +56,7 @@ TB1 <br>
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
+En el desarrollo del proyecto se utilizaron técnicas variadas para poder identificar y conocer todas las necesidades, aspectos, usuarios y características del negocio al cual nos vamos a enfocar.  Para registrar la información recaudada y los métodos implementados usamos gihub para asegurarnos de que las versiones se guarden de forma ordenada. Realizamos entrevistas, diagramas, needfinding, user stories, entre otros.
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
