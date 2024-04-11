@@ -332,10 +332,10 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
    </tr>
      <tr>
       <th> EP1-US03 </th>
-     <th colspan="3"> E1-US03 Sección de Conócenos </th>
+     <th colspan="3"> E1-US03 Sección de Explora </th>
       <th> W05  </th>
-     <th> Conocenos Section </th>
-     <th> Implementar la sección Conócenos con la información de nuestra startup   </th>
+     <th> Explora Section </th>
+     <th> Implementar la sección de explora con la información de nuestra startup   </th>
      <th> 2  </th>
      <th> Juan Cuadros </th> 
      <th> Done </th>
@@ -1014,7 +1014,7 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
    <th>  Implementación de la sección colabora tanto en su versión mobile como desktop </th>
  </tr> <tr> 
    <th> Cuadros Rodriguez, Juan Alejandro  </th>
-   <th>  Implementación de la sección Conócenos tanto en su versión mobile como desktop </th>
+   <th>  Implementacion de la sección Explora tanto en su versión mobile como desktop </th>
  </tr>
 
 </table>
