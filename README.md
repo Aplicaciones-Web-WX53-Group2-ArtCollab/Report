@@ -609,5 +609,25 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+  <tr class="odd">
+<td>17</td>
+<td>US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><strong>Como</strong> usuario interesado en el producto</p>
+<p><strong>quiero</strong> que la landing page sea responsive</p>
+<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>US18</td>
+<td>Accesibilidad en el Landing page</td>
+<td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><strong>para</strong> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
 </tbody>
 </table>
