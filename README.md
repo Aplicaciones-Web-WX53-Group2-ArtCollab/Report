@@ -377,7 +377,29 @@ Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor n
 
 Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
 
+**Entrevista 4:**
 
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 22 años
+
+Lugar de residencia: Lince, Lima
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Juan/entrevista04-ilustrador.png?raw=true" alt="Entrevista 04 Segmento Ilustrador">
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Efqi7BEKkKlPtV7hNpxhlNcByiB_Vk4KdHsDOde4jYFF1Q?e=5uLFgk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto Daniela Cuadros es un estudiante de Administración y Negocios Internacionales de 22 años y Reside en Lince, Lima. Daniela es un gran entusiasta por dibujar puesto que siempre le ha gustado. Actualmente se hace conocer en Pinterest y Instagram, le gusta la aplicación, pero no logra poder conseguir algún trabajo decente debido a las muchas veces que le han intentado pagar con promociones o simplemente no le pagan por su trabajo.
+
+En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda colaborar con escritores, asi de que ofrezcan un lugar seguro donde pueda recibir algún tipo de compensación cómodamente.
+
+Finalmente, le interesa la idea de pagar para que su portafolio y perfil sean vistos piensa que es una excelente oportunidad para darse a conocer.
 
 
 
