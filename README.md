@@ -366,6 +366,30 @@ Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
 Y que se pueda interactuar correctamente con el touch.</p></td>
 <td>1</td>
 </tr>
+
+<tr class="odd">
+<td>E6-US18</td>
+<td>Accesibiidad en el Landing page</td>
+<td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una pagina accesible</p>
+<p><strong>para</strong> navegar de forma fluida 
+y conocer su aplicación sin empedimentos</p></td>
+<td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando le ordena al dispositivo que se lea el contenido</p>
+<p>Entonces puede saber que contiene la imagen o video que no puede visualizar</p>
+<p>Escenario 2: Visualización del texto </p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando lee una sección con un alto contraste entre el fondo y el texto</p>
+<p>Entonces puede entender con facilidad el texto. </p>
+<p>Escenario 3: Uso del texto de enlace descriptivo</p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando quiere saber el uso de un boton o elemento el texto que indica su función
+es descriptivo.</p>
+<p>Entonces no se crean confusiones sobre la acción que realiza un boton o elemento.</p></td>
+<td>1</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
