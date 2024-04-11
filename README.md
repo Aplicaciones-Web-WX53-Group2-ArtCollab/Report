@@ -27,6 +27,17 @@
 <td>Relación Epic ID</td>
 </tr>
 <tr class="even">
+<td>Epic 1:</td>
+<td>Lineamienos para el Landing Page</td>
+<td><p><strong>Como</strong> Usuario</p>
+<p><strong>quiero</strong> visualizar el landing page</p>
+<p><strong>para</strong> conocer la información general de la aplicación </p></td>
+<td>
+</td>
+
+<td></td>
+</tr>
+<tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
 <td><p><strong>Como</strong> Usuario</p>
@@ -368,7 +379,7 @@ Y que se pueda interactuar correctamente con el touch.</p></td>
 </tr>
 
 <tr class="odd">
-<td>E6-US18</td>
+<td>E1-US18</td>
 <td>Accesibilidad  en el Landing page</td>
 <td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
 <p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
