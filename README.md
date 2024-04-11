@@ -1,8 +1,8 @@
 # Capítulo IV: Product Design
-<hr>
+En este capítulo se incluyen todo lo relacionado con el diseño de la solución como el estilo visual, diagramas C4, de clases y modelos de base de datos.
 
 ## 4.1. Style Guidelines.
-<hr>
+En esta sección se encuentra el conjunto de estándares para el formato y diseño de la solución.
 
 ### 4.1.1. General Style Guidelines.
 ### Historia de la marca
@@ -200,6 +200,8 @@ Versión Mobile:
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/6b4a2682f112604a308067445414b9979dda3c7a/assets/images/landing-page/Mockup/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer">
 
 ## 4.4. Web Applications UX/UI Design
+Esta sección incluye secciones internas donde presentamos la propuesta visual y de interacción para nuestra web application, considerando la experiencia de usuario con el producto.
+
 ### 4.4.1. Web Applications Wireframes
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
@@ -326,10 +328,8 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver los sistemas de monetización, posteriomente selecciona la opción mencionada previamente y visualiza todas las opciones que ofrece la aplicación.
 
 
-
-
 ### 4.4.3. Web Applications Mock-ups
-### Mock-ups versión Desktop:
+En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicativo web ArtCollab.
 
 #### Mock-ups de la página principal
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
