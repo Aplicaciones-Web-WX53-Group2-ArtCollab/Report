@@ -903,6 +903,27 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
     <th> <strong> 11/04/2024 </strong> </th>
  <tr>
 
+<tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 8ff78aabec9f8d6b500bb967fd53b3cab74a7d8e  </strong> </th>
+    <th> <strong> feat: Added us-17 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+<tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 1cb783d909328f6038d93f4a1959733c54cd48e9  </strong> </th>
+    <th> <strong> feat: Added us-18 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+
+
+
 </table>
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
