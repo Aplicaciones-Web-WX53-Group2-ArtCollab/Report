@@ -437,7 +437,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
    <th> 07/04/2024 </th>
   </tr>
 
-    <tr>
+  <tr>
    <th> LandingPage </th> 
    <th> develop </th>
    <th> a30ddc245972b87acf1d38097bf533c999403658  </th>
@@ -592,7 +592,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
    <th> 10/04/2024 </th>
   </tr>
 
-    <tr>
+  <tr>
   <th> LandingPage </th> 
    <th> develop </th>
    <th> ce549f80cbab1b913f0d09e59e3b310a0286a9128  </th>
@@ -766,6 +766,75 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 4d69fbc54b771c61bdd247d72c58603587c9e618  </strong> </th>
+    <th> <strong> Initial commit </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> a59189021fcba58acac041db7460f5815e28effd  </strong> </th>
+    <th> <strong> feat: Added us-01 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> f96bfc729fd1b1675138f985c486c076c545e18b  </strong> </th>
+    <th> <strong> feat: Added us-02 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </strong> </th>
+    <th> <strong> feat: Added us-03 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </strong> </th>
+    <th> <strong> feat: Added us-04 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptanse-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </strong> </th>
+    <th> <strong> feat: Added us-05 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 11/04/2024 </strong> </th>
+ <tr>
+
+</table
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
 
