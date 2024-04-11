@@ -205,49 +205,49 @@ Esta sección incluye secciones internas donde presentamos la propuesta visual y
 ### 4.4.1. Web Applications Wireframes
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
-#### Mock-ups de la sección Géneros
+#### Wireframes de la sección Géneros
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Generos.png?raw=true" alt="Web App Desktop Generos">
 
-#### Mock-ups de la sección Populares
+#### Wireframes de la sección Populares
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Populares.png?raw=true" alt="Web App Desktop Populares">
 
-#### Mock-ups de la sección Suscripciones
+#### Wireframes de la sección Suscripciones
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
 
-#### Mock-ups de la sección Monetización
+#### Wireframes de la sección Monetización
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n.png?raw=true" alt="Web App Desktop artistas monetización">
 
-#### Mock-ups de la sección Artistas
+#### Wireframes de la sección Artistas
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Artistas.png?raw=true" alt="Web App Desktop Artistas">
 
-#### Mock-ups de la sección inicio de sesión
+#### Wireframes de la sección inicio de sesión
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
-#### Mock-ups de la sección registro
+#### Wireframes de la sección registro
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
 
-#### Mock-ups de la sección recuperar contraseña
+#### Wireframes de la sección recuperar contraseña
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
 
-#### Mock-ups de la sección perfiles
+#### Wireframes de la sección perfiles
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
 
-#### Mock-ups de la sección chat artista
+#### Wireframes de la sección chat artista
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
 
-#### Mock-ups de la sección historia
+#### Wireframes de la sección historia
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/historia.png?raw=true" alt="Web App Desktop Historia">
 
-#### Mock-ups de la sección publicar libro
+#### Wireframes de la sección publicar libro
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
 
-#### Mock-ups de la sección editar historia
+#### Wireframes de la sección editar historia
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
 
-#### Mock-ups de la sección editar perfil escritor/lector
+#### Wireframes de la sección editar perfil escritor/lector
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
 
-#### Mock-ups de la sección editar perfil artista
+#### Wireframes de la sección editar perfil artista
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
 
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=151%3A467&mode=design&t=UfHDditQXtCzv4qd-1
