@@ -293,6 +293,8 @@ Diego es un estudiante de Ingeniería de Software. Al realizarle las preguntas p
 
 Asimismo, me indicó que le gustaría que en una plataforma de publicación de libros hubiera una opción para vender mercancía relacionada a su historia, para de ese modo poder generar más ganancias con su obra y si es posible llegar algún momento a vivir de ello.
 
+Por otro lado, mencionó que le parecería una buena opción añadir consejos de escritores que estén teniendo buena acogida en el aplicativo, para que así escritores nuevos o con pocos seguidores puedan tener una referencía de que es lo recomiendan hacer para aumentar su comunidad de lectores.
+
 Al preguntarle si a él le gustaría publicar libros ilustrados respondió de manera afirmativa, dado que lo ve como una opción distintiva para presentar sus historias y que de esa manera los lectores puedan tener una visión más fiel de como él se imaginaba los personajes y escenarios del libro.
 
 <br>
