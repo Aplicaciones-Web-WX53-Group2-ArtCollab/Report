@@ -666,5 +666,25 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+  <tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="even">
+<td>20</td>
+<td>US20</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
 </tbody>
 </table>
