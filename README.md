@@ -269,7 +269,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
 
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Sprint-Backlog/SprintBacklogpng.png"/>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Sprint-Backlog/SprintBacklog.png"/>
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -1057,6 +1057,12 @@ Tabla de integrantes:
 </table>
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/Network-Graph-1.png"/>
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/NetWork-Graph-2.png"/>
+
+#### Anexo: flujo de trabajo entre las ramas
 
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/Pulse.png"/>
