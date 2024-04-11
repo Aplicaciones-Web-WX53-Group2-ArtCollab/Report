@@ -89,7 +89,7 @@ mejores ilustradores</p></td>
 </tr>
 <tr class="odd">
 <td>E1-US04</td>
-<td>Sección Explora</td>
+<td>Sección Colabora</td>
 <td><p><strong>Como</strong> Usuario</p>
 <p><strong>quiero</strong> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
