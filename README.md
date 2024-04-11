@@ -274,6 +274,27 @@ En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, 
 
 Finalmente, le interesa la idea de colaborar con ilustradores para comprender mas el punto de vista y comodidad.
 
+**Entrevista 3:**
+
+Nombres: Diego
+
+Apellidos: Castro Soto
+
+Edad: 23 años
+
+Lugar de residencia: Lima, Perú
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/entrevistas/Camila/entrevista03-escritor.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
+
+Resumen de la entrevista:
+Diego es un estudiante de Ingeniería de Software. Al realizarle las preguntas pude notar que como escritor amateur le ha sido difícil poder sobresalir, ya que, a pesar de haber publicado historias en foros en línea y grupos en redes sociales no ha conseguido que muchas personas lean sus historias.
+
+Asimismo, me indicó que le gustaría que en una plataforma de publicación de libros hubiera una opción para vender mercancía relacionada a su historia, para de ese modo poder generar más ganancias con su obra y si es posible llegar algún momento a vivir de ello.
+
+Al preguntarle si a él le gustaría publicar libros ilustrados respondió de manera afirmativa, dado que lo ve como una opción distintiva para presentar sus historias y que de esa manera los lectores puedan tener una visión más fiel de como él se imaginaba los personajes y escenarios del libro.
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
