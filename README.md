@@ -540,79 +540,65 @@ Evidencia de la entrevista:
 	
    </TR>
 	<TR>
-		<TD ROWSPAN = 5>
+		<TD ROWSPAN = 4>
 
 **Objetivas**
 </TD> 
       <TD>Les llama la atención los libros ilustrados</TD>
-      <TD>100% ...</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>80% de los entrevistados indicó que si les llama la atención este tipo de libros, mientras que un 20% indicó que le llama la atención los libros más no los ilustrados.</TD>
+      <TD>100% de los entrevistados mencionaron que les interesan los libros ilustrados.</TD>
+      <TD>Al 100% de los entrevistados les llama la atención los libros de tipo ilustrado.</TD>
 	</TR>
    <TR>
       <TD>Necesitan tener medios de interacción con los otros tipos de usuarios</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>El 100%  de los entrevistados ven necesario contar con algún medio de interacción con los ilustradores y lectores.</TD>
+      <TD>100% de los entrevistados indicaron que necesitan contar con algún medio de interacción con los escritores y lectores.</TD>
+      <TD>El 100%  de los entrevistados necesitan contar con algún medio de interacción con los escritores e ilustradores.</TD>
 	</TR>
-      <TR>
-      <TD>Han usado aplicaciones relacionadas anteriormente</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+   <TR>
+      <TD>Han usado aplicaciones relacionadas con frecuencia</TD>
+      <TD>El 80% de los entrevistados ha usado aplicaciones relacionadas con frecuencia, mientras que el 20% restante no ha usado este tipo de aplicaciones antes o no las ha usado con frecuencia.</TD>
+      <TD>66% de los entrevistados han utilizado redes sociales para publicitar sus trabajos. El 34% restante hizo uso de las redes sociales anteriormente, pero las dejó por falta de seguidores.</TD>
+      <TD>90% de los entrevistados ha utilizado alguna plataforma relacionada de manera frecuente, mientras que un 10% indicó que suele usar estas aplicaciones de manera ocasional</TD>
 	</TR>
-      <TR>
+   <TR>
       <TD >Necesitan un espacio donde promocionar/encontrar libros ilustrados</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-	</TR>
-      <TR>
-      <TD>Ven necesario contar con un perfil propio</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>El 100% de los entrevistados comentan que les gustaría contar con una plataforma dedicada a la publicación de libros.</TD>
+      <TD>100% de los entrevistados expresan su necesidad por tener un espacio donde poder promocionar sus ilustraciones</TD>
+      <TD>100% de los entrevistados indicó que les sería útil tener un espacio donde encontrar libros o ilustraciones </TD>
 	</TR>
 
    <TR>
-		<TD ROWSPAN = 5>
+		<TD ROWSPAN = 4>
 
 **Subjetivas**
 </TD> 
       <TD>Les gustaría que los escritores/ilustradores obtuvieran ganancias por sus obras</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>A los 100% de los entrevistados les gustaría obtener ganancias por sus obras</TD>
+      <TD>A los 100% de los entrevistados les pareció una buena idea obtener una ganancia por sus obras.</TD>
+      <TD>Un 46% de los entrevistados indicaron que les gustaría poder aportar de manera monetaria a los ilustradores y escritores. Sin embargo, el 54% restante expresó que les gustaría aportar, pero mediante visualizaciones de anuncios.</TD>
    <TR>
       <TD>Les gustaría contar con planes de suscripción</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>A 100% de los entrevistados le gustaría contar con planes de subscripción </TD>
+      <TD>A 100% de los entrevistados le gustaría contar con planes de subscripción </TD>
+      <TD>A 100% de los entrevistados le gustaría contar con planes de subscripción </TD>
 	</TR>
       <TR>
       <TD>Buscan información relacionada a su área de interés</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>A 80% de los entrevistados les gusta buscar información sobre sus áreas de interés. El otro 20% mencionó que suelen explorar nuevas opciones, </TD>
+      <TD>A 100% de los entrevistados le gustaría visualizar información sobre su área de interés</TD>
+      <TD>A 100% de los entrevistados le gustaría visualizar información sobre su área de interés.</TD>
 	</TR>
       <TR>
       <TD>Buscan una interfaz agradable con el usuario y que sea apta a cualquier dispositivo</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-	</TR>
-      <TR>
-      <TD>Buscan poder saber cuales son las tendencias de libros leídos en la plataforma</TD>
-      <TD>%</TD>
-      <TD>%</TD>
-      <TD>%</TD>
+      <TD>El 66% de los entrevistados buscan una interfaz agradable con el usuario y que sea apta a cualquier dispositivo. El 34% de los entrevistados no opinó al respecto.</TD>
+      <TD>Al 100% de los entrevistados les gustaría contar con una interfaz agradable y fácil de usar.</TD>
+      <TD>El 75% de los entrevistados buscan una interfaz agradable con el usuario y que sea apta a cualquier dispositivo. El 25% de los entrevistados no opinó al respecto. </TD>
 	</TR>
 </TABLE>
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Aqui_pones_el_nombre_de_como_lo_guardaste_en_el_develop.png?raw=true" alt="Pon aca el nombre de User" style="max-width: 400px; width: 100%;">
-
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
