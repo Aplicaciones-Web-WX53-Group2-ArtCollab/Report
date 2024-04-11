@@ -98,23 +98,40 @@ Publicar: Sección disponible luego de iniciar sesión que brinda información d
 ### 4.2.3. SEO Tags and Meta Tags.
 En esta sección, se describen las etiquetas SEO y Meta que se utilizarán para identificar y posicionar el sitio web y landing page de ArtCollab de manera única en internet. Estas etiquetas son fundamentales para que el sitio sea fácilmente encontrado por los usuarios a través de los motores de búsqueda como Google, Bing y otros. Al optimizar estas etiquetas, se aumenta la visibilidad del sitio y se mejora su posicionamiento en los resultados de búsqueda, lo que puede atraer más visitantes interesados en nuestro aplicativo.
 
-### Para la landing page
-**Title Tag:** "ArtCollab - ImaginaTales Oficial Landing Page"
+### Para la landing page.
 
-**Meta Description:** "ArtCollab Landing Page where you can find a presentation of all the main features of our app."
+\<meta charset="UTF-8"\>
 
-**Keywords:** Illustrated books, creative collaboration, writers, illustrators, digital platform.
+\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>
 
-**Authors:** ImaginaTales
+\<link href="./src/css/styles.css" rel="stylesheet"\>
+
+\<title\>ArtCollab - ImaginaTales Oficial Landing Page\</title\>
+
+\<meta name="description" content="ArtCollab Landing Page where you can
+find a presentation of all the main features of our app."\>
+
+\<meta name="keywords" content="illustrated books, creative
+collaboration, writers, illustrators, digital platform"\>
+
+\<meta name="author" content="ImaginaTales"\>
 
 ### Para la aplicación web:
-**Title Tag:** "ArtCollab - Illustrated book platform for writers and illustrators"
 
-**Meta Description:** "Discover and collaborate on creative projects with talented writers and illustrators on ArtCollab. Explore a vast collection of digital picture books and share your own works"
+\<meta charset="UTF-8"\>
 
-**Keywords:** Illustrated books, creative collaboration, writers, illustrators, digital platform, visual narrative, online publishing.
+\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>
 
-**Authors:** ImaginaTales
+\<link href="./src/css/styles.css" rel="stylesheet"\>
+
+\<title\>ArtCollab - Illustrated book platform for writers and illustrators\</title\>
+
+\<meta name="description" content="Discover and collaborate on creative projects with talented writers and illustrators on ArtCollab. Explore a vast collection of digital picture books and share your own works."\>
+
+\<meta name="keywords" content="illustrated books, creative
+collaboration, writers, illustrators, digital platform, visual narrative, online publising"\>
+
+\<meta name="author" content="ImaginaTales"\>
 
 ### 4.2.4. Searching Systems.
 El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
