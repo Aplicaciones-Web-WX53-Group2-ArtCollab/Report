@@ -1,5 +1,5 @@
 # Project Report Collaboration Insights
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: Repositorio Github.
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: [Repositorio Github](https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report).
 
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
 
