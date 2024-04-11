@@ -438,6 +438,33 @@ es descriptivo.</p>
 <td>7</td>
 </tr>
 
+
+
+<tr class="odd">
+<td>E7-US20</td>
+<td>Uso de API para compartir libros en redes sociales</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+
+<td><p>Escenario 1: Compartir en Facebook</p>
+<p>Dado que el usuario está en la página del libro que desea compartir..</p>
+<p>decide compartirlo</p>
+<p>y elije la red social Facebook.</p>
+<p>Entonces La aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
+
+<p>Escenario 2: Confirmación de pago exitoso </p>
+<p>Dado que el usuario ha completado el proceso de pago de la suscripción a través de PayPal.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago exitoso.</p>
+<p>Entonces la aplicación debe actualizar el estado de la suscripción del usuario a "activo" y proporcionar acceso completo a los servicios premium. </p>
+
+<p>Escenario 3: Manejo de pago fallido </p>
+<p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago fallido.</p>
+<p>Entonces la aplicación debe informar al usuario sobre el fallo del pago y brindar la opción de intentar nuevamente o seleccionar otro método de pago. </p>
+<td>7</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
