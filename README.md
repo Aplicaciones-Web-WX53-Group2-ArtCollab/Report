@@ -883,20 +883,78 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
 
-<p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web  </p>
+<p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web. </p>
+
+Enlace del deploy de la landing page mediante Netlify: https://group2-wx53-si730.netlify.app/
 
 
 
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
-   <h4> Login en version desktop </h4>
-   <img style="width:500px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/landing-page/Login-Desktop.png"/>
+   <h4> Hero en versión desktop </h4>
+   <img style="width:500px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/hero-desktop.png"/>
 </div>
 
 <div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
-    <h4 style=" padding-top:10px;" > Login en version mobile </h4>
-   <img style=" width:200px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/images/landing-page/Login-Mobile.png"/>
+    <h4 style=" padding-top:10px;" > Hero en versión mobile (dropdown desactivado) </h4>
+   <img style=" width:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/hero-mobile-1.png"/>
 </div>
+
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Hero en versión mobile (dropdown activado) </h4>
+   <img style=" width:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/hero-mobile-2.png"/>
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Explora en versión desktop </h4>
+   <img style=" width:600px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/explora-desktop.png"/>
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Explora en versión mobile </h4>
+   <img style=" width:600px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/explora-mobile.png"/>
+</div>
+
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Colabora en versión desktop </h4>
+   <img style=" width:600px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/colabora-desktop.png"/>
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Colabora en versión mobile </h4>
+   <img style=" width:600px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/colabora-mobile.png"/>
+</div>
+
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Colabora en versión desktop </h4>
+   <img style=" width:600px; height:70px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/footer-desktop.png"/>
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Colabora en versión mobile </h4>
+   <img style=" width:300px; height:300px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/footer-mobile.png" />
+</div>
+
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Login versión desktop (Orinteativo para el usuario, no funcional) </h4>
+   <img style=" width:600px; height:300px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-desktop.png" />
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Login versión mobile sin dropdown (Orinteativo para el usuario, no funcional) </h4>
+   <img style=" width:200px; height:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-mobile-1.png" />
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Login versión mobile con dropdown (Orinteativo para el usuario, no funcional) </h4>
+   <img style=" width:200px; height:400px" src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/landingpage-test/login-mobile-2.png" />
+</div>
+
+
 
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review.
