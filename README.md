@@ -395,9 +395,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><strong>Como</strong>desarrollador</p>
+<td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><strong>para</strong>permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 
 <td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
 <p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
@@ -417,9 +417,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal</td>
-<td><p><strong>Como</strong>desarrollador</p>
+<td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><strong>para</strong>permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 
 <td><p>Escenario 1: Suscribirse</p>
 <p>Dado que el usuario Inicia sesión en la aplicación.</p>
