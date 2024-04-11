@@ -441,7 +441,7 @@ es descriptivo.</p>
 
 
 <tr class="odd">
-<td>E7-US20</td>
+<td>E7-US21</td>
 <td>Uso de API para compartir libros en redes sociales</td>
 <td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
@@ -453,10 +453,12 @@ es descriptivo.</p>
 <p>y elije la red social Facebook.</p>
 <p>Entonces La aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
 
-<p>Escenario 2: Confirmación de pago exitoso </p>
-<p>Dado que el usuario ha completado el proceso de pago de la suscripción a través de PayPal.</p>
-<p>Cuando PayPal notifique a la aplicación sobre el pago exitoso.</p>
-<p>Entonces la aplicación debe actualizar el estado de la suscripción del usuario a "activo" y proporcionar acceso completo a los servicios premium. </p>
+<p>Escenario 2: Compartir en Twitter </p>
+<p>Dado que el usuario está en la página del libro que desea compartir.</p>
+<p>Cuando decide compartirlo
+y elije la red la red social Twitter.
+</p>
+<p>Entonces la aplicación abre una ventana emergente que le permite al usuario iniciar sesión en Twitter y publicar el libro en su feed de Twitter con un mensaje personalizado y el enlace al libro. </p>
 
 <p>Escenario 3: Manejo de pago fallido </p>
 <p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
