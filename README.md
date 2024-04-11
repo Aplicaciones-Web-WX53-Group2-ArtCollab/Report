@@ -375,102 +375,176 @@ https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF5
 <tr class="odd">
 <td>1</td>
 <td>US01</td>
-<td>Inicio de Datos</td>
-<td>Como usuario quiero registrarme e ingresar mis datos para iniciar sesión</td>
+<td>Barra de navegación en la Landing Page</td>
+<td><p><strong>Como</strong> escritor o lector</p>
+<p><strong>quiero</strong> visualizar una pagina</p>
+<p><strong>para</strong> saber acerca de los servicios de la
+aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>2</td>
 <td>US02</td>
-<td>Asignación de rol</td>
-<td>Como usuario quiero poder asignarme un rol para poder visualizar la
-pagina</td>
-<td>Alta</td>
-<td>3</td>
+<td>Visualización de las redes sociales mediante footer</td>
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> visualizar la sección de footer de la
+pagina</p>
+<p><strong>para</strong> encontrar los links de las redes
+sociales</p></td>
+<td>Baja</td>
+<td>1</td>
 </tr>
 <tr class="odd">
 <td>3</td>
 <td>US03</td>
-<td>Sube tus libros</td>
-<td>Como escritor quiero una plataforma para subir mis libros</td>
+<td>Sección de Conócenos</td>
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> conocer los servicios que ofrece la
+aplicación</p>
+<p><strong>para</strong> saber las características que ofrece</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>4</td>
 <td>US04</td>
-<td>Colaboración con Ilustradores</td>
-<td>Como escritor deseo que mis obras sean ilustradas</td>
-<td>Media</td>
-<td>2</td>
+<td>Sección Colabora</td>
+<td><p><strong>Como</strong> escritor o ilustrador</p>
+<p><strong>quiero</strong> conocer las formas de colaborar con otros
+usuarios que me ofrece la aplicación</p>
+<p><strong>para</strong> facilitarme el contacto con otros
+artistas</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="odd">
 <td>5</td>
 <td>US05</td>
-<td>Destaca tus libros</td>
-<td>Como escritor quiero destacar mis libros</td>
-<td>Baja</td>
-<td>1</td>
+<td>Sección Hero</td>
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> visualizar una sección hero donde describa
+brevemente la misión del startup</p>
+<p><strong>para</strong> tener una idea de lo que ofrece la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="even">
 <td>6</td>
 <td>US06</td>
-<td>Reparto por Ingresos publicitarios</td>
-<td>Como escritor quiero generar ingresos</td>
+<td>Asignación de Rol</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> poder asignarle un rol</p>
+<p><strong>para</strong> poder visualizar la página</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>7</td>
 <td>US07</td>
-<td>Ingreso por las ilustraciones</td>
-<td>Como ilustrador quiero tener una compensación justa</td>
+<td>Configuración de Perfil de Usuario</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> configurar mi perfil</p>
+<p><strong>para</strong> satisfacer mis gustos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>8</td>
 <td>US08</td>
-<td>Configuracion de Perfil de Usuario</td>
-<td>Como usuario quiero configurar mi perfil para satisfacer mis
-gustos</td>
+<td>Sube tus libros</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> una plataforma</p>
+<p><strong>para</strong> subir mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>9</td>
 <td>US09</td>
-<td>Desbloqueo de Capítulos</td>
-<td>Como usuario tener acceso al contenido exclusivo de la
-plataforma</td>
+<td>Colaboración con Ilustradores</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> que mis obras sean ilustradas</p>
+<p><strong>para</strong> mejorarlas</p></td>
 <td>Media</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>10</td>
 <td>US10</td>
-<td>Dejar Comentarios</td>
-<td>Como usuario quiero poder comentar las obras para ayudar con mi
-feedback</td>
-<td>Baja</td>
-<td>1</td>
+<td>Destaca tus libros</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> destacar mis libros</p>
+<p><strong>para</strong> tener más vistas</p></td>
+<td>Media</td>
+<td>2</td>
 </tr>
 <tr class="odd">
 <td>11</td>
 <td>US11</td>
-<td>Flexibilidad al ilustrar</td>
-<td>Como ilustrador quiero tener flexibilidad creativa a la hora de
-dibujar</td>
-<td>Media</td>
-<td>2</td>
+<td>Reparto por Ingresos publicitarios</td>
+<td><p><strong>Como</strong> escritor</p>
+<p><strong>quiero</strong> generar ingresos</p>
+<p><strong>para</strong> mejorar mis libros</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="even">
 <td>12</td>
 <td>US12</td>
-<td>diversos géneros</td>
-<td>Como usuario quiero tener una gran cantidad de géneros literarios a
-mi disposición</td>
+<td>Diversos géneros literarios</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+a mi disposición</p>
+<p><strong>para</strong> tener una gran variedad de opciones a elegir
+para mis lecturas</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>US13</td>
+<td>Desbloqueo de Capítulos</td>
+<td><p><strong>Como</strong> lector</p>
+<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+plataforma</p>
+<p><strong>para</strong> contar con más capítulos a mi
+disposición</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>US14</td>
+<td>Dejar Comentarios</td>
+<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
+<p><strong>quiero</strong> poder comentar las obras</p>
+<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+feedback</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>US15</td>
+<td>Ingreso por las ilustraciones</td>
+<td><p><strong>Como</strong> ilustrador</p>
+<p><strong>quiero</strong> contar con una monetización por mis
+ilustraciones</p>
+<p><strong>para</strong> poder percibir ingresos dentro de la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>US16</td>
+<td>Flexibilidad al ilustrar</td>
+<td><p><strong>Como</strong> ilustrador</p>
+<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+dibujar</p>
+<p><strong>para</strong> tener un mejor rendimiento</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
