@@ -1,0 +1,65 @@
+@startuml
+
+class Chat{
+}
+
+class ChatHistory{
+}
+
+class ChatMessage{
+}
+
+class Activity{
+}
+
+class Notification{
+}
+
+class Writer{
+}
+
+class Illustrator{
+}
+
+abstract class Observer{
++update()
+}
+
+class ChatObserver{
++update()
+}
+
+abstract class ColaborationFactory{
+}
+
+class ChatFactory{
++createChat()
+}
+
+class NotificationFactory{
++createNotification()
+}
+
+class ChatMessageFactory{
++createChatMessage()
+}
+
+ColaborationFactory <|-- ChatFactory
+ColaborationFactory <|-- NotificationFactory
+ColaborationFactory <|-- ChatMessageFactory
+ChatFactory --> Chat
+NotificationFactory --> Notification
+ChatMessageFactory --> ChatMessage
+ChatObserver -up-|> Observer
+ChatObserver --> Notification
+ChatObserver --> ChatMessage
+Chat --o ChatHistory
+ChatHistory o-- Activity
+ChatMessage -right-o Chat
+Notification --o Chat
+Writer --> Chat
+Illustrator -left-> Chat
+
+
+
+@enduml
