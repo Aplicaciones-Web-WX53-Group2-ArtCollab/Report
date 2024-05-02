@@ -1442,7 +1442,9 @@ Evidencia de la entrevista:
 
 ## 3.1. To-Be Scenario Mapping.
 <hr>
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235689007929622640/to-be-autor.png?ex=66354891&is=6633f711&hm=2275e26f156a60807bb6fcfc2ce53eb0aa810ebb4eeebc245101687242d865be&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688771178074204/to-be-ilustrador.png?ex=66354859&is=6633f6d9&hm=ff0fd52ca41e6fdae9d462c69a4795e8edd003d4e495046abd8859dda2422eb6&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688354209857578/to-be-lector.png?ex=663547f5&is=6633f675&hm=d66091a22aa1b42d7d99f5233a0493a166ab62673f4b70283ffc24dc6a8ef519&">
 
 
 
