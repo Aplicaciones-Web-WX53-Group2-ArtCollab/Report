@@ -4188,7 +4188,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 
 
-### 5.2.2.2. Sprint backlog 1
+### 5.2.2.2. Sprint backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
 
