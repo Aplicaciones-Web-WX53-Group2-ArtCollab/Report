@@ -4176,7 +4176,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  19  <td>
+          <td>  94  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -4192,9 +4192,9 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
 
-Link de Trello: 
+Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc151ac94e16C8BAC0EA/artcollab-sprint2
 
-<img src="https://trello.com/b/l9h5ClNc/artcollab-sprint2"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1872&height=1040"/>
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -4216,72 +4216,163 @@ Link de Trello:
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
      <tr>
-      <th> E2-US06 </th>
+      <th> EP1-US01 </th>
      <th colspan="3">  </th>
       <th> W01  </th>
-     <th> Asignación de Rol </th>
-     <th> Poder asignarle un rol para poder visualizar la página </th>
-     <th> 1 </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th>
      <th>  </th> 
-     <th> Done </th>
+     <th> </th>
    </tr>
     <tr>
-      <th> E2-US07 </th>
+      <th> EP1-US01 </th>
      <th colspan="3">  </th>
       <th> W02  </th>
-     <th> Configuración de Perfil del Usuario </th>
-     <th> Configurar mi perfil  </th>
-     <th> 2 </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th>
      <th>  </th> 
-     <th> Done </th>
+     <th>  </th>
    </tr>
     <tr>
-      <th> E3-US08 </th>
+      <th> EP1-US02 </th>
      <th colspan="3"> </th>
-      <th> W03 </th>
-     <th> Sube tus libros  </th>
-     <th> El escritor puede subir sus libros </th>
-     <th> 2 </th>
+      <th> W03  </th>
      <th>  </th>
-     <th> Done</th> 
+     <th>  </th>
+     <th>  </th>
+     <th> </th> 
+     <th> </th>
    </tr>
      <tr>
-      <th> E3-US09 </th>
+      <th> EP1-US02 </th>
      <th colspan="3"> </th>
       <th> W04  </th>
-     <th> Colaboración con Ilustradores </th>
-     <th>  Visualizar ilustradores disponibles </th>
-     <th> 3 </th>
+     <th> </th>
+     <th>   </th>
+     <th>  </th>
      <th>  </th> 
-     <th> Done</th>
+     <th> </th>
    </tr>
      <tr>
-      <th> E5-US12 </th>
+      <th> EP1-US03 </th>
      <th colspan="3">  </th>
       <th> W05  </th>
-     <th> Diversos géneros literarios </th>
-     <th>  Se una gran variedad de opciones a elegir para mis lecturas </th>
-     <th> 3  </th>
+     <th>  </th>
+     <th>   </th>
+     <th>   </th>
      <th>  </th> 
-     <th> Done </th>
+     <th>  </th>
    </tr>
      <tr>
-      <th> E5-US13</th>
+      <th> EP1-US04</th>
      <th colspan="3"> </th>
       <th> W06  </th>
-     <th> Desbloqueo de Capítulos </th>
-     <th>  Da acceso al contenido exclusivo de la plataforma </th>
-     <th> 3  </th>
+     <th>  </th>
+     <th>   </th>
+     <th>   </th>
      <th>  </th> 
-     <th> Done </th>
+     <th>  </th>
    </tr>
      </tr>
      <tr>
+      <th> EP1-US05</th>
+     <th colspan="3"> </th>
+      <th> W07 </th>
+     <th> </th>
+     <th>    </th>
+     <th>  </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+   
+   
+
+  <tr>
+      <th> EP1-US17</th>
+     <th colspan="3">  </th>
+      <th> W08  </th>
+     <th>  </th>
+     <th>    </th>
+     <th>  </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+     <tr>
+      <th> EP1-U18 </th>
+     <th colspan="3"> </th>
+      <th> W09  </th>
+     <th>  </th>
+     <th>    </th>
+     <th>   </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
 
 
+   <tr>
+    <th> E5-US17 </th>
+     <th colspan="3"> Desbloqueo de Capítulos</th>
+      <th> W22  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la opción de desbloquear capitulos por suscripción.</th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> In Process </th>
+   </tr>
 
+   <tr>
+    <th> E5-US18 </th>
+     <th colspan="3"> Dejar comentarios </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de comentarios en cada obra publicada.</th>
+     <th>  4 </th>
+     <th> Gustavo Huilca/Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+    <tr>
+    <th> E6-US19</th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W25  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos por ilustraciones.</th>
+     <th>  7 </th>
+     <th> Frida Dam </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E6-US20</th>
+     <th colspan="3"> Flexibilidad al ilustrar <th>
+      <th> W26  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la facilidad de ilustrar obras para el segmento de artistas..</th>
+     <th>  5 </th>
+     <th> Frida Dam </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E7-US24</th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal <th>
+      <th> W28  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de pagos via paypal a traves de un servicio externo.</th>
+     <th>  7 </th>
+     <th> Mathias Jave/Gustavo Huilca </th> 
+     <th> ToDo </th>
+   </tr>
 
-
+   <tr>
+    <th> E7-US25</th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales <th>
+      <th> W29  </th>
+     <th> User Bounded Context </th>
+     <th> Implementar un servicio externo para compartir las redes sociales de nuestros usuarios.</th>
+     <th>  4 </th>
+     <th> Juan Cuadros/Camila Amaro </th> 
+     <th> ToDo </th>
+   </tr>
 
 </table>
 
