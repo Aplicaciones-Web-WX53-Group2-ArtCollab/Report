@@ -4308,25 +4308,7 @@ Link de Trello:
    <th> /04/2024 </th>
   </tr>
 
-
-</table>
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
-
-En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
-
-
-<table>
   <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
- </tr>
-
- <tr>
    <th> Frontend </th> 
    <th> main </th>
    <th> fa41cc3 </th>
@@ -4370,6 +4352,24 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
    <th> Added book publishing components and their settings. </th>
    <th> 25/04/2024 </th>
   </tr>
+
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
 
 </table>
 
