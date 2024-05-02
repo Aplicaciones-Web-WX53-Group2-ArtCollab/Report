@@ -1390,9 +1390,6 @@ Evidencia de la entrevista:
 | Escribir reseñas | - / - | - / - | Media / Media |
 
 ### 2.3.3. User Journey Mapping
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Autor.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Ilustrador.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Lector.png?raw=true">
 
 ### 2.3.4. Empathy Mapping
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png?raw=true">
