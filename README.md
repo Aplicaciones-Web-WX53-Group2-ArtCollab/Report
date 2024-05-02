@@ -1917,7 +1917,10 @@ y elije la red la red social Twitter.
 <hr>
 
 ## 3.3. Impact Mapping.
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953167159426/impact-map-1.png?ex=66354796&is=6633f616&hm=064e77faa549a1336e9cef711aa0fe7414502039857e1d3e5ea68bbaa16f60f6&" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953494442125/impact-map-2.png?ex=66354796&is=6633f616&hm=0175959a5b3883cd0f551381328ce67e82bb950d6fdee9b9e802ba42645e9702&" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687952781148222/impact-map-3.png?ex=66354795&is=6633f615&hm=87521804d956fe5a8408e3e6b05a403051b429fb631b90844e787dfb4c2d0756&" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
+<hr>
 
 ## 3.4. Product Backlog.
 https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF56/mi-tablero-de-trello
