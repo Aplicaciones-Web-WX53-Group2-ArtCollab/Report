@@ -1917,10 +1917,7 @@ y elije la red la red social Twitter.
 <hr>
 
 ## 3.3. Impact Mapping.
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap1w.png" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap2w.png" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap3w.png" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
-<hr>
+
 
 ## 3.4. Product Backlog.
 https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF56/mi-tablero-de-trello
