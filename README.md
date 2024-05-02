@@ -220,6 +220,9 @@ Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
 
+TP1 <br>
+En esta entrega, el trabajo donde se desarrollo el front de nuestra aplicacion web donde se utilizo las diversas ramas para la organizacion del trabajo. Ademas, del uso de GitFlow y el DDD permitiendo un enfoque claro y estructurado para el diseño del sistemas y mantenimiento del codigo.
+
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
@@ -236,6 +239,10 @@ En este avance del trabajo, se realizó la programación de la parte de frontend
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
+
+TP1 <br>
+Durante el avance del presente trabajo cada integrante participo de manera colaborativa para el desarrollo del frontend de la web app, asi como tambien se implementaron los servicios que fueron usados para las funcionalidades de la aplicación.
+
 
 </td>
             <td>TB1: El uso de herramientas de colaboración como GitHub y Figma nos ha permitido trabajar de manera eficiente y colaborativa en la creación de los diferentes entregables del proyecto.
@@ -254,6 +261,11 @@ Para esta entrega se analizaron las preferencias de los segmentos escritor, ilus
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
+Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
+
+
+TP1<br>
+En el avance del trabajo, se realizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
@@ -267,6 +279,9 @@ Además, se realizaron los diagramas de clase para representar visualmente la ar
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
+
+TP1 <br>
+Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y funcionamiento de la api, asi como tambien me encargue de la estilizacion de componentes y organizacion de carpetas aplicando un enfoque DDD.
 
 </td>
             <td>TB1: 
