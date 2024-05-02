@@ -4461,12 +4461,48 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
  </tr>
 
   <tr>
-   <th>  </th> 
-   <th>  </th>
-   <th>  </th>
-   <th> Initial commit </th>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> fa41cc3 </th>
+   <th> feat: added proyect via commit </th>
    <th> </th>
-   <th> /04/2024 </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> 049e961 </th>
+   <th> chore(primevue): added primevue into the public/components branch </th>
+   <th> </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> 202fee1</th>
+   <th> chore(primeflex): added primeflex into the public/components branch </th>
+   <th> </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> a798094</th>
+   <th> feat(navbar)/chore(main.js): added navbar content and iconfield and inputicon components </th>
+   <th> </th>
+   <th> 23/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> c27a944 </th>
+   <th> feat/chore: Added book publish components and configs </th>
+   <th> Added book publishing components and their settings. </th>
+   <th> 25/04/2024 </th>
   </tr>
 
 
