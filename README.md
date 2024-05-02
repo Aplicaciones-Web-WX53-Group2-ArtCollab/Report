@@ -1369,9 +1369,7 @@ Evidencia de la entrevista:
   ### 2.3. Needfinding
 
 ### 2.3.1. User Personas.
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Autor.png"> 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Lector.png">
+
 
 ### 2.3.2. User Task Matrix
 |                        | Marian Cornwell (Autor) | Javier Pérez (Ilustrador) | Jimena Fuentes (Lectora) |
