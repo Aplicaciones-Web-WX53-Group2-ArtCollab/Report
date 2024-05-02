@@ -1391,6 +1391,10 @@ Evidencia de la entrevista:
 
 ### 2.3.3. User Journey Mapping
 
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481277841488/journey-map-autor.png?ex=66354f87&is=6633fe07&hm=5892c52ee847c5256123c1c997784d5c0098476a339eb46731c90102772886aa&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481600536606/journey-map-ilustrador.png?ex=66354f87&is=6633fe07&hm=eeb0ac56986257c794fed121822b477d392407ff0856f8308ec494e9eb84cabe&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481906724925/journey-map-lector.png?ex=66354f87&is=6633fe07&hm=dc61a31298d1b32510dd4c0ea559a9ff2a111e71f68eabece91332dbeb028e07&">
+
 ### 2.3.4. Empathy Mapping
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png?raw=true">
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Ilustrador.png?raw=true">
