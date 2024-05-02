@@ -102,6 +102,17 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Network-Graph.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
   
+TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=663573ab&is=6634222b&hm=8bdc02afb00835ecb7261ded3eaf6855304f385c3a1c37c91b083c9590fffc69&=&format=webp&quality=lossless&width=720&height=357" alt="Report Commits 1 TP1"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=663573bf&is=6634223f&hm=d3fcaa88d4f38374ae8753ac6c9d2c683794afebf9896fbecced23d7b8a1055c&=&format=webp&quality=lossless&width=657&height=603" alt="Report Commits 2 TP1"/>
+<br>
+
 ---
 
 # Contenido 
