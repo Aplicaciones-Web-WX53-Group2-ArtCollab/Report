@@ -4216,100 +4216,131 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
      <tr>
-      <th> EP1-US01 </th>
-     <th colspan="3">  </th>
-      <th> W01  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th> 
-     <th> </th>
+      <th> EP2-US06 </th>
+     <th colspan="3"> Registro de cuentas  </th>
+      <th> W10  </th>
+     <th> User Bounded Context </th>
+      <th> Implementar el registro de una cuenta.
+      </th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th>
+     <th> Done </th> 
    </tr>
     <tr>
-      <th> EP1-US01 </th>
-     <th colspan="3">  </th>
-      <th> W02  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> EP2-US07 </th>
+     <th colspan="3"> Inicio de sesión </th>
+      <th> W11  </th>
+     <th> User Bounded Context  </th>
+     <th> Implementar el inicio de sesión desde una cuenta externa o interna.</th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
    </tr>
     <tr>
-      <th> EP1-US02 </th>
-     <th colspan="3"> </th>
-      <th> W03  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th>
-     <th> </th> 
-     <th> </th>
+      <th> E2-US08  </th>
+     <th colspan="3"> Recuperar contraseña</th>
+      <th> W12  </th>
+     <th> User Bounded Context </th>
+     <th> Recuperar la contraseña de un usuario.  </th>
+     <th> 1  </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
    </tr>
      <tr>
-      <th> EP1-US02 </th>
-     <th colspan="3"> </th>
-      <th> W04  </th>
-     <th> </th>
-     <th>   </th>
-     <th>  </th>
-     <th>  </th> 
-     <th> </th>
+      <th> E2-US09  </th>
+     <th colspan="3"> Toolbar de navegación </th>
+      <th> W13  </th>
+     <th> Navegation system </th>
+     <th> Implementar una barra de navegación para el ruteo entre las diferentes secciones.  </th>
+     <th> 1 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
    </tr>
      <tr>
-      <th> EP1-US03 </th>
-     <th colspan="3">  </th>
-      <th> W05  </th>
-     <th>  </th>
-     <th>   </th>
-     <th>   </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> E2-US10 </th>
+     <th colspan="3"> Asignación de Rol </th>
+      <th> W14  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar los roles de usuarios en la aplicación. </th>
+     <th>  3 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
    </tr>
      <tr>
-      <th> EP1-US04</th>
-     <th colspan="3"> </th>
-      <th> W06  </th>
-     <th>  </th>
-     <th>   </th>
-     <th>   </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> E2-US11 </th>
+     <th colspan="3"> Configuración de Perfil de Usuario </th>
+      <th> W15  </th>
+     <th> User Bounded Context </th>
+     <th> Implemntar la connfiguracion de perfil para un usuario.  </th>
+     <th> 3  </th>
+     <th> Frida Dam </th> 
+     <th> Done </th>
    </tr>
      </tr>
      <tr>
-      <th> EP1-US05</th>
-     <th colspan="3"> </th>
-      <th> W07 </th>
-     <th> </th>
-     <th>    </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> E3-US12 </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W016</th>
+     <th> Content Bounded Context</th>
+     <th>  Implementar la opción la opción de subir libros  </th>
+     <th> 4 </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
    </tr>
    
    
 
   <tr>
-      <th> EP1-US17</th>
-     <th colspan="3">  </th>
-      <th> W08  </th>
-     <th>  </th>
-     <th>    </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> E3-US13 </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W17  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar un chat collaborativo entre artistas y escritores   </th>
+     <th> 2 </th>
+     <th> Mathias Jave/Juan Cuadros </th> 
+     <th> Done </th>
    </tr>
      <tr>
-      <th> EP1-U18 </th>
-     <th colspan="3"> </th>
-      <th> W09  </th>
-     <th>  </th>
-     <th>    </th>
-     <th>   </th>
-     <th>  </th> 
-     <th>  </th>
+      <th> E5-US16 </th>
+     <th colspan="3">Diversos géneros literarios</th>
+      <th> W18  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la sección populares con libros según los generos de fantasia, comedia y romance. </th>
+     <th>  2 </th>
+     <th> Mathias Jave/Frids Dam/Camila Amaro </th> 
+     <th> Done </th>
    </tr>
 
+   <tr>
+      <th> E7-US23 </th>
+     <th colspan="3">Uso de API para el inicio de sesión</th>
+      <th> W19  </th>
+     <th> User Bounded Context </th>
+     <th> Utilizar un servicio para el inicio de sesion. </th>
+     <th>  5 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> E4-US014 </th>
+     <th colspan="3">Destaca tus libros</th>
+      <th> W20  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de destacar libros dentro de la plataforma. </th>
+     <th>  4 </th>
+     <th> Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+   <tr>
+    <th> E4-US015 </th>
+     <th colspan="3">Reparto por Ingresos publicitarios</th>
+      <th> W21  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos segun las obras publicadas. </th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> In Process </th>
+   </tr>
 
    <tr>
     <th> E5-US17 </th>
@@ -4399,50 +4430,6 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
    <th> /04/2024 </th>
   </tr>
 
-  <tr>
-   <th> Frontend </th> 
-   <th> main </th>
-   <th> fa41cc3 </th>
-   <th> feat: added proyect via commit </th>
-   <th> </th>
-   <th> 22/04/2024 </th>
-  </tr>
-
-  <tr>
-   <th> Frontend </th> 
-   <th> main </th>
-   <th> 049e961 </th>
-   <th> chore(primevue): added primevue into the public/components branch </th>
-   <th> </th>
-   <th> 22/04/2024 </th>
-  </tr>
-
-  <tr>
-   <th> Frontend </th> 
-   <th> main </th>
-   <th> 202fee1</th>
-   <th> chore(primeflex): added primeflex into the public/components branch </th>
-   <th> </th>
-   <th> 22/04/2024 </th>
-  </tr>
-
-  <tr>
-   <th> Frontend </th> 
-   <th> main </th>
-   <th> a798094</th>
-   <th> feat(navbar)/chore(main.js): added navbar content and iconfield and inputicon components </th>
-   <th> </th>
-   <th> 23/04/2024 </th>
-  </tr>
-
-  <tr>
-   <th> Frontend </th> 
-   <th> main </th>
-   <th> c27a944 </th>
-   <th> feat/chore: Added book publish components and configs </th>
-   <th> Added book publishing components and their settings. </th>
-   <th> 25/04/2024 </th>
-  </tr>
 
 </table>
 
@@ -4461,6 +4448,14 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
      <th> <strong> Commited on (Date) </strong> </th>
  </tr>
 
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong>   </strong> </th>
+    <th> <strong> Initial commit </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> /04/2024 </strong> </th>
+ <tr>
 
 </table>
 
