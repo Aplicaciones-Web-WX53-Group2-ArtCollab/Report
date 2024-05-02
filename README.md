@@ -216,6 +216,9 @@ Amaro Villanueva, Camila Elena <br>
 TB1 <br>
 Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realizados en conjunto.
 
+TP1 <br>
+Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
@@ -259,10 +262,12 @@ Amaro Villanueva, Camila Elena <br>
 TB1 <br>
 Para esta entrega se analizaron las preferencias de los segmentos escritor, ilustrador y lector mendiante la realización y análisis de entrevistas. Además, de aplicar un adecuado diseño UX/UI acorde a los usuarios.
 
+TP1 <br>
+Para la entrega del segundo avance del trabajo, se completaron los requisitos establecidos, lo que incluyó avanzar significativamente con el desarrollo del frontend de la aplicación web. Además, se logró desplegar la aplicación de manera efectiva, lo que garantiza su disponibilidad para los usuarios finales. De igual modo, se llevó a cabo la creación de una API, permitiendo mediante esta una comunicación eficiente y segura.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
-
 
 TP1<br>
 En el avance del trabajo, se realizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
