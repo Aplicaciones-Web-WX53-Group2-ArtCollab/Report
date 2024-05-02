@@ -4194,12 +4194,12 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: 
 
-<img src=""/>
+<img src="https://trello.com/b/l9h5ClNc/artcollab-sprint2"/>
 
 <table style="width:400px; height:100px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
-      <th colspan="7"> Sprint 1 </th>
+      <th colspan="7"> Sprint 2 </th>
    </tr>
    <tr >
      <th colspan="4"> User Story </th>
