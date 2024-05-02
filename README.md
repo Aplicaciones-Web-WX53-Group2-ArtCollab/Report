@@ -76,6 +76,12 @@ Jave Diaz,  Mathias Alejandro
 </td>
             <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
         <tr>
+<tr>
+            <td align = "center">TP1</td>
+            <td>02/05/2024</td>
+            <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
+        </tr>
 <table>
 
 <br>
@@ -222,6 +228,10 @@ Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page. 
 Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
+
+TP1 <br>
+En este avance del trabajo, se realizó la programación de la parte de frontend de la aplicación web a través del trabajo colaborativo en Gitflow en distintas ramas en el repositorio. Esto nos permitió trabajar de manera eficiente y coordinada en la implementación de las funcionalidades de la aplicación.
+
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
