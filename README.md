@@ -1369,7 +1369,9 @@ Evidencia de la entrevista:
   ### 2.3. Needfinding
 
 ### 2.3.1. User Personas.
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942436270171/User-Persona-Autor.png?ex=66354d29&is=6633fba9&hm=3d2a638501ffe1775803bb6296df408090a358463a554e93d2e274450e25a917&"> 
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942754775200/User-Persona-Ilustrador.png?ex=66354d2a&is=6633fbaa&hm=e3e02acea9009450e4e1e56eb50d354f705231a1fbdac6c8482e0c949276401d&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693994680520704/User-Persona-Lector.png?ex=66354d36&is=6633fbb6&hm=973d04f0e2902467819f0cd772cf048863d624985d363384670e6ef3c3c83c06&">
 
 ### 2.3.2. User Task Matrix
 |                        | Marian Cornwell (Autor) | Javier Pérez (Ilustrador) | Jimena Fuentes (Lectora) |
