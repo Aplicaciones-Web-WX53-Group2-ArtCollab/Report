@@ -4118,6 +4118,378 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/ColaborationsInsights.png" />
 
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td>  horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td>  <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> . <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  19  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 19 <td>
+      </tr>
+
+
+  </table>
+
+
+
+### 5.2.2.2. Sprint backlog 1
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
+
+Link de Trello: 
+
+<img src=""/>
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3">  </th>
+      <th> W01  </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th> 
+     <th> </th>
+   </tr>
+    <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3">  </th>
+      <th> W02  </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+    <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> </th>
+      <th> W03  </th>
+     <th>  </th>
+     <th>  </th>
+     <th>  </th>
+     <th> </th> 
+     <th> </th>
+   </tr>
+     <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> </th>
+      <th> W04  </th>
+     <th> </th>
+     <th>   </th>
+     <th>  </th>
+     <th>  </th> 
+     <th> </th>
+   </tr>
+     <tr>
+      <th> EP1-US03 </th>
+     <th colspan="3">  </th>
+      <th> W05  </th>
+     <th>  </th>
+     <th>   </th>
+     <th>   </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+     <tr>
+      <th> EP1-US04</th>
+     <th colspan="3"> </th>
+      <th> W06  </th>
+     <th>  </th>
+     <th>   </th>
+     <th>   </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> EP1-US05</th>
+     <th colspan="3"> </th>
+      <th> W07 </th>
+     <th> </th>
+     <th>    </th>
+     <th>  </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+   
+   
+
+  <tr>
+      <th> EP1-US17</th>
+     <th colspan="3">  </th>
+      <th> W08  </th>
+     <th>  </th>
+     <th>    </th>
+     <th>  </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+     <tr>
+      <th> EP1-U18 </th>
+     <th colspan="3"> </th>
+      <th> W09  </th>
+     <th>  </th>
+     <th>    </th>
+     <th>   </th>
+     <th>  </th> 
+     <th>  </th>
+   </tr>
+
+
+
+
+</table>
+
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+  <tr>
+   <th>  </th> 
+   <th>  </th>
+   <th>  </th>
+   <th> Initial commit </th>
+   <th> </th>
+   <th> /04/2024 </th>
+  </tr>
+
+
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong>   </strong> </th>
+    <th> <strong> Initial commit </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> /04/2024 </strong> </th>
+ <tr>
+
+</table>
+
+### 5.2.2.5 Execution Evidence for Sprint Review.
+
+<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa la web app, en la cual  </p>
+
+Enlace del deploy de la web app mediante : 
+
+
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 2 se ha priorizado el desarrollado la web app, por lo que para este sprint no se evidencia el empleo de web services.
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas.
+
+<ul>
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+ </li>
+
+ <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+
+ <li>
+    GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+ </li>
+
+ <li>
+    .
+ </li>
+
+</ul>
+
+
+
+### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta las tareas asignadas a cada integrante del equipo, asi como también el insight del equipo a través de la plataforma GitHub: 
+
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th>  Implementación de la navbar tanto en su versión mobile como desktop, también en la implementación de la sección footer en su modo responsive </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th>  Implementación de la sección footer tanto en su versión mobile como desktop </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th>  Implementación de la sección hero en su versión mobile y desktop </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th>  Implementación de la sección colabora tanto en su versión mobile como desktop </th>
+ </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th>  Implementacion de la sección Explora tanto en su versión mobile como desktop </th>
+ </tr>
+
+</table>
+
+Hemos desarrollado en conjunto un total de 43 commits para el desarrollo de la landing page, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+
+
+#### Anexo: flujo de trabajo entre las ramas
+
+
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+
+
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
 ---
