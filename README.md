@@ -4132,11 +4132,11 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
-       <td>  </td>
+       <td> 22/04/2024 </td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Time </td>
-       <td>  horas (GMT-5) </td>
+       <td> 21:00 horas (GMT-5) </td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Location </td>
@@ -4160,19 +4160,19 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
          <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td>  <td>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint. <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> <td>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el merge con mayor anticipación para evitar inconvenientes. <td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td> . <td>
+          <td> Para este sprint tenemos como objetivo implementar el frontend de nuestro aplicativo web y desplegarlo por medio de un servidor en la nube. Se hará uso de tecnologías como Vue, Prime vue y Prime Flex, al igual que se aplicará i18n y aria-labels para un mejor código. Además, se planifica el despliege en la plataforma de Firebase. <td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
