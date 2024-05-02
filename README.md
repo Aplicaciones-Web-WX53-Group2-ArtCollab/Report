@@ -4216,99 +4216,69 @@ Link de Trello:
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
      <tr>
-      <th> EP1-US01 </th>
+      <th> E2-US06 </th>
      <th colspan="3">  </th>
       <th> W01  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th>
+     <th> Asignación de Rol </th>
+     <th> Poder asignarle un rol para poder visualizar la página </th>
+     <th> 1 </th>
      <th>  </th> 
-     <th> </th>
+     <th> Done </th>
    </tr>
     <tr>
-      <th> EP1-US01 </th>
+      <th> E2-US07 </th>
      <th colspan="3">  </th>
       <th> W02  </th>
-     <th>  </th>
-     <th>  </th>
-     <th>  </th>
+     <th> Configuración de Perfil del Usuario </th>
+     <th> Configurar mi perfil  </th>
+     <th> 2 </th>
      <th>  </th> 
-     <th>  </th>
+     <th> Done </th>
    </tr>
     <tr>
-      <th> EP1-US02 </th>
+      <th> E3-US08 </th>
      <th colspan="3"> </th>
-      <th> W03  </th>
+      <th> W03 </th>
+     <th> Sube tus libros  </th>
+     <th> El escritor puede subir sus libros </th>
+     <th> 2 </th>
      <th>  </th>
-     <th>  </th>
-     <th>  </th>
-     <th> </th> 
-     <th> </th>
+     <th> Done</th> 
    </tr>
      <tr>
-      <th> EP1-US02 </th>
+      <th> E3-US09 </th>
      <th colspan="3"> </th>
       <th> W04  </th>
-     <th> </th>
-     <th>   </th>
-     <th>  </th>
+     <th> Colaboración con Ilustradores </th>
+     <th>  Visualizar ilustradores disponibles </th>
+     <th> 3 </th>
      <th>  </th> 
-     <th> </th>
+     <th> Done</th>
    </tr>
      <tr>
-      <th> EP1-US03 </th>
+      <th> E5-US12 </th>
      <th colspan="3">  </th>
       <th> W05  </th>
-     <th>  </th>
-     <th>   </th>
-     <th>   </th>
+     <th> Diversos géneros literarios </th>
+     <th>  Se una gran variedad de opciones a elegir para mis lecturas </th>
+     <th> 3  </th>
      <th>  </th> 
-     <th>  </th>
+     <th> Done </th>
    </tr>
      <tr>
-      <th> EP1-US04</th>
+      <th> E5-US13</th>
      <th colspan="3"> </th>
       <th> W06  </th>
-     <th>  </th>
-     <th>   </th>
-     <th>   </th>
+     <th> Desbloqueo de Capítulos </th>
+     <th>  Da acceso al contenido exclusivo de la plataforma </th>
+     <th> 3  </th>
      <th>  </th> 
-     <th>  </th>
+     <th> Done </th>
    </tr>
      </tr>
      <tr>
-      <th> EP1-US05</th>
-     <th colspan="3"> </th>
-      <th> W07 </th>
-     <th> </th>
-     <th>    </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
-   </tr>
-   
-   
 
-  <tr>
-      <th> EP1-US17</th>
-     <th colspan="3">  </th>
-      <th> W08  </th>
-     <th>  </th>
-     <th>    </th>
-     <th>  </th>
-     <th>  </th> 
-     <th>  </th>
-   </tr>
-     <tr>
-      <th> EP1-U18 </th>
-     <th colspan="3"> </th>
-      <th> W09  </th>
-     <th>  </th>
-     <th>    </th>
-     <th>   </th>
-     <th>  </th> 
-     <th>  </th>
-   </tr>
+
 
 
 
