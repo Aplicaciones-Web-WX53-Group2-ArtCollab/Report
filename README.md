@@ -4571,7 +4571,7 @@ Para el presente sprint, se ha desarrollado la landing page. Para el despliegue 
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint.
 
-El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta las tareas asignadas a cada integrante del equipo, asi como también el insight del equipo a través de la plataforma GitHub: 
+El equipo organizó el desarrollo de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
 
 
 
@@ -4584,27 +4584,27 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
 
   <tr> 
    <th> Jave Diaz, Mathias Alejandro  </th>
-   <th>  Implementación de la navbar tanto en su versión mobile como desktop, también en la implementación de la sección footer en su modo responsive </th>
+   <th> Implementación de las secciones de populares, suscriipciones y monetización, tanto en su versión mobile como desktop. Además, apoyó en el desarrollo de la sección de chat. </th>
  </tr>
   <tr> 
    <th> Huilca Chipana, Gustavo  </th>
-   <th>  Implementación de la sección footer tanto en su versión mobile como desktop </th>
+   <th> Implementación de las secciones de página principal, inicio de sesión,registro, recuperación de cuenta y artistas, tanto en su versión mobile como desktop. </th>
  </tr>
   <tr> 
    <th> Amaro Villanueva, Camila Elena  </th>
-   <th>  Implementación de la sección hero en su versión mobile y desktop </th>
+   <th> Implementación de las secciones de perfil artista, publicación de libro y capítulos y editar detalles del libro, tanto en su versión mobile como desktop. </th>
  </tr>
   <tr> 
    <th> Dam Rubianes, Frida Sofia  </th>
-   <th>  Implementación de la sección colabora tanto en su versión mobile como desktop </th>
+   <th> Implementación de las secciones géneros, perfil libro, mis historias y perfil escritor, tanto en su versión mobile como desktop. </th>
  </tr> <tr> 
    <th> Cuadros Rodriguez, Juan Alejandro  </th>
-   <th>  Implementacion de la sección Explora tanto en su versión mobile como desktop </th>
+   <th> Implementacion de las secciones capítulo y su previsualización, sala de artistas y chat artistas, tanto en su versión mobile como desktop. </th>
  </tr>
 
 </table>
 
-Hemos desarrollado en conjunto un total de 43 commits para el desarrollo de la landing page, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+Hemos desarrollado en conjunto un total de 239 commits para el desarrollo de la web application, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
 
 A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
 
@@ -4647,17 +4647,19 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 #### Anexo: flujo de trabajo entre las ramas
 
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990402230652928/image.png?ex=66366143&is=66350fc3&hm=400fcc8ae96f1a0bd1920029bd07b136c945a5368e93685aa6281fe94a02b95d&" Alt="Flujo de trabajo entre las ramas"/>
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235995520380567643/image.png?ex=66366607&is=66351487&hm=fd9f346661ec9d9ffb28849502cf0203672ab0352f2508f3a5a11b7a4875ef0b&" Alt="Tabla de commits"/>
 
 #### Anexo: Flujo de trabajo en el periodo de 1 mes
 
-
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990603012243598/image.png?ex=66366173&is=66350ff3&hm=eba9b107cfe94f86fc89879a433c5ed60a4d2456b605b00f294476fb631800c3&" Alt="Flujo de trabajo"/>
 
 #### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990860005511199/image.png?ex=663661b0&is=66351030&hm=df161a2e4dea560ffbb46bbef506afdf0d46758f0bb8ee720b8e656df19d9b33&" Alt="Flujo de trabajo"/>
 
 ---
 
