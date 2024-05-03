@@ -4536,11 +4536,11 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
 
-<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa la web app, en la cual  </p>
+<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa la web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas. </p>
 
 Enlace del deploy de la web app mediante : 
 
-
+https://elegant-beijinho-a167d8.netlify.app/#/home
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
@@ -4548,10 +4548,10 @@ En el alcance del sprint 2 se ha priorizado el desarrollado la web app, por lo q
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Para el presente sprint, se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas.
+Para el presente sprint, se ha desarrollado la web application. Para el despliegue se emplearon las siguientes herramientas.
 
 <ul>
- <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
 
  </li>
 
@@ -4562,7 +4562,7 @@ Para el presente sprint, se ha desarrollado la landing page. Para el despliegue 
  </li>
 
  <li>
-    .
+    Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar nuestra el web application.
  </li>
 
 </ul>
