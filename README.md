@@ -4536,7 +4536,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
 
-<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa la web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas. </p>
+<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas. </p>
 
 Enlace del deploy de la web app mediante : 
 
@@ -4544,11 +4544,11 @@ https://elegant-beijinho-a167d8.netlify.app/#/home
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
-En el alcance del sprint 2 se ha priorizado el desarrollado la web app, por lo que para este sprint no se evidencia el empleo de web services.
+En el alcance del sprint 2 se ha priorizado el desarrollado del frontend web app, por lo que para este sprint no se evidencia el empleo de web services.
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Para el presente sprint, se ha desarrollado la web application. Para el despliegue se emplearon las siguientes herramientas.
+Para el presente sprint, se ha desarrollado el frontend de la web application. Para el despliegue se emplearon las siguientes herramientas.
 
 <ul>
  <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
@@ -4571,7 +4571,7 @@ Para el presente sprint, se ha desarrollado la web application. Para el desplieg
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint.
 
-El equipo organizó el desarrollo de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
 
 
 
@@ -4604,7 +4604,7 @@ El equipo organizó el desarrollo de la aplicación web en ramas para abordar ca
 
 </table>
 
-Hemos desarrollado en conjunto un total de 239 commits para el desarrollo de la web application, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+Hemos desarrollado en conjunto un total de 239 commits para el desarrollo, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
 
 A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
 
