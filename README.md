@@ -4525,11 +4525,47 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
  <tr>
    <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 8e272f3 </strong> </th>
+    <th> <strong> feat: Added second epic features </strong> </th>
     <th> <strong>  </strong> </th>
-    <th> <strong>   </strong> </th>
-    <th> <strong> Initial commit </strong> </th>
+    <th> <strong> 02/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> bd9dc50</strong> </th>
+    <th> <strong> feat: Added feature 08 </strong> </th>
     <th> <strong>  </strong> </th>
-    <th> <strong> /04/2024 </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 40e4b44 </strong> </th>
+    <th> <strong> feat: Added us-09 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> ef819f6 </strong> </th>
+    <th> <strong> feat: Added us-10 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> cc12820 </strong> </th>
+    <th> <strong> feat: Added us-11 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
  <tr>
 
 </table>
