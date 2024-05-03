@@ -4578,6 +4578,16 @@ Enlace del deploy de la web app mediante :
 
 https://elegant-beijinho-a167d8.netlify.app/#/home
 
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236088692376862800/Imagen_de_WhatsApp_2024-05-03_a_las_17.51.35_8e7468d0.jpg?ex=6636bccd&is=66356b4d&hm=19ecb23a47bde42126edd52a9b70036c1c295a7fb372f49955e5f9f1deb6bea3&=&format=webp&width=1176&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611968241774/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.38_a412ebd5.jpg?ex=663692d1&is=66354151&hm=2c48de1b559eccba011035979444186b02c22cf5ef47cd90c411a9ced4787e60&=&format=webp&width=1190&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612220035152/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.23_1984e9b6.jpg?ex=663692d1&is=66354151&hm=7e6999da87b9d4ce72eca85202ab9949eb77f7e6c782bef3cdf598896b33204c&=&format=webp&width=908&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612517564616/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.37_136265a6.jpg?ex=663692d1&is=66354151&hm=ef18af36d803d4cf416d0e23fde18c9a00995e732cf47f90486e91488f4a766f&=&format=webp&width=1279&height=675"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612756770866/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.14_6507db3b.jpg?ex=663692d1&is=66354151&hm=4af9235713fedc87314a802b8406f66e0513df80dec9fcb7cf61efaaaa956ff2&=&format=webp&width=674&height=676"/>
+
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
 En el alcance del sprint 2 se ha priorizado el desarrollado del frontend web app, por lo que para este sprint no se evidencia el empleo de web services.
