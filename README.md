@@ -4039,6 +4039,43 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 ---
 
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento escritor:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia y la escritura de los capítulos?
+- ¿Qué opinas sobre el sistema de colaboración con artistas?
+- ¿Qué opinas sobre la funcionalidad de recomendación de libros según el género?
+
+Preguntas segmento ilustrador:
+
+- ¿Hay alguna característica que sientes que falta aún optimizar? ¿Qué consideras que le haría falta?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia, la subida de ilustraciones a un capítulo y su previsualización?
+- ¿Qué opinas sobre la funcionalidad de colaboración con escritores?
+
+Preguntas segmento lector:
+
+- ¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
+- ¿Qué te pareció la calidad de las ilustraciones y la tipografía al momento de leer un capítulo? ¿Pudiste consumir el contenido de la obra con facilidad o consideras que deberíamos hacer ajustes a cómo se muestran los capítulos?
+- ¿Consideras que la plataforma ofrece una buena variedad de libros ilustrados?
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+
+
 # Conclusiones
 <p>En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
 
