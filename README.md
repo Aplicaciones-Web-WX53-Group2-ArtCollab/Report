@@ -4071,6 +4071,36 @@ Preguntas segmento lector:
 
 ### 5.3.2. Registro de Entrevistas
 
+**Segmento escritor:**
+
+**Entrevista 1:**
+
+Nombres: Luz Gabriela
+
+Apellidos: Huilca Chipana
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EX62KUIbzLpHp4UbKVxNH-IBYz1RTpOl9teAnWEosN-9OA?e=oM1abu
+
+Resumen de la entrevista:
+
+Se entrevistó a Luz Gabriela, una jóven de 24 años practicante de la carrera de Derecho en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en general el diseño de la aplicación es excelente y resalta su facilidad de uso y el diseño de la interfaz.
+Acerca de la funcionalidad que más le llamó la atención, menciona que la herramienta de creación de sala de artistas es una excelente idea, ya que le permite colaborar de forma muy fácil con otros artistas y escritores para crear contenido de calidad.
+En cuanto a las herramientas de gestión de contenido, menciona que la creación de una historia y la escritura de los capítulos es muy intuitiva y fácil de usar.
+Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
+Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
