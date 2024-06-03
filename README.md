@@ -4089,7 +4089,7 @@ Evidencia de la entrevista:
 
 <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EX62KUIbzLpHp4UbKVxNH-IBYz1RTpOl9teAnWEosN-9OA?e=oM1abu
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
 
 Resumen de la entrevista:
 
@@ -4100,6 +4100,37 @@ Acerca de la funcionalidad que más le llamó la atención, menciona que la herr
 En cuanto a las herramientas de gestión de contenido, menciona que la creación de una historia y la escritura de los capítulos es muy intuitiva y fácil de usar.
 Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
 Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Segmento lector:**
+
+**Entrevista 1:**
+
+Nombres: Marcelo
+
+Apellidos: Masaveu Infante
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+
+Resumen de la entrevista:
+
+Se entrevistó a Marcelo, un joven de 24 años que actualmente se encuentra trabajando como gestor de Marketing Freelance en la ciudad de Lima.
+
+Nos comenta que está dispuesto a hacer uso de la aplicación y que le parece una excelente idea para encontrar contenido de calidad y apoya a los artistas emergentes, aunque sigue prefiriendo los libros físicos.
+
+Sobre la calidad de las ilustraciones y la tipografía al momento de leer un capítulo, menciona que la lectura es fluida y la calidad de las ilustraciones es adecuada, aunque le gustaría tener la opción de ajustar el tamaño de la tipografía y la ilustración.
+Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, aunque le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
