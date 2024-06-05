@@ -4911,6 +4911,18 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Para el presente sprint, se ha desarollado el API REST de la web application. Para lo cual se emplearon las siguientes herramientas.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API REST </li>
+
+</ul>
+
+
+
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
