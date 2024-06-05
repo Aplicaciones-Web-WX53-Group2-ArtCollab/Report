@@ -5132,6 +5132,452 @@ Sobre el diseño de la aplicación el opina que le parece muy llamativa el dise�
 
 
 
+### 5.2.3. Sprint backlog 3
+## 5.2.3.1 Sprint Planning 3
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/05/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el merge con mayor anticipación para evitar inconvenientes y tambien la comunicación continua con el lider del grupo para evitar inconvenientes en las partes desarrolladas en el trabajo. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> Para este sprint tenemos como objetivo de realizar la implementación parcial del backend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usario correspondientes a cada funcionalidad. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td>  94  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 21 <td>
+      </tr>
+  </table>
+
+  ## 5.2.3.2 Sprint BackLog 3
+   
+   En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+   Link de Trello: https://trello.com/invite/b/mL0NRMRA/ATTIfea4e114b8101bdaf69c1d40463e6d49B8926514/artcollab-sprint3
+
+   <img src="https://media.discordapp.net/attachments/1235639705157107720/1247614920632045608/5ee48c04-6ebd-475a-8600-9cfa25b3baa8.png?ex=6660ab70&is=665f59f0&hm=a9068177dd0914c816cefb52ffa204faf919fb1ef574f03b78d462b4db32ef28&=&format=webp&quality=lossless&width=1100&height=532"/>
+
+   <table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP4-US11 </th>
+     <th colspan="3">  Reparto por Ingresos publicitarios  </th>
+      <th> W17  </th>
+     <th> Monetization Bounded Context </th>
+      <th> Implementar el sistema de subscripciones a traves del API. 
+      </th>
+     <th> 3 </th>
+     <th> Frida Dam </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> E3-US08  </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W18  </th>
+     <th> Content Bounded Context  </th>
+     <th> Implementar la funcion para subir libros a traves del API.</th>
+     <th> 2 </th>
+     <th> Camila Amaro </th> 
+     <th> To Review </th>
+   </tr>
+    <tr>
+      <th> E3-US09  </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W19  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar la funcion de guardar los comentarios a traves del API. </th>
+     <th> 3  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E6-US15  </th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W20  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de comisiones a traves del API.  </th>
+     <th> 2 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E7-US19 </th>
+     <th colspan="3"> Uso de API para el inicio de sesión </th>
+      <th> W21  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar el inicio de sesión a traves del API. </th>
+     <th>  3 </th>
+     <th> Gustavo Huilca </th> 
+     <th> To Review </th>
+   </tr>
+     <tr>
+      <th> E7-US20  </th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal </th>
+      <th> W22  </th>
+     <th> Monetization Bounded Context </th>
+     <th>  Utilizar una servicio externo para realizar el pago en una subscripción. </th>
+     <th>  4 </th>
+     <th> Mathias Jave </th> 
+     <th> To Do</th>
+   </tr>
+
+   <tr>
+      <th> E7-US21  </th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th>  Utilizar una servicio externo para compartir libros a traves de las redes sociales. </th>
+     <th>  4 </th>
+     <th> Camila Amaro </th> 
+     <th> To Do</th>
+   </tr>
+   </tr>
+</table>
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+
+   
+
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento escritor:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia y la escritura de los capítulos?
+- ¿Qué opinas sobre el sistema de colaboración con artistas?
+- ¿Qué opinas sobre la funcionalidad de recomendación de libros según el género?
+
+Preguntas segmento ilustrador:
+
+- ¿Hay alguna característica que sientes que falta aún optimizar? ¿Qué consideras que le haría falta?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia, la subida de ilustraciones a un capítulo y su previsualización?
+- ¿Qué opinas sobre la funcionalidad de colaboración con escritores?
+
+Preguntas segmento lector:
+
+- ¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
+- ¿Qué te pareció la calidad de las ilustraciones y la tipografía al momento de leer un capítulo? ¿Pudiste consumir el contenido de la obra con facilidad o consideras que deberíamos hacer ajustes a cómo se muestran los capítulos?
+- ¿Consideras que la plataforma ofrece una buena variedad de libros ilustrados?
+
+### 5.3.2. Registro de Entrevistas
+
+**Segmento escritor:**
+
+**Entrevista 1:**
+
+Nombres: Luz Gabriela
+
+Apellidos: Huilca Chipana
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
+
+Resumen de la entrevista:
+
+Se entrevistó a Luz Gabriela, una jóven de 24 años practicante de la carrera de Derecho en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en general el diseño de la aplicación es excelente y resalta su facilidad de uso y el diseño de la interfaz.
+Acerca de la funcionalidad que más le llamó la atención, menciona que la herramienta de creación de sala de artistas es una excelente idea, ya que le permite colaborar de forma muy fácil con otros artistas y escritores para crear contenido de calidad.
+En cuanto a las herramientas de gestión de contenido, menciona que la creación de una historia y la escritura de los capítulos es muy intuitiva y fácil de usar.
+Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
+Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Entrevista 2:**
+
+Nombres: Luis Santiago
+
+Apellidos: Azcarate Vasquez
+
+Edad: 25
+
+Lugar de Residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Eb0HZ39W04NLldw7mkyFswYBYqksX9xMfUvm5edJpprJVw?e=2rvBty&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de entrevista:
+
+Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
+
+**Segmento ilustrador:**
+
+**Entrevista 1:**
+
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EfDr97NshilPgrq11mdjl2sBQyIITwftP6KkNSZg5RX20A?e=j3mYXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista: 
+
+Se entrevistó a Daniel Alejandra, una estudiante de Negocios Internacional de 21 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
+
+**Entrevista 2:**
+
+Nombres: Carolina
+
+Apellidos: Torres Torres
+
+Edad: 25 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Carolina Torres es una joven de 25 años que trabaja como ilustradora independiente. Luego de haber revisado el aplicativo considera que tienes varias funciones útiles tanto para creadores como lectores. 
+
+Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde los usuarios puedan dejar sus dudas. Además, tambien menciona que en ese foro podría haber una opción donde brindar recomendaciones de mejoras para la app. Asimismo, siente que la aplicación como tal es bastante intuitiva. Con respecto al diseño considera que si podría haber mejoras en relación a que haya una paleta más limitada de colores y que la fuente sea cambiada en tamaño y grosor para facilitar la lectura.
+
+Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
+
+**Entrevista 2**
+
+Nombres: Andrea Milagros
+
+Apellidos: Cabanillas Gora
+ 
+Edad: 18 años 
+
+Lugar de residencia: Santiago de Surco, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248010463673847839/image.png?ex=66621bd1&is=6660ca51&hm=c1323881f464a66c766513301863bac0b32d544bdda2913d220396270f9d0a81&=&format=webp&quality=lossless&width=1100&height=460">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EaSE9eBA40lOmleQ7JSHaSMBpRifRtbdV5xklyd9ovPM_w?e=M2axs4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto a Andrea Cabanillas, una estudiante de Ingeniería de Software de 18 años que actualmente estudia en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en sus tiempos libres se dedica a realizar ilustraciones, además ella menciona que la colaboración entre otros ilustradores es un apartado novedoso, puesto a que ella considera que no existen muchas aplicaciones que ofrezcan ese servicio, por otro lado tambien destaca el diseño visual y las funcionalidades de la aplicación, las cuales considera que son llamativas.
+
+**Segmento lector:**
+
+**Entrevista 1:**
+
+Nombres: Marcelo
+
+Apellidos: Masaveu Infante
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+
+Resumen de la entrevista:
+
+Se entrevistó a Marcelo, un joven de 24 años que actualmente se encuentra trabajando como gestor de Marketing Freelance en la ciudad de Lima.
+
+Nos comenta que está dispuesto a hacer uso de la aplicación y que le parece una excelente idea para encontrar contenido de calidad y apoya a los artistas emergentes, aunque sigue prefiriendo los libros físicos.
+
+Sobre la calidad de las ilustraciones y la tipografía al momento de leer un capítulo, menciona que la lectura es fluida y la calidad de las ilustraciones es adecuada, aunque le gustaría tener la opción de ajustar el tamaño de la tipografía y la ilustración.
+Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, aunque le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Entrevista 2**
+
+Nombres: Aaron Elias
+
+Apellidos: Acuña Alarcon
+
+Edad: 19 años
+
+Lugar de residencia: La victoria, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EdRSRwIYaNtHqBfGSTB5Qo4BrP1PZfCQB3EN6D3NIo2Clg?e=BEUEPZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto a Aaron, un joven de 20 años que actualmente es un estudiante de la Upc de la carrera de Ingenieria de Software.
+
+Nos comenta que suele dedicar gran parte de su tiempo a la lectura y que en su opinión nuestra aplicación le parece una propuesta innovadora, puesto a que pudo observar la variedad de obras que ofrece nuestra aplicación.
+
+Sobre el diseño de la aplicación el opina que le parece muy llamativa el diseño visual asi como el apartado de nuestra aplicación.
+
+**Entrevista 3:**
+
+Nombres: Alvaro
+
+Apellidos: Rodriguez Amado
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 03 Segmento Lector">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Alvaro es un estudiante de Ingeniería Electrónica y lector habitual de historias en formatos digitales.
+
+Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las ilustraciones que posee,  la buena organización de la interfaz que te permite hallar fácilmente los géneros de libros y poder tener la facilidad de poder seguir tanto a los escritores como artistas
+
+La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
+
+Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+
+
 # Conclusiones
 <p>En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
 
