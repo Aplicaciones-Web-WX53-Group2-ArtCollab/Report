@@ -4111,7 +4111,6 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
    <img src="https://media.discordapp.net/attachments/1235639705157107720/1247614920632045608/5ee48c04-6ebd-475a-8600-9cfa25b3baa8.png?ex=6660ab70&is=665f59f0&hm=a9068177dd0914c816cefb52ffa204faf919fb1ef574f03b78d462b4db32ef28&=&format=webp&quality=lossless&width=1100&height=532"/>
 
-
    <table style="width:400px; height:100px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
@@ -4203,10 +4202,8 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
      <th> Camila Amaro </th> 
      <th> To Do</th>
    </tr>
-
-
-
    </tr>
+   </table>
    
 
 
