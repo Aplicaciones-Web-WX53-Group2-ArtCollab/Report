@@ -4125,6 +4125,32 @@ Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Uni
 
 Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
 
+**Segmento ilustrador:**
+
+**Entrevista 1:**
+
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EfDr97NshilPgrq11mdjl2sBQyIITwftP6KkNSZg5RX20A?e=j3mYXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista: 
+
+Se entrvistó a Daniel Alejandra, una estudiante de Negocios Internacional de 21 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
+
 **Segmento lector:**
 
 **Entrevista 1:**
