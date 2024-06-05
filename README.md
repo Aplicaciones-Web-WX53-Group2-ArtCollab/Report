@@ -4115,7 +4115,9 @@ Entrevistador: Juan Cuadros Rodriguez
 
 Evidencia de entrevista:
 
-Enlace de entrevista:
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Eb0HZ39W04NLldw7mkyFswYBYqksX9xMfUvm5edJpprJVw?e=2rvBty&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Resumen de entrevista:
 
