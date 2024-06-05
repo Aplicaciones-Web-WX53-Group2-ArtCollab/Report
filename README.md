@@ -4101,6 +4101,28 @@ En cuanto a las herramientas de gestión de contenido, menciona que la creación
 Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
 Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
 
+**Entrevista 2:**
+
+Nombres: Luis Santiago
+
+Apellidos: Azcarate Vasquez
+
+Edad: 25
+
+Lugar de Residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de entrevista:
+
+Enlace de entrevista:
+
+Resumen de entrevista:
+
+Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
+
 **Segmento lector:**
 
 **Entrevista 1:**
