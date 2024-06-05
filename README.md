@@ -4203,7 +4203,27 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
      <th> To Do</th>
    </tr>
    </tr>
-   </table>
+</table>
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+
    
 
 
