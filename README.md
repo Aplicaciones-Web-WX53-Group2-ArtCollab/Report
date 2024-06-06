@@ -4482,6 +4482,77 @@ Considera que para no ser la versión final del aplicativo esta bastante bien, n
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**Carrera** :Ingeniería de Software </p>
+**Curso**   :WS54
+
+**Profesor**: Naldo Reupo-Musayón Gastulo
+
+**Auditor**:  Grupo 2 - Imaginatales </p>
+**Cliente**:  Grupo 3 - ARSAA
+
+#### SITE o APP A EVALUAR
+DriveSafe
+
+#### TAREAS A EVALUAR
+Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de un nuevo vehículo
+- Adaptabilidad a dispositivos móviles
+
+#### ESCALA DE SEVERIDAD
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
+#### TABLA RESUMEN
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*||||
+|*2*||||
+|*3*||||
+|*4*|*No hay opción para volver a la página de inicio desde la pantalla de registro.*|*3*|*Usability - Libertad y control del usuario*|
+|*5*|*No se actualiza la página con los vehículos registrados*|*4*|*Information Architecture: Is it usable?*|
+
+#### DESCRIPCIÓN DE PROBLEMAS
+***PROBLEMA #4:** No hay opción para volver a la página de inicio desde la pantalla de registro.*
+
+***Severidad:** 3*
+
+*Heurística violada: Usability - Libertad y control del usuario*
+
+***Problema:***
+No hay botón o enlace que redirija a la página de inicio
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=6662f135&is=66619fb5&hm=7922b1e4a2df9dea504dabe33d3314414c453654f6d97be108a93d32f207239f&=&format=webp&quality=lossless&width=277&height=411" alt="Problema 3">
+
+*Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.*
+
+***Recomendación:**
+Se debería agregar un botón o un enlace al logo del aplicativo, para que de ese modo al presionar ahí se redirija al usuario a la página de inicio.*
+
+***PROBLEMA #5:** No se actualiza la página con los vehículos registrados.*
+
+***Severidad:** 4*
+
+*Heurística violada: Information Architecture - Is it usable?*
+
+***Problema:***
+No se muestran los vehículos registrados en la pestaña Alquiler
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248062950779125781/image.png?ex=6662f573&is=6661a3f3&hm=77ddf64878ffbc4404a90b0d62dc6a477f8e5d028b00b6e09701dcfe521ddbe7&=&format=webp&quality=lossless&width=793&height=411" alt="Problema 3">
+
+*Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.*
+
+***Recomendación:**
+Añadir una función que actualice la página con los vehículos registrados por el usuario.*
+
 ## 5.4. Video About-the-Product
 
 
