@@ -276,6 +276,8 @@ Por último, se ha documentado el trabajo realizado durante el sprint utilizando
 TP1 <br>
 En este avance del trabajo, se realizó la programación de la parte de frontend de la aplicación web a través del trabajo colaborativo en Gitflow en distintas ramas en el repositorio. Esto nos permitió trabajar de manera eficiente y coordinada en la implementación de las funcionalidades de la aplicación.
 
+TB2 <br>
+En este avance del trabajo, se ha trabajado en equipo para realizar la implementación de los servicios de la aplicación web distribuyendo las tareas  por las historias de usuario asignadas.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -318,6 +320,12 @@ Huilca Chipana, Gustavo <br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
+
+TP01 <br>
+En este avance del trabajo, se hizo uso de los servicios de búsqueda http para el consumo de datos de una API fake a través de los métodos CRUD. Se consumieron los datos de los endpoints de libros, ilustraciones, usuarios, información de chats, entre otros.
+
+TB2 <br>
+En este avance del trabajo, se codificaron los servicios del api para la aplicación web usando el framework de Spring Boot, haciendo uso de buenas prácticas de programación y diseño de software.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
