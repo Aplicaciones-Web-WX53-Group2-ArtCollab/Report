@@ -108,9 +108,9 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
 - Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=663573ab&is=6634222b&hm=8bdc02afb00835ecb7261ded3eaf6855304f385c3a1c37c91b083c9590fffc69&=&format=webp&quality=lossless&width=720&height=357" alt="Report Commits 1 TP1"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=6662ef6b&is=66619deb&hm=136bc937831b97c2642fdb2f6fdcc2e69f4f395215c0ebb85af2bcbaebab074f&=&format=webp&quality=lossless&width=829&height=411" alt="Report Commits 1 TP1"/>
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=663573bf&is=6634223f&hm=d3fcaa88d4f38374ae8753ac6c9d2c683794afebf9896fbecced23d7b8a1055c&=&format=webp&quality=lossless&width=657&height=603" alt="Report Commits 2 TP1"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=6662ef7f&is=66619dff&hm=06f0670bb2f4a7c0a585ebb064dc912393d2684d92aed846dfa509873660a48b&=&format=webp&quality=lossless&width=448&height=411" alt="Report Commits 2 TP1"/>
 <br>
 
 ---
