@@ -76,6 +76,18 @@ Jave Diaz,  Mathias Alejandro
 </td>
             <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
         <tr>
+<tr>
+            <td align = "center">TP1</td>
+            <td>02/05/2024</td>
+            <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7 y 5.2.2.8 </td>
+        </tr>
+        <tr>
+            <td align = "center">TB2</td>
+            <td>06/06/2024</td>
+            <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
+        </tr>
 <table>
 
 <br>
@@ -4595,6 +4607,8 @@ La simplificación del proceso de registro, la mejora de la colaboración creati
 
 Por otro lado, la implementación y validación del producto se realizaron mediante un enfoque ágil, dividido en sprints manejables, que permitieron una iteración rápida y la incorporación de retroalimentación continua. La gestión de la configuración del software aseguró que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se llevó a cabo de manera organizada y eficiente, con cada sprint planificado y ejecutado de manera transparente.
 </p>
+
+## Video About-the-Team
 
 ---
 
