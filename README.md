@@ -117,7 +117,18 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=6662ef6b&is=66619deb&hm=136bc937831b97c2642fdb2f6fdcc2e69f4f395215c0ebb85af2bcbaebab074f&=&format=webp&quality=lossless&width=829&height=411" alt="Report Commits 1 TP1"/>
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=6662ef7f&is=66619dff&hm=06f0670bb2f4a7c0a585ebb064dc912393d2684d92aed846dfa509873660a48b&=&format=webp&quality=lossless&width=448&height=411" alt="Report Commits 2 TP1"/>
+
 <br>
+
+TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, centrado en el desarrollo de la API.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248774359313682543/image.png?ex=6664e340&is=666391c0&hm=25c46a6a7a90901024dffd8fec4da63afc40cc20725bf240a3ec2401551201a8&=&format=webp&quality=lossless" alt="Report Commits 1 TB2"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248774451097763941/image.png?ex=6664e356&is=666391d6&hm=e31e2adbe17c2d4c75c48e0f0083d28ad66286142bdfa2dc9083e667e6a0511c&=&format=webp&quality=lossless&width=486&height=592" alt="Report Commits 2 TB2"/>
 
 ---
 
