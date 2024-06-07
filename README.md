@@ -5461,7 +5461,6 @@ Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Uni
 
 Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
 
-**Segmento escritor:**
 
 **Entrevista 3:**
 
@@ -5539,7 +5538,7 @@ Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde
 
 Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
 
-**Entrevista 2**
+**Entrevista 3**
 
 Nombres: Andrea Milagros
 
@@ -5560,6 +5559,26 @@ Resumen de la entrevista:
 Se entrevisto a Andrea Cabanillas, una estudiante de Ingeniería de Software de 18 años que actualmente estudia en la Universidad Peruana de Ciencias Aplicadas.
 
 Nos menciona que en sus tiempos libres se dedica a realizar ilustraciones, además ella menciona que la colaboración entre otros ilustradores es un apartado novedoso, puesto a que ella considera que no existen muchas aplicaciones que ofrezcan ese servicio, por otro lado tambien destaca el diseño visual y las funcionalidades de la aplicación, las cuales considera que son llamativas.
+
+**Entrevista 4**
+
+Nombres: Diana Carolina
+
+Apellidos: Vera Benavides
+
+Edad: 23 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+Enlace de entrevista: https://drive.google.com/file/d/1soGlZmnUhnicLxNDpwXWvzP4WqpGgA3M/view?usp=sharing
+
+Resumen de la entrevista:
+
+Se entrevistó a Diana, de 23 años de edad y ilustradora.
+
+Diana nos comentó que la plataforma contaba con todas las herramientas que ella necesita para que su trabajo sea óptimo. Le parece útil la opción del portafolio, ya que le permite visualizar todos sus proyectos de forma rápida y sencilla. Además, considera que permitirá que los escritores descubran su trabajo y, con la opción de colaboración, la puedan contactar. Sobre la funcionalidad para que los artistas colaboren, ella considera que el chat es una funcionalidad relevante, porque facilita la comunicación y coordinación entre ambas partes. Ella opina que nuestra página le permitiría tener una mayor exposición y, de esa forma, encontrar más oportunidades laborales. Por último, comentó que no tuvo dificultades en el uso de la aplicación ni en encontrar las secciones relacionadas con el rol de ilustradores.
 
 **Segmento lector:**
 
@@ -5649,6 +5668,8 @@ Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las 
 La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
