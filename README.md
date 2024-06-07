@@ -1,17 +1,17 @@
 # COURSE PROJECT
 
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    Universidad Peruana de Ciencias Aplicadas</><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX53</strong><br>
-    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
+    Ingeniería de Software</><br>
+    Aplicaciones Web - WX53</><br>
+    Profesor: Naldo Reupo-Musayon Gastulo</><br>
     <br>INFORME
 </p>
 
 <p align="center">
-    <strong>Startup: ImaginaTales </strong><br>
-    <strong>Producto: ArtCollab </strong>
+    Startup: ImaginaTales </><br>
+    Producto: ArtCollab </>
 </p>
 
 <div>
@@ -81,6 +81,12 @@ Jave Diaz,  Mathias Alejandro
             <td>02/05/2024</td>
             <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
+        </tr>
+  <tr>
+            <td align = "center">TB2</td>
+            <td>06/06/2024</td>
+            <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
         </tr>
 <table>
 
@@ -201,6 +207,7 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
     - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
@@ -209,7 +216,27 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-    
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-2)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-2)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
+
+- [5.4. Video about the product](#54-video-about-the-product)
+
+## [Conclusiones](#conclusiones)
+- [Video about the team](#video-about-the-team)
+
+## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
 
 ---  
@@ -236,7 +263,10 @@ TB1 <br>
 Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realizados en conjunto.
 
 TP1 <br>
-Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+
+TB2 <br>
+Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -245,9 +275,18 @@ En el avance del trabajo se hizo mediante branches para la colaboracion en la cr
 TP1 <br>
 En esta entrega, el trabajo donde se desarrollo el front de nuestra aplicacion web donde se utilizo las diversas ramas para la organizacion del trabajo. Ademas, del uso de GitFlow y el DDD permitiendo un enfoque claro y estructurado para el diseño del sistemas y mantenimiento del codigo.
 
+TB2 <br>
+En este avance se trabajo mendiante el uso de github mediante diferentes branches cada una correspondiente a las User Stories destinadas a la API.
+
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
+
+TP1 <br>
+Logramos realizar el despliegue de nuestra aplicación web, siguiendo el modelo de domain driven design. En equipo logramos integrar todos los aportes realizados a lo largo del proyecto, resultando en una pagina fluida y exitosa.
+
+TB2 <br>
+Se hicieron mejoras en el frontend y se desarrollo el backend de la aplicación. Mejorasmos las funcionalidades dentro de nuestra página y priorizamos tener un trabajo ordenado para facilitar el trabajo en equipo.
 
 Huilca Chipana, Gustavo <br>
 TB1 <br>
@@ -257,6 +296,8 @@ Por último, se ha documentado el trabajo realizado durante el sprint utilizando
 TP1 <br>
 En este avance del trabajo, se realizó la programación de la parte de frontend de la aplicación web a través del trabajo colaborativo en Gitflow en distintas ramas en el repositorio. Esto nos permitió trabajar de manera eficiente y coordinada en la implementación de las funcionalidades de la aplicación.
 
+TB2 <br>
+En este avance del trabajo, se ha trabajado en equipo para realizar la implementación de los servicios de la aplicación web distribuyendo las tareas  por las historias de usuario asignadas.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -284,6 +325,9 @@ Para esta entrega se analizaron las preferencias de los segmentos escritor, ilus
 TP1 <br>
 Para la entrega del segundo avance del trabajo, se completaron los requisitos establecidos, lo que incluyó avanzar significativamente con el desarrollo del frontend de la aplicación web. Además, se logró desplegar la aplicación de manera efectiva, lo que garantiza su disponibilidad para los usuarios finales. De igual modo, se llevó a cabo la creación de una API, permitiendo mediante esta una comunicación eficiente y segura.
 
+TB2 <br>
+Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
@@ -291,14 +335,29 @@ Para la entrega del trabajo, se realizaron diversos analices para identificar y 
 TP1<br>
 En el avance del trabajo, se realizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
 
+TB2 <br>
+Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.
+
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 En el desarrollo del proyecto se utilizaron técnicas variadas para poder identificar y conocer todas las necesidades, aspectos, usuarios y características del negocio al cual nos vamos a enfocar.  Para registrar la información recaudada y los métodos implementados usamos gihub para asegurarnos de que las versiones se guarden de forma ordenada. Realizamos entrevistas, diagramas, needfinding, user stories, entre otros.
+
+TP1 <br>
+En esta entrega se hizo uso de un API para registrar y obtener la información de los usuarios, libros y otros elementos dentro de nuestra aplicación. Se aplicaron los metodos CRUD para lograr completar exitosamente esta entrega.
+
+TB2 <br>
+En este avance nosotros realizamos entrevistas de validacion para poder conocer la opinion de nuestros usuarios y realizar mejoras en base de sus recomendaciones. Realizamos el backend y mejoramos el forntend en base a las necesidades y requisitos encontrados
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
+
+TP01 <br>
+En este avance del trabajo, se hizo uso de los servicios de búsqueda http para el consumo de datos de una API fake a través de los métodos CRUD. Se consumieron los datos de los endpoints de libros, ilustraciones, usuarios, información de chats, entre otros.
+
+TB2 <br>
+En este avance del trabajo, se codificaron los servicios del api para la aplicación web usando el framework de Spring Boot, haciendo uso de buenas prácticas de programación y diseño de software.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -1510,9 +1569,9 @@ Evidencia de la entrevista:
 <tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar una pagina</p>
-<p><strong>para</strong> saber acerca de los servicios de la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar una pagina</p>
+<p><>para</> saber acerca de los servicios de la
 aplicación</p></td>
 <td><p>Escenario 1: Header</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1527,10 +1586,10 @@ aplicación</p></td>
 <tr class="odd">
 <td>E1-US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar la sección de footer de la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar la sección de footer de la
 pagina</p>
-<p><strong>para</strong> encontrar los links de las redes
+<p><>para</> encontrar los links de las redes
 sociales</p></td>
 <td><p>Escenario 1: Footer</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1546,10 +1605,10 @@ perfil de la startup</p></td>
 <tr class="even">
 <td>E1-US03</td>
 <td>Sección de Explora</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> conocer los servicios que ofrece la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> conocer los servicios que ofrece la
 aplicación</p>
-<p><strong>para</strong> saber las características que ofrece</p></td>
+<p><>para</> saber las características que ofrece</p></td>
 <td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
 <p>Cuando se encuentre en la sección Explora</p>
@@ -1560,10 +1619,10 @@ mejores ilustradores</p></td>
 <tr class="odd">
 <td>E1-US04</td>
 <td>Sección Colabora</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> conocer las formas de colaborar con otros
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><strong>para</strong> facilitarme el contacto con otros
+<p><>para</> facilitarme el contacto con otros
 artistas</p></td>
 <td><p>Escenario 1: Colabora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1580,10 +1639,10 @@ informacion</p></td>
 <tr class="even">
 <td>E1-US05</td>
 <td>Sección Hero</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar una sección hero donde describa
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar una sección hero donde describa
 brevemente la misión de la startup</p>
-<p><strong>para</strong> tener una idea de lo que ofrece la
+<p><>para</> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td><p>Escenario 1: Hero</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1599,9 +1658,9 @@ pertenecer a la comunidad</p>
 <tr class="odd">
 <td>E2-US06</td>
 <td>Asignación de Rol</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> poder asignarle un rol</p>
-<p><strong>para</strong> poder visualizar la página</p></td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> poder asignarle un rol</p>
+<p><>para</> poder visualizar la página</p></td>
 <td><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
 <p>Dado que el usuario se encuentra logeado en la página </p>
 <p>Cuando se desplace le aparecerá una ventana para que elija un rol
@@ -1622,9 +1681,9 @@ al rol que haya escogido con nuevas herramientas.</p></td>
 <tr class="even">
 <td>E2-US07</td>
 <td>Configuración de Perfil del Usuario</td>
-<td><p><strong>Como</strong> lector, artista o escritor</p>
-<p><strong>quiero</strong> configurar mi perfil</p>
-<p><strong>para</strong> satisfacer mis gustos</p></td>
+<td><p><>Como</> lector, artista o escritor</p>
+<p><>quiero</> configurar mi perfil</p>
+<p><>para</> satisfacer mis gustos</p></td>
 <td><p>Escenario 1: Ingresar al perfil</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de click en su perfil</p>
@@ -1639,9 +1698,9 @@ portafolio</p></td>
 <tr class="odd">
 <td>E3-US08</td>
 <td>Sube tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> una plataforma</p>
-<p><strong>para</strong> subir mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> una plataforma</p>
+<p><>para</> subir mis libros</p></td>
 <td><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
@@ -1655,9 +1714,9 @@ portafolio</p></td>
 <tr class="even">
 <td>E3-US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> que mis obras sean ilustradas</p>
-<p><strong>para</strong> mejorarlas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> que mis obras sean ilustradas</p>
+<p><>para</> mejorarlas</p></td>
 <td><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -1676,9 +1735,9 @@ ilustradores</p>
 <tr class="odd">
 <td>E4-US10</td>
 <td>Destaca tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> destacar mis libros</p>
-<p><strong>para</strong> tener más vistas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> destacar mis libros</p>
+<p><>para</> tener más vistas</p></td>
 <td><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -1699,9 +1758,9 @@ obra</p></td>
 <tr class="even">
 <td>E4-US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> generar ingresos</p>
-<p><strong>para</strong> mejorar mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> generar ingresos</p>
+<p><>para</> mejorar mis libros</p></td>
 <td><p>Escenario 1:  Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
@@ -1722,10 +1781,10 @@ obra</p></td>
 <tr class="odd">
 <td>E5-US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><strong>para</strong> tener una gran variedad de opciones a elegir
+<p><>para</> tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
@@ -1741,10 +1800,10 @@ etc.</p></td>
 <tr class="even">
 <td>E5-US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><strong>para</strong> contar con más capítulos a mi
+<p><>para</> contar con más capítulos a mi
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal </p>
@@ -1764,9 +1823,9 @@ clic en desbloquear</p>
 <tr class="odd">
 <td>E5-US14</td>
 <td>Dejar Comentarios</td>
-<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
-<p><strong>quiero</strong> poder comentar las obras</p>
-<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+<td><p><>Como</> lector, escritor e ilustrador</p>
+<p><>quiero</> poder comentar las obras</p>
+<p><>para</> ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td><p>Escenario 1: Escoge el libro</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
@@ -1781,10 +1840,10 @@ feedback</p></td>
 <tr class="even">
 <td>E6-US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> contar con una monetización por mis
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> contar con una monetización por mis
 ilustraciones</p>
-<p><strong>para</strong> poder percibir ingresos dentro de la
+<p><>para</> poder percibir ingresos dentro de la
 aplicación</p></td>
 <td><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
@@ -1801,10 +1860,10 @@ externa</p>
 <tr class="odd">
 <td>E6-US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><strong>para</strong> tener un mejor rendimiento</p></td>
+<p><>para</> tener un mejor rendimiento</p></td>
 <td><p>Escenario 1: Añade Flexibilidad</p>
 <p>Dado que el ilustrador se encuentra en la página principal</p>
 <p>Cuando le dé clic a perfil</p>
@@ -1825,9 +1884,9 @@ creativa</p></td>
 <tr class="odd">
 <td>E1-US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><strong>Como</strong> usuario interesado en el producto</p>
-<p><strong>quiero</strong> que la landing page sea responsive</p>
-<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p><>Como</> usuario interesado en el producto</p>
+<p><>quiero</> que la landing page sea responsive</p>
+<p><>para</> tener un navegacion fluida y accesible</p></td>
 <td><p>Escenario 1: Ingresa desde una computadora</p>
 <p>Dado que el usuario se encuentra navegando en una computadora</p>
 <p>Cuando ingrese a la Landing page</p>
@@ -1851,9 +1910,9 @@ Y que se pueda interactuar correctamente con el touch.</p></td>
 <tr class="odd">
 <td>E1-US18</td>
 <td>Accesibilidad  en el Landing page</td>
-<td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
-<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><strong>para</strong> navegar de forma fluida 
+<td><p><>Como</> usuario que tiene una discapacidad </p>
+<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><>para</> navegar de forma fluida 
 y conocer su aplicación sin impedimentos</p></td>
 <td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
 <p>Dado que el usuario se encuentra en el landing page</p>
@@ -1874,9 +1933,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 
 <td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
 <p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
@@ -1896,9 +1955,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 
 <td><p>Escenario 1: Suscribirse</p>
 <p>Dado que el usuario Inicia sesión en la aplicación.</p>
@@ -1922,9 +1981,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US21</td>
 <td>Uso de API para compartir libros en redes sociales</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
 
 <td><p>Escenario 1: Compartir en Facebook</p>
 <p>Dado que el usuario está en la página del libro que desea compartir..</p>
@@ -1988,9 +2047,9 @@ https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF5
 <td>1</td>
 <td>US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><strong>Como</strong> escritor o lector</p>
-<p><strong>quiero</strong> visualizar una pagina</p>
-<p><strong>para</strong> saber acerca de los servicios de la
+<td><p><>Como</> escritor o lector</p>
+<p><>quiero</> visualizar una pagina</p>
+<p><>para</> saber acerca de los servicios de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1999,10 +2058,10 @@ aplicación</p></td>
 <td>2</td>
 <td>US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> visualizar la sección de footer de la
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar la sección de footer de la
 pagina</p>
-<p><strong>para</strong> encontrar los links de las redes
+<p><>para</> encontrar los links de las redes
 sociales</p></td>
 <td>Baja</td>
 <td>1</td>
@@ -2011,10 +2070,10 @@ sociales</p></td>
 <td>3</td>
 <td>US03</td>
 <td>Sección de Conócenos</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> conocer los servicios que ofrece la
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> conocer los servicios que ofrece la
 aplicación</p>
-<p><strong>para</strong> saber las características que ofrece</p></td>
+<p><>para</> saber las características que ofrece</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2022,10 +2081,10 @@ aplicación</p>
 <td>4</td>
 <td>US04</td>
 <td>Sección Colabora</td>
-<td><p><strong>Como</strong> escritor o ilustrador</p>
-<p><strong>quiero</strong> conocer las formas de colaborar con otros
+<td><p><>Como</> escritor o ilustrador</p>
+<p><>quiero</> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><strong>para</strong> facilitarme el contacto con otros
+<p><>para</> facilitarme el contacto con otros
 artistas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2034,10 +2093,10 @@ artistas</p></td>
 <td>5</td>
 <td>US05</td>
 <td>Sección Hero</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> visualizar una sección hero donde describa
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar una sección hero donde describa
 brevemente la misión del startup</p>
-<p><strong>para</strong> tener una idea de lo que ofrece la
+<p><>para</> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2046,9 +2105,9 @@ aplicación</p></td>
 <td>6</td>
 <td>US06</td>
 <td>Asignación de Rol</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> poder asignarle un rol</p>
-<p><strong>para</strong> poder visualizar la página</p></td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> poder asignarle un rol</p>
+<p><>para</> poder visualizar la página</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2056,9 +2115,9 @@ aplicación</p></td>
 <td>7</td>
 <td>US07</td>
 <td>Configuración de Perfil de Usuario</td>
-<td><p><strong>Como</strong> lector, artista o escritor</p>
-<p><strong>quiero</strong> configurar mi perfil</p>
-<p><strong>para</strong> satisfacer mis gustos</p></td>
+<td><p><>Como</> lector, artista o escritor</p>
+<p><>quiero</> configurar mi perfil</p>
+<p><>para</> satisfacer mis gustos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2066,9 +2125,9 @@ aplicación</p></td>
 <td>8</td>
 <td>US08</td>
 <td>Sube tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> una plataforma</p>
-<p><strong>para</strong> subir mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> una plataforma</p>
+<p><>para</> subir mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2076,9 +2135,9 @@ aplicación</p></td>
 <td>9</td>
 <td>US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> que mis obras sean ilustradas</p>
-<p><strong>para</strong> mejorarlas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> que mis obras sean ilustradas</p>
+<p><>para</> mejorarlas</p></td>
 <td>Media</td>
 <td>2</td>
 </tr>
@@ -2086,9 +2145,9 @@ aplicación</p></td>
 <td>10</td>
 <td>US10</td>
 <td>Destaca tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> destacar mis libros</p>
-<p><strong>para</strong> tener más vistas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> destacar mis libros</p>
+<p><>para</> tener más vistas</p></td>
 <td>Media</td>
 <td>2</td>
 </tr>
@@ -2096,9 +2155,9 @@ aplicación</p></td>
 <td>11</td>
 <td>US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> generar ingresos</p>
-<p><strong>para</strong> mejorar mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> generar ingresos</p>
+<p><>para</> mejorar mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2106,10 +2165,10 @@ aplicación</p></td>
 <td>12</td>
 <td>US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><strong>para</strong> tener una gran variedad de opciones a elegir
+<p><>para</> tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2118,10 +2177,10 @@ para mis lecturas</p></td>
 <td>13</td>
 <td>US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><strong>para</strong> contar con más capítulos a mi
+<p><>para</> contar con más capítulos a mi
 disposición</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2130,9 +2189,9 @@ disposición</p></td>
 <td>14</td>
 <td>US14</td>
 <td>Dejar Comentarios</td>
-<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
-<p><strong>quiero</strong> poder comentar las obras</p>
-<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+<td><p><>Como</> lector, escritor e ilustrador</p>
+<p><>quiero</> poder comentar las obras</p>
+<p><>para</> ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2141,10 +2200,10 @@ feedback</p></td>
 <td>15</td>
 <td>US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> contar con una monetización por mis
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> contar con una monetización por mis
 ilustraciones</p>
-<p><strong>para</strong> poder percibir ingresos dentro de la
+<p><>para</> poder percibir ingresos dentro de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2153,10 +2212,10 @@ aplicación</p></td>
 <td>16</td>
 <td>US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><strong>para</strong> tener un mejor rendimiento</p></td>
+<p><>para</> tener un mejor rendimiento</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2164,9 +2223,9 @@ dibujar</p>
 <td>17</td>
 <td>US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><strong>Como</strong> usuario interesado en el producto</p>
-<p><strong>quiero</strong> que la landing page sea responsive</p>
-<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p><>Como</> usuario interesado en el producto</p>
+<p><>quiero</> que la landing page sea responsive</p>
+<p><>para</> tener un navegacion fluida y accesible</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2174,9 +2233,9 @@ dibujar</p>
 <td>18</td>
 <td>US18</td>
 <td>Accesibilidad en el Landing page</td>
-<td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
-<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><strong>para</strong> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
+<td><p><>Como</> usuario que tiene una discapacidad</p>
+<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><>para</> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2184,9 +2243,9 @@ dibujar</p>
 <td>19</td>
 <td>US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2194,9 +2253,9 @@ dibujar</p>
 <td>20</td>
 <td>US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2460,78 +2519,78 @@ Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY
 
 Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
 
-<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
+<h4> <> User goal, usuario inicia sesion, se registra y recupera su contraseña </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/InicioSesion.png" />
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 Al iniciar la aplicación, el usuario se encuentra en la página de opciones, donde puede iniciar sesión mediante correo electrónico o las plataformas de Google y Facebook.
 El usuario también puede registrar una nueva cuenta utilizando su correo electrónico o las plataformas mencionadas anteriormente. En caso de olvidar su contraseña, el usuario tiene la opción de recuperarla utilizando su correo electrónico.
 
 
-<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
+<h4> <> User goal, usuario edita el contenido de una historia, como el contenido y las series. </> </h4>
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarLibro.png" />
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
  Cuando el usuario visualiza sus historias en su portafolio personal, puede editarlas. Al hacer clic en "editar", puede modificar el contenido de las historias, incluyendo el texto, las imágenes y otros elementos. Las historias se organizan en series. El usuario puede editar las series de una historia, añadiendo, eliminando o modificando las existentes. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su portafolio personal.
 
 
-<h4> <strong> User goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
+<h4> <> User goal, usuario publica una nueva historia y agrega series a la historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/PublicarLibro.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 El usuario puede crear una nueva historia desde su portafolio personal.Al crear una nueva historia, el usuario debe proporcionar los detalles correspondientes, como el título, la descripción, el género, etc.Una vez que la historia tenga los detalles básicos, el usuario puede agregar series a la misma. Cada serie representa una parte o capítulo de la historia. El usuario puede editar las series de la historia, añadiendo, eliminando o modificando las existentes. Una vez que la historia esté completa, el usuario puede publicarla para que otros usuarios puedan verla y leerla.
 
-<h4> <strong> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong> </h4>
+<h4> <> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IniciarSala.png" />
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 La plataforma ofrece una función de recomendación de artistas segun los intereses del usuario. Una vez que el usuario encuentra un artista que le interesa, puede contactarlo directamente desde la plataforma. Al establecer contacto con un artista, se crea una sala de chats privada donde ambos usuarios pueden comunicarse.
 
-<h4> <strong> User goal, usuario del tipo ilustrador edita su perfil  </strong> </h4>
+<h4> <> User goal, usuario del tipo ilustrador edita su perfil  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilArtista.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 Al iniciar sesion y encontrase dentro de la pantalla principal, el usuario del tipo ilustrador visualiza la opción de editar perfil. Al darle click puede editar su perfil profesional, posteriormente al guardar los cambios estos se actualizan en su perfil.
 
 
 
-<h4> <strong> User goal, usuario del tipo escritor edita su perfil  </strong> </h4>
+<h4> <> User goal, usuario del tipo escritor edita su perfil  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilEscritor.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Los usuarios del tipo escritor también pueden editar su perfil profesional desde la pantalla principal de la aplicación.Al editar su perfil, el usuario puede modificar su información profesional, como su nombre, biografía, portafolio, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su perfil.
 
 
-<h4> <strong> User goal, usuario busca un libro segun su popularidad y género  </strong> </h4>
+<h4> <> User goal, usuario busca un libro segun su popularidad y género  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/BuscarLibros.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
  Al iniciar la aplicación, el usuario se encuentra en la pantalla principal. La pantalla principal muestra una selección de los libros más populares de la plataforma. El usuario puede utilizar filtros de búsqueda para encontrar libros según su género de preferencia. La plataforma muestra una lista de resultados de búsqueda que coinciden con los criterios del usuario.
 
-<h4> <strong> User goal: usuario edita el perfil de cuenta </strong>  </h4>
+<h4> <> User goal: usuario edita el perfil de cuenta </>  </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarCuenta.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 El usuario puede editar su perfil de cuenta desde la pantalla principal de la aplicación. Al editar su perfil de cuenta, el usuario puede modificar su información personal, como su nombre, correo electrónico, contraseña, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su cuenta.
 
-<h4> <strong> User goal, usuario visualiza las comisiones obtenidas por cada historia </strong> </h4>
+<h4> <> User goal, usuario visualiza las comisiones obtenidas por cada historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IngresosObtenidos.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al encontrarse dentro de su portafolio personal el usuario visualiza sus obras publicadas, al seleccionar la opción
 de editar la historia visualiza los detalles de su historia, posteriormente visualiza tres opciones, editar detalles de la historia, editar tabla de contenido y visualizar los ingresos obtenidos. Al seleccionar la opción de ver ingresos obtenidos, donde puede visualizar los ingresos obtenidos por una historia en particular.
 
 
-<h4> <strong> User goal: usuario visualiza los planes de suscripción </strong> </h4>
+<h4> <> User goal: usuario visualiza los planes de suscripción </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Suscripcion.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver planes de suscripción, luego selecciona la opción mencionada previamente y visualiza todos los planes disponibles.
 
 
 
-<h4> <strong> User goal: usuario visualiza el sistema de monetización </strong> </h4>
+<h4> <> User goal: usuario visualiza el sistema de monetización </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Monetizacion.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver los sistemas de monetización, posteriomente selecciona la opción mencionada previamente y visualiza todas las opciones que ofrece la aplicación.
 
 
@@ -2642,13 +2701,13 @@ Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD
 Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/3042a7f1-cfbd-49ad-bb1d-7d5b1e8f9c67/edit?viewport_loc=248%2C38%2C5260%2C2976%2C0_0&invitationId=inv_faedf934-db22-495f-9b16-9d38cb444726
 
 
-<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
+<h4> <> User goal, usuario inicia sesion, se registra y recupera su contraseña </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/InicioSesion.png"/>
 
-<h4> <strong> UUser goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
+<h4> <> UUser goal, usuario publica una nueva historia y agrega series a la historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/PublicarLibro.png"/>
 
-<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
+<h4> <> User goal, usuario edita el contenido de una historia, como el contenido y las series. </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 <h4> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </h4>
@@ -2687,67 +2746,67 @@ Enlace a los prototipos de la App Web en Figma versión Desktop: https://www.fig
 Asimismo, se presentan capturas del video de presentación del prototipo y los timings de cada sección en los que se cumplen los
 user goals.
 
-<strong> User goal: usuario inicia sesion, se registra y recupera su contraseña </strong>
+<> User goal: usuario inicia sesion, se registra y recupera su contraseña </>
 
 Timing: 0:00
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
 <br>
-<strong> User goal: usuario publica una nueva historia y agrega series a la historia </strong>
+<> User goal: usuario publica una nueva historia y agrega series a la historia </>
 
 Timing: 1:32
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
 <br>
-<strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
+<> User goal: usuario edita el contenido de una historia, como el contenido y las series. </>
 
 Timing: 2:40
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/ce9ec3bf9b9b20dbd95b91eb62fabd2545965ac8/assets/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
 <br>
-<strong> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong>
+<> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </>
 
 Timing: 3:30
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
 <br>
-<strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
+<> User goal: usuario del tipo ilustrador edita su perfil </>
 
 Timing: 4:50
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
 <br>
-<strong> User goal: usuario del tipo escritor edita su perfil </strong>
+<> User goal: usuario del tipo escritor edita su perfil </>
 
 Timing: 5:27
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
 <br>
-<strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
+<> User goal: usuario busca un libro segun su popularidad y género  </>
 
 Timing: 6:05
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
 <br>
-<strong> User goal: usuario edita el perfil de cuenta </strong>
+<> User goal: usuario edita el perfil de cuenta </>
 
 Timing: 7:15
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
 <br>
-<strong>  User goal: usuario visualiza las comisiones obtenidas por cada historia </strong>
+<>  User goal: usuario visualiza las comisiones obtenidas por cada historia </>
 
 Timing: 7:50
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
 <br>
-<strong> User goal: usuario visualiza los planes de suscripción </strong>
+<> User goal: usuario visualiza los planes de suscripción </>
 
 Timing: 8:23
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
 <br>
-<strong> User goal: usuario visualiza el sistema de monetización </strong>
+<> User goal: usuario visualiza el sistema de monetización </>
 
 Timing: 8:54
 
@@ -3433,12 +3492,12 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 <table>
 
  <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
+    <th> <> Repository </> </th>
+    <th> <> Branch </> </th>
+    <th> <> Commit ID</> </th>
+    <th> <> Commit Message </> </th>
+     <th> <> Commit Message (Body) </> </th>
+     <th> <> Commited on (Date) </> </th>
  </tr>
 
   <tr>
@@ -3878,84 +3937,84 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 <table>
   <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
+    <th> <> Repository </> </th>
+    <th> <> Branch </> </th>
+    <th> <> Commit ID</> </th>
+    <th> <> Commit Message </> </th>
+     <th> <> Commit Message (Body) </> </th>
+     <th> <> Commited on (Date) </> </th>
  </tr>
 
  <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 4d69fbc54b771c61bdd247d72c58603587c9e618  </strong> </th>
-    <th> <strong> Initial commit </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 4d69fbc54b771c61bdd247d72c58603587c9e618  </> </th>
+    <th> <> Initial commit </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
   <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> a59189021fcba58acac041db7460f5815e28effd  </strong> </th>
-    <th> <strong> feat: Added us-01 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> a59189021fcba58acac041db7460f5815e28effd  </> </th>
+    <th> <> feat: Added us-01 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> f96bfc729fd1b1675138f985c486c076c545e18b  </strong> </th>
-    <th> <strong> feat: Added us-02 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> f96bfc729fd1b1675138f985c486c076c545e18b  </> </th>
+    <th> <> feat: Added us-02 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
   <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </strong> </th>
-    <th> <strong> feat: Added us-03 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </> </th>
+    <th> <> feat: Added us-03 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </strong> </th>
-    <th> <strong> feat: Added us-04 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </> </th>
+    <th> <> feat: Added us-04 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </strong> </th>
-    <th> <strong> feat: Added us-05 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </> </th>
+    <th> <> feat: Added us-05 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 8ff78aabec9f8d6b500bb967fd53b3cab74a7d8e  </strong> </th>
-    <th> <strong> feat: Added us-17 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 8ff78aabec9f8d6b500bb967fd53b3cab74a7d8e  </> </th>
+    <th> <> feat: Added us-17 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 1cb783d909328f6038d93f4a1959733c54cd48e9  </strong> </th>
-    <th> <strong> feat: Added us-18 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 1cb783d909328f6038d93f4a1959733c54cd48e9  </> </th>
+    <th> <> feat: Added us-18 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 
@@ -4075,8 +4134,8 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
 
 <table>
   <tr> 
-   <th> <strong> Alumno </strong></th>
-   <th> <strong> Actividad </strong></th>
+   <th> <> Alumno </></th>
+   <th> <> Actividad </></th>
    </tr>
 
   <tr> 
@@ -4110,8 +4169,8 @@ Tabla de integrantes:
 
 <table>
   <tr> 
-   <th> <strong> Username (GitHub) </strong></th>
-   <th> <strong> Nombre </strong></th>
+   <th> <> Username (GitHub) </></th>
+   <th> <> Nombre </></th>
    </tr>
 
   <tr> 
@@ -4446,11 +4505,12 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
 
 </table>
 
-
+---
+     
 ### 5.2.2.3. Development Evidence for Sprint Review.
-
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+    
 <table>
-
  <tr>
     <th> <strong> Repository </strong> </th>
     <th> <strong> Branch </strong> </th>
@@ -4460,6 +4520,51 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
      <th> <strong> Commited on (Date) </strong> </th>
  </tr>
 
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th> ce3fbbd39473c43e47901b7124e9ad1ce1924b44  </th>
+   <th>  chore: Initial config </th>
+   <th> </th>
+   <th> 16/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  31a7598f98909351b1101476139a2ce041195144  </th>
+   <th>  chore: Updated .gitignore  </th>
+   <th>   </th>
+   <th>  20/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  2ec6d44867ada0e0b0e2422323c3ec59829e598b </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>    </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> artcollab.API </th>
+   <th>  develop </th>
+   <th>  d8f892627b16aacadf0ea18d3b61771ddc02808f </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th> </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  1383933773344900316778b33b76f80c16c21c6d  </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>  </th>
+   <th>  21/05/24 </th>
+ </tr>
+     
   <tr>
    <th> Frontend </th> 
    <th> main </th>
@@ -4505,6 +4610,14 @@ Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc1
    <th> 25/04/2024 </th>
   </tr>
 
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  1d7ea293b5e7cafeec8ce1ccae003baf834567083 </th>
+   <th>  feat(Infraestrcuture): added DbContext </th>
+   <th>  </th>
+   <th>  21/05/24  </th>
+ </tr>
 
 </table>
 
@@ -5043,6 +5156,7 @@ table>
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
 En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
 <table>
   <tr>
     <th> <strong> Repository </strong> </th>
@@ -6112,7 +6226,6 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 </table>
 
 
-
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
@@ -6215,17 +6328,120 @@ Para el presente sprint, se ha desarollado el API  de la web application. Para l
 <li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
 
 </ul>
-
-
+    
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
+El equipo estructuró el desarrollo del backend de la aplicación web en ramas basadas en historias de usuario, permitiendo así trabajar cada sección de manera independiente, lo cual optimizó el mantenimiento y la colaboración durante el sprint. Se implementaron las convenciones estándar de GitFlow, creando ramas de desarrollo y funcionalidad según la necesidad de cada historia de usuario. A continuación, se describen las tareas asignadas a cada miembro del equipo, junto con los commits del equipo realizados a través de la plataforma GitHub:
 
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th> Implementación de los endpoint de suscripciones y comisiones. </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th> Implementación del endpoint de usuarios (readers). </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th> Implementación del endpoint de templates (books e illustrations). Además, de la implementación de los métodos CRUD en la web application para la publicación de libro y edición de los detalles del libro. </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th> Implementación del endpoint de pago de suscripciones por API externa. </th>
+ </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th> Implementacion del endpoint de comentarios. </th>
+ </tr>
+
+</table>
+
+Hemos desarrollado en conjunto un total de 174 commits para el desarrollo, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Web Application
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761282849407006/image.png?ex=6664d712&is=66638592&hm=cf5e608f27738f3f0b80d6fe1f818c6d656539335b05680b6885969a455958a1&=&format=webp&quality=lossless&width=719&height=272" Alt="Flujo de trabajo entre las ramas"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761580372365393/image.png?ex=6664d759&is=666385d9&hm=0afe86c56ddeb7c612069d421835b4a04d92f0402b9d671a1c043af2f8fe579d&=&format=webp&quality=lossless&width=719&height=380" Alt="Tabla de commits"/>
+
+#### Anexo: Flujo de trabajo
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761737088335992/image.png?ex=6664d77e&is=666385fe&hm=9c43ace87791ca438b5dc0c93ee66204aa839253577d7221aafea54cdbbd75cb&=&format=webp&quality=lossless&width=719&height=283" Alt="Flujo de trabajo"/>
+
+#### Anexo: Colaboration Insights 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761838758264852/image.png?ex=6664d797&is=66638617&hm=738e79bbce4209d76883274a9b79199207bfbb1fdad5cedbb59b371bb162286a&=&format=webp&quality=lossless&width=630&height=592" Alt="Flujo de trabajo"/>
+
+API
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762187955310633/image.png?ex=6664d7ea&is=6663866a&hm=9ab2b9a52f26cf7dd2c2fd3ecfad7ec9642106beb49508ee52dbbcd35814a8be&=&format=webp&quality=lossless&width=719&height=274" Alt="Flujo de trabajo entre las ramas"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762068580958308/image.png?ex=6664d7ce&is=6663864e&hm=a5e4870f69b52645cd067aab1731414d57332f7582dd7df5ab79115f4e82111c&=&format=webp&quality=lossless&width=719&height=382" Alt="Tabla de commits"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762356893220936/image.png?ex=6664d812&is=66638692&hm=223ad4f0533071de4bfa6c93eb3ad034f1d9d354a90e8c8097b213314956ba1c&=&format=webp&quality=lossless&width=719&height=277" Alt="Flujo de trabajo"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762406838997144/image.png?ex=6664d81e&is=6663869e&hm=ebbce35a22039626fd34d0a0c720fcb34fcfc83a7cb7407e36d82fab453115b6&=&format=webp&quality=lossless&width=719&height=450" Alt="Flujo de trabajo"/>
    
 
-
-
-
+---
 
 ## 5.3 Validation Interviews
 
@@ -6275,9 +6491,14 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1246990747652325467/image.png?ex=666454e2&is=66630362&hm=2c8f9fa829e5b035626d355a347e8d9c032f08909cbd10589e80d8334cf19725&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 00:11
+
+Fin: 06:48
 
 Resumen de la entrevista:
 
@@ -6305,13 +6526,47 @@ Evidencia de entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Eb0HZ39W04NLldw7mkyFswYBYqksX9xMfUvm5edJpprJVw?e=2rvBty&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 06:48
+
+Fin: 08:55
 
 Resumen de entrevista:
 
 Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Universidad Peruana de Ciencias Aplicadas.
 
 Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
+
+
+**Entrevista 3:**
+
+Nombres: Katia Nicole
+
+Apellidos: Asenjo Rodriguez
+
+Edad: 22 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+Evidencia de entrevista:
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752106337472602/entrevista_escritora.png?ex=6664ce86&is=66637d06&hm=34043a94ed2eab6fe829aa0aa7d91fa1e2c068631d2d6c3b6bc15a817593c3f5&">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 08:55
+
+Fin: 12:55
+
+Resumen de la entrevista:
+
+Se entrevistó a Katia Asenjo, de 22 años de edad y escritora.
+
+Katia nos comentó que la aplicación tenía funcionalidades útiles para su crecimiento como escritora. Entre estas se encuentran la segmentación de libros por género y la colaboración con otros artistas dentro de la aplicación. Explorando más sobre la colaboración entre artistas, Katia considera que es una herramienta fundamental y con la cual no tuvo ningún inconveniente al usarla. Respecto a la funcionalidad de subir los libros y escribir capítulos, comentó que se sintió a gusto con la forma en la que se visualizan sus capítulos y la facilidad con la que puede encontrar y visualizar los libros que ha subido. Además, destacó la facilidad y el orden con los que puede plasmar y editar sus ideas en un mismo lugar. Por último, comentó que la aplicación le parece fácil de usar, ya que pudo encontrar todas las funcionalidades de forma rápida y sin ayuda.
 
 **Segmento ilustrador:**
 
@@ -6331,7 +6586,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EfDr97NshilPgrq11mdjl2sBQyIITwftP6KkNSZg5RX20A?e=j3mYXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 13:01
+
+Fin: 12:58
 
 Resumen de la entrevista: 
 
@@ -6355,11 +6615,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicio: 
+Inicio: 15:58
 
-Fin: 
+Fin: 22:55
 
 Resumen de la entrevista:
 
@@ -6369,7 +6630,7 @@ Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde
 
 Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
 
-**Entrevista 2**
+**Entrevista 3**
 
 Nombres: Andrea Milagros
 
@@ -6383,13 +6644,47 @@ Entrevistador: Mathias Alejandro Jave Diaz
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248010463673847839/image.png?ex=66621bd1&is=6660ca51&hm=c1323881f464a66c766513301863bac0b32d544bdda2913d220396270f9d0a81&=&format=webp&quality=lossless&width=1100&height=460">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EaSE9eBA40lOmleQ7JSHaSMBpRifRtbdV5xklyd9ovPM_w?e=M2axs4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 22:56
+
+Fin: 29:10
 
 Resumen de la entrevista:
 
 Se entrevisto a Andrea Cabanillas, una estudiante de Ingeniería de Software de 18 años que actualmente estudia en la Universidad Peruana de Ciencias Aplicadas.
 
 Nos menciona que en sus tiempos libres se dedica a realizar ilustraciones, además ella menciona que la colaboración entre otros ilustradores es un apartado novedoso, puesto a que ella considera que no existen muchas aplicaciones que ofrezcan ese servicio, por otro lado tambien destaca el diseño visual y las funcionalidades de la aplicación, las cuales considera que son llamativas.
+
+**Entrevista 4**
+
+Nombres: Diana Carolina
+
+Apellidos: Vera Benavides
+
+Edad: 23 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 29:10
+
+Fin: 33:20
+
+Resumen de la entrevista:
+
+Se entrevistó a Diana, de 23 años de edad y ilustradora.
+
+Diana nos comentó que la plataforma contaba con todas las herramientas que ella necesita para que su trabajo sea óptimo. Le parece útil la opción del portafolio, ya que le permite visualizar todos sus proyectos de forma rápida y sencilla. Además, considera que permitirá que los escritores descubran su trabajo y, con la opción de colaboración, la puedan contactar. Sobre la funcionalidad para que los artistas colaboren, ella considera que el chat es una funcionalidad relevante, porque facilita la comunicación y coordinación entre ambas partes. Ella opina que nuestra página le permitiría tener una mayor exposición y, de esa forma, encontrar más oportunidades laborales. Por último, comentó que no tuvo dificultades en el uso de la aplicación ni en encontrar las secciones relacionadas con el rol de ilustradores.
 
 **Segmento lector:**
 
@@ -6407,9 +6702,14 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=6663ff58&is=6662add8&hm=68636faed19cbf63b559c380dfb6235d72c868d9566778d54c73384eb6e8fc59&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 33:26
+
+Fin: 39:18
 
 Resumen de la entrevista:
 
@@ -6438,7 +6738,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EdRSRwIYaNtHqBfGSTB5Qo4BrP1PZfCQB3EN6D3NIo2Clg?e=BEUEPZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 39:18
+
+Fin: 42:15
 
 Resumen de la entrevista:
 
@@ -6464,11 +6769,11 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 03 Segmento Lector">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Inicio: 42:15
 
-Inicio: 
-
-Fin: 
+Fin: 48:46
 
 Resumen de la entrevista:
 
@@ -6480,10 +6785,155 @@ La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, re
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
 
+**Entrevista 4**
+
+Nombres: Patrick
+
+Apellidos: Lindley
+
+Edad: 20 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752441579536455/entrevistas_lector.png?ex=6664ced6&is=66637d56&hm=995f239a7b28f475c679f17596132f5db03dc4f6f2ccfd68e2a2201f07bb41a1&">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 48:46
+
+Fin: 51:57
+
+Resumen de la entrevista:
+
+Se entrevistó a Patrick Lindley, de 20 años de edad y lector.
+
+Patrick considera que usará la aplicación de forma frecuente, ya que puede encontrar los libros de su interés de forma rápida gracias a la opción de buscar libros por género. Comentó que las ilustraciones son creativas y llamativas, y que la tipografía usada para mostrar los libros es clara y ayuda a la fácil lectura de los libros online. Además, le gustó la forma en la que se muestran los capítulos. Respecto a la oferta de libros, encontró una mayor cantidad de libros con ilustraciones, lo cual es positivo, ya que es una característica que él estaba buscando. Por último, Patrick no tuvo problemas con el uso de la plataforma, pudo navegar por todas las secciones sin problema y no necesitó ayuda para acceder a las diferentes funcionalidades.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
-## 5.4. Video About-the-Product
+**Carrera** :Ingeniería de Software </p>
+**Curso**   :WS54
 
+**Profesor**: Naldo Reupo-Musayón Gastulo
+
+**Auditor**:  Grupo 2 - Imaginatales </p>
+**Cliente**:  Grupo 3 - ARSAA
+
+#### SITE o APP A EVALUAR
+DriveSafe
+
+#### TAREAS A EVALUAR
+Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de un nuevo vehículo
+- Adaptabilidad a dispositivos móviles
+
+#### ESCALA DE SEVERIDAD
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
+#### TABLA RESUMEN
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*No notifica cuando una cuenta fue creada.*|*2*|*It is usable?*|
+|*2*|*Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.*|*4*|*Libertad de uso y control*|
+|*3*|*Algunas pantallas no se adaptan bien en dispositivos móviles.*|*1*|*Libertad de uso y control*|
+|*4*|*No hay opción para volver a la página de inicio desde la pantalla de registro.*|*3*|*Usability - Libertad y control del usuario*|
+|*5*|*No se actualiza la página con los vehículos registrados*|*4*|*Information Architecture: Is it usable?*|
+
+#### DESCRIPCIÓN DE PROBLEMAS
+***PROBLEMA #1:** No notifica cuando una cuenta fue creada.*
+
+***Severidad:** 2*
+
+*Heurística violada: Is it usable*
+
+***Problema:***
+Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 1">
+
+***Recomendación:**
+Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.*
+
+***PROBLEMA #2:** Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.*
+
+***Severidad:** 4*
+
+*Heurística violada: Libertad de uso y control*
+
+***Problema:***
+Al momento de ingresar a través de dispositivos móviles a la pantalla de registro, se muestran problemas con la adaptación de los componentes.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 2">
+
+***Recomendación:**
+Se recomienda configurar la responsividad de esta vista para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
+
+***PROBLEMA #3:** Algunas pantallas no se adaptan bien en dispositivos móviles.*
+
+***Severidad:** 1*
+
+*Heurística violada: Libertad de uso y control*
+
+***Problema:***
+Al momento de ingresar a través de dispositivos móviles a la aplicación, se muestran problemas con la adaptación de los componentes de alguna vistas.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 3">
+
+***Recomendación:**
+Se recomienda configurar la responsividad de estas vistas para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
+
+***PROBLEMA #4:** No hay opción para volver a la página de inicio desde la pantalla de registro.*
+
+***Severidad:** 3*
+
+*Heurística violada: Usability - Libertad y control del usuario*
+
+***Problema:***
+No hay botón o enlace que redirija a la página de inicio
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 4">
+
+*Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.*
+
+***Recomendación:**
+Se debería agregar un botón o un enlace al logo del aplicativo, para que de ese modo al presionar ahí se redirija al usuario a la página de inicio.*
+
+***PROBLEMA #5:** No se actualiza la página con los vehículos registrados.*
+
+***Severidad:** 4*
+
+*Heurística violada: Information Architecture - Is it usable?*
+
+***Problema:***
+No se muestran los vehículos registrados en la pestaña Alquiler
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248062950779125781/image.png?ex=666446f3&is=6662f573&hm=ff8a307562c5d06649b97e9468f8bad05633123caae435f8ca3c8777acd9b564&=&format=webp&quality=lossless" alt="Problema 5">
+
+*Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.*
+
+***Recomendación:**
+Añadir una función que actualice la página con los vehículos registrados por el usuario.*
+
+## 5.4. Video About-the-Product
+En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248708421650223164/image.png?ex=6664a5d7&is=66635457&hm=b18cbb9c982fb3b64bf18bf17cd2f24597c5a44ce2a839760ec2ef71a2450b42&=&format=webp&quality=lossless" alt="Primera versión video about the product">
+
+Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EaWCj12LcndCm7zJvnCl39kBjUR3LTILd44hkBVdcfYMsg?e=e1GmbL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 <p>En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
@@ -6492,6 +6942,16 @@ La simplificación del proceso de registro, la mejora de la colaboración creati
 
 Por otro lado, la implementación y validación del producto se realizaron mediante un enfoque ágil, dividido en sprints manejables, que permitieron una iteración rápida y la incorporación de retroalimentación continua. La gestión de la configuración del software aseguró que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se llevó a cabo de manera organizada y eficiente, con cada sprint planificado y ejecutado de manera transparente.
 </p>
+
+## Video About-the-Team
+En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
+
+Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248710482580471939/image.png?ex=6664a7c2&is=66635642&hm=15d4de2e1a97c772b818b3ffa93628612f976e1cc7632b65a0669cbe22abaaa0&=&format=webp&quality=lossless&width=550&height=308" alt="Primera versión video about the team">
+
+Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVjyXdRMgcJGnrnSqv6TSdABbry1xKM2Kmdm_ZeCF6uuBA?e=Tze6jU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
@@ -6509,3 +6969,6 @@ R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad 
 | ------------ | ------------ |
 | Video grupal del TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
 | Prototypes Navigation/ Product Navigation | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY |
+| Video grupal del TP1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
+| Video grupal del TB2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
+| Validation Interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
