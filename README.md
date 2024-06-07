@@ -5383,9 +5383,116 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
+El equipo estructuró el desarrollo del backend de la aplicación web en ramas basadas en historias de usuario, permitiendo así trabajar cada sección de manera independiente, lo cual optimizó el mantenimiento y la colaboración durante el sprint. Se implementaron las convenciones estándar de GitFlow, creando ramas de desarrollo y funcionalidad según la necesidad de cada historia de usuario. A continuación, se describen las tareas asignadas a cada miembro del equipo, junto con los commits del equipo realizados a través de la plataforma GitHub:
 
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th> Implementación de los endpoint de suscripciones y comisiones. </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th> Implementación del endpoint de usuarios (readers). </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th> Implementación del endpoint de templates (books e illustrations). Además, de la implementación de los métodos CRUD en la web application para la publicación de libro y edición de los detalles del libro. </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th> Implementación del endpoint de pago de suscripciones por API externa. </th>
+ </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th> Implementacion del endpoint de comentarios. </th>
+ </tr>
+
+</table>
+
+Hemos desarrollado en conjunto un total de 174 commits para el desarrollo, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Web Application
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761282849407006/image.png?ex=6664d712&is=66638592&hm=cf5e608f27738f3f0b80d6fe1f818c6d656539335b05680b6885969a455958a1&=&format=webp&quality=lossless&width=719&height=272" Alt="Flujo de trabajo entre las ramas"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761580372365393/image.png?ex=6664d759&is=666385d9&hm=0afe86c56ddeb7c612069d421835b4a04d92f0402b9d671a1c043af2f8fe579d&=&format=webp&quality=lossless&width=719&height=380" Alt="Tabla de commits"/>
+
+#### Anexo: Flujo de trabajo
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761737088335992/image.png?ex=6664d77e&is=666385fe&hm=9c43ace87791ca438b5dc0c93ee66204aa839253577d7221aafea54cdbbd75cb&=&format=webp&quality=lossless&width=719&height=283" Alt="Flujo de trabajo"/>
+
+#### Anexo: Colaboration Insights 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761838758264852/image.png?ex=6664d797&is=66638617&hm=738e79bbce4209d76883274a9b79199207bfbb1fdad5cedbb59b371bb162286a&=&format=webp&quality=lossless&width=630&height=592" Alt="Flujo de trabajo"/>
+
+API
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762187955310633/image.png?ex=6664d7ea&is=6663866a&hm=9ab2b9a52f26cf7dd2c2fd3ecfad7ec9642106beb49508ee52dbbcd35814a8be&=&format=webp&quality=lossless&width=719&height=274" Alt="Flujo de trabajo entre las ramas"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762068580958308/image.png?ex=6664d7ce&is=6663864e&hm=a5e4870f69b52645cd067aab1731414d57332f7582dd7df5ab79115f4e82111c&=&format=webp&quality=lossless&width=719&height=382" Alt="Tabla de commits"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762356893220936/image.png?ex=6664d812&is=66638692&hm=223ad4f0533071de4bfa6c93eb3ad034f1d9d354a90e8c8097b213314956ba1c&=&format=webp&quality=lossless&width=719&height=277" Alt="Flujo de trabajo"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762406838997144/image.png?ex=6664d81e&is=6663869e&hm=ebbce35a22039626fd34d0a0c720fcb34fcfc83a7cb7407e36d82fab453115b6&=&format=webp&quality=lossless&width=719&height=450" Alt="Flujo de trabajo"/>
    
 
+---
 
 ## 5.3 Validation Interviews
 
