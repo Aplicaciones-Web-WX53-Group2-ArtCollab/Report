@@ -1,17 +1,17 @@
 # COURSE PROJECT
 
 <p align="center">
-    <>Universidad Peruana de Ciencias Aplicadas</><br>
+    Universidad Peruana de Ciencias Aplicadas</><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <>Ingeniería de Software</><br>
-    <>Aplicaciones Web - WX53</><br>
-    <>Profesor: Naldo Reupo-Musayon Gastulo</><br>
+    Ingeniería de Software</><br>
+    Aplicaciones Web - WX53</><br>
+    Profesor: Naldo Reupo-Musayon Gastulo</><br>
     <br>INFORME
 </p>
 
 <p align="center">
-    <>Startup: ImaginaTales </><br>
-    <>Producto: ArtCollab </>
+    Startup: ImaginaTales </><br>
+    Producto: ArtCollab </>
 </p>
 
 <div>
@@ -255,7 +255,10 @@ TB1 <br>
 Entre todo el equipo se hizo el trabajo mediante una división justa de las secciones. Además, puntos como las entrevistas, development evidence y testing suite evidence fueron realizados en conjunto.
 
 TP1 <br>
-Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+
+TB2 <br>
+Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -307,6 +310,9 @@ Para esta entrega se analizaron las preferencias de los segmentos escritor, ilus
 
 TP1 <br>
 Para la entrega del segundo avance del trabajo, se completaron los requisitos establecidos, lo que incluyó avanzar significativamente con el desarrollo del frontend de la aplicación web. Además, se logró desplegar la aplicación de manera efectiva, lo que garantiza su disponibilidad para los usuarios finales. De igual modo, se llevó a cabo la creación de una API, permitiendo mediante esta una comunicación eficiente y segura.
+
+TB2 <br>
+Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
