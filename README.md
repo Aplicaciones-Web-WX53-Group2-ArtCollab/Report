@@ -5461,6 +5461,28 @@ Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Uni
 
 Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
 
+**Segmento escritor:**
+
+**Entrevista 3:**
+
+Nombres: Katia Nicole
+
+Apellidos: Asenjo Rodriguez
+
+Edad: 22 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+Enlace de entrevista: https://drive.google.com/file/d/1-zCTLik8Z1lUEQCuwr9YZA3Ln5QEmlNk/view?usp=sharing 
+
+Resumen de la entrevista:
+
+Se entrevistó a Katia Asenjo, de 22 años de edad y escritora.
+
+Katia nos comentó que la aplicación tenía funcionalidades útiles para su crecimiento como escritora. Entre estas se encuentran la segmentación de libros por género y la colaboración con otros artistas dentro de la aplicación. Explorando más sobre la colaboración entre artistas, Katia considera que es una herramienta fundamental y con la cual no tuvo ningún inconveniente al usarla. Respecto a la funcionalidad de subir los libros y escribir capítulos, comentó que se sintió a gusto con la forma en la que se visualizan sus capítulos y la facilidad con la que puede encontrar y visualizar los libros que ha subido. Además, destacó la facilidad y el orden con los que puede plasmar y editar sus ideas en un mismo lugar. Por último, comentó que la aplicación le parece fácil de usar, ya que pudo encontrar todas las funcionalidades de forma rápida y sin ayuda.
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
