@@ -4287,12 +4287,12 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 <table>
   <tr>
-    <th> <> Repository </> </th>
-    <th> <> Branch </> </th>
-    <th> <> Commit ID</> </th>
-    <th> <> Commit Message </> </th>
-     <th> <> Commit Message (Body) </> </th>
-     <th> <> Commited on (Date) </> </th>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
  </tr>
 
  <tr> 
