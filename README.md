@@ -5769,13 +5769,55 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 |*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
 | :-: | :-: | :-: | :-: |
-|*1*||||
-|*2*||||
-|*3*||||
+|*1*|*No notifica cuando una cuenta fue creada.*|*2*|*It is usable?*|
+|*2*|*Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.*|*4*|*Libertad de uso y control*|
+|*3*|*Algunas pantallas no se adaptan bien en dispositivos móviles.*|*1*|*Libertad de uso y control*|
 |*4*|*No hay opción para volver a la página de inicio desde la pantalla de registro.*|*3*|*Usability - Libertad y control del usuario*|
 |*5*|*No se actualiza la página con los vehículos registrados*|*4*|*Information Architecture: Is it usable?*|
 
 #### DESCRIPCIÓN DE PROBLEMAS
+***PROBLEMA #1:** No notifica cuando una cuenta fue creada.*
+
+***Severidad:** 2*
+
+*Heurística violada: Is it usable*
+
+***Problema:***
+Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 1">
+
+***Recomendación:**
+Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.*
+
+***PROBLEMA #2:** Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.*
+
+***Severidad:** 4*
+
+*Heurística violada: Libertad de uso y control*
+
+***Problema:***
+Al momento de ingresar a través de dispositivos móviles a la pantalla de registro, se muestran problemas con la adaptación de los componentes.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 2">
+
+***Recomendación:**
+Se recomienda configurar la responsividad de esta vista para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
+
+***PROBLEMA #3:** Algunas pantallas no se adaptan bien en dispositivos móviles.*
+
+***Severidad:** 1*
+
+*Heurística violada: Libertad de uso y control*
+
+***Problema:***
+Al momento de ingresar a través de dispositivos móviles a la aplicación, se muestran problemas con la adaptación de los componentes de alguna vistas.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 3">
+
+***Recomendación:**
+Se recomienda configurar la responsividad de estas vistas para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
+
 ***PROBLEMA #4:** No hay opción para volver a la página de inicio desde la pantalla de registro.*
 
 ***Severidad:** 3*
