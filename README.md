@@ -5669,7 +5669,25 @@ La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, re
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
 
+**Entrevista 4**
 
+Nombres: Patrick
+
+Apellidos: Lindley
+
+Edad: 20 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Frida Dam Rubianes
+
+Enlace de entrevista: https://drive.google.com/file/d/1Ffw5a35i7NG59Ysbjf2mAbCpW1-vkv-m/view?usp=sharing
+
+Resumen de la entrevista:
+
+Se entrevistó a Patrick Lindley, de 20 años de edad y lector.
+
+Patrick considera que usará la aplicación de forma frecuente, ya que puede encontrar los libros de su interés de forma rápida gracias a la opción de buscar libros por género. Comentó que las ilustraciones son creativas y llamativas, y que la tipografía usada para mostrar los libros es clara y ayuda a la fácil lectura de los libros online. Además, le gustó la forma en la que se muestran los capítulos. Respecto a la oferta de libros, encontró una mayor cantidad de libros con ilustraciones, lo cual es positivo, ya que es una característica que él estaba buscando. Por último, Patrick no tuvo problemas con el uso de la plataforma, pudo navegar por todas las secciones sin problema y no necesitó ayuda para acceder a las diferentes funcionalidades.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
