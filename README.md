@@ -274,6 +274,12 @@ Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
 
+TP1 <br>
+Logramos realizar el despliegue de nuestra aplicación web, siguiendo el modelo de domain driven design. En equipo logramos integrar todos los aportes realizados a lo largo del proyecto, resultando en una pagina fluida y exitosa.
+
+TB2 <br>
+Se hicieron mejoras en el frontend y se desarrollo el backend de la aplicación. Mejorasmos las funcionalidades dentro de nuestra página y priorizamos tener un trabajo ordenado para facilitar el trabajo en equipo.
+
 Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page. 
@@ -327,6 +333,12 @@ Se esta aplicando una arquitectura por capas adoptando codificación asíncrona 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 En el desarrollo del proyecto se utilizaron técnicas variadas para poder identificar y conocer todas las necesidades, aspectos, usuarios y características del negocio al cual nos vamos a enfocar.  Para registrar la información recaudada y los métodos implementados usamos gihub para asegurarnos de que las versiones se guarden de forma ordenada. Realizamos entrevistas, diagramas, needfinding, user stories, entre otros.
+
+TP1 <br>
+En esta entrega se hizo uso de un API para registrar y obtener la información de los usuarios, libros y otros elementos dentro de nuestra aplicación. Se aplicaron los metodos CRUD para lograr completar exitosamente esta entrega.
+
+TB2 <br>
+En este avance nosotros realizamos entrevistas de validacion para poder conocer la opinion de nuestros usuarios y realizar mejoras en base de sus recomendaciones. Realizamos el backend y mejoramos el forntend en base a las necesidades y requisitos encontrados
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
@@ -5603,6 +5615,9 @@ Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
 
+Evidencia de entrevista:
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752106337472602/entrevista_escritora.png?ex=6664ce86&is=66637d06&hm=34043a94ed2eab6fe829aa0aa7d91fa1e2c068631d2d6c3b6bc15a817593c3f5&">
+
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -5716,6 +5731,10 @@ Edad: 23 años
 Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -5840,6 +5859,8 @@ Edad: 20 años
 Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752441579536455/entrevistas_lector.png?ex=6664ced6&is=66637d56&hm=995f239a7b28f475c679f17596132f5db03dc4f6f2ccfd68e2a2201f07bb41a1&">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
