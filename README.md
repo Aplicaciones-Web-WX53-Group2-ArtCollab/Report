@@ -5300,6 +5300,1075 @@ Sobre el diseño de la aplicación el opina que le parece muy llamativa el dise�
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th> ce3fbbd39473c43e47901b7124e9ad1ce1924b44  </th>
+   <th>  chore: Initial config </th>
+   <th> </th>
+   <th> 16/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  31a7598f98909351b1101476139a2ce041195144  </th>
+   <th>  chore: Updated .gitignore  </th>
+   <th>   </th>
+   <th>  20/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  2ec6d44867ada0e0b0e2422323c3ec59829e598b </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>    </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> artcollab.API </th>
+   <th>  develop </th>
+   <th>  d8f892627b16aacadf0ea18d3b61771ddc02808f </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th> </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  1383933773344900316778b33b76f80c16c21c6d  </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>  </th>
+   <th>  21/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  1d7ea293b5e7cafeec8ce1ccae003baf834567083 </th>
+   <th>  feat(Infraestrcuture): added DbContext </th>
+   <th>  </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  f6ef99a9e9f57b274ab6cc5ab9998ed469ba710f  </th>
+   <th>  refactor(ArtcollabApi): applied ddd organization  </th>
+   <th>  </th>
+   <th>  22/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  02061a259f0651561860ce3e546ee4456127a58d  </th>
+   <th>  feat(Collaboration/Content): added Model folder  </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop </th>
+   <th>  97f28121b22423e8cc35b84b089d014f5d00941e  </th>
+   <th>  feat: waiting merge </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> f7edea5d29d57baea4523c964206ee0c61d6f953 </th>
+   <th>  feat(ArtCollab.API): added merge changes </th>
+   <th>  </th>
+   <th>  22/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th>  develop  </th>
+   <th> fa2846f6cd02a0441cf16a10c71734c3cdab547d  </th>
+   <th>  refactor: refactor organization code with apply ddd  </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> b761295eda1af60b2d2b5910408261f682e0ccda  </th>
+   <th>  chore: Delete .idea directory  </th>
+   <th>  </th>
+   <th> 23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  c80cb976a188828610c629987d028121a487c062  </th>
+   <th> chore: Delete .DS_Store  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+<tr> 
+   <th> artcollab.API  </th>
+   <th>  develop </th>
+   <th>  88b1d16a6e71aaab60b9862456c69a4d2555b7cd  </th>
+   <th>  chore: Delete ArtcollabApi/bin directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop </th>
+   <th>  cc2ad2d30004618a99b76568aa1260b8a546ee3e  </th>
+   <th>  chore: Delete ArtcollabApi/obj directory  </th>
+   <th> </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> 771d8a22c7a425db82c167718655b2be1ce2c305  </th>
+   <th> chore: Delete Domain/bin directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  ab4dc71c5571e7d783d7fa34a67751adb96c8e78  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th> artcollab.API </th>
+   <th>  develop  </th>
+   <th>  94038b8558e69aaa23eb2006a07b0cd7313af2e4  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th> </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  7c96da9c9ac0d6e57e3e2a66f59131903aa4f656  </th>
+   <th> chore: Delete .idea directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th> artcollab.API  </th>
+   <th>  develop </th>
+   <th>  f96c8ae67167ff697202e835165f52a52f344a51  </th>
+   <th>  chore: Delete .DS_Store </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th>  develop  </th>
+   <th>  f5eb72b18652742fd864880e444a3a4e57f42eb1  </th>
+   <th> chore: Delete ArtcollabApi/bin directory  </th>
+   <th>  </th>
+   <th> 23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop  </th>
+   <th>  f8ad981f09397b079d5b24da5f15ebd07f9b9744 </th>
+   <th>  chore: Delete ArtcollabApi/obj directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop  </th>
+   <th>  608cde512d0a3dfbe597a67ec08a404c98a83364  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  e1a51ae46855241c4b0216980de251a44f319e53  </th>
+   <th>  chore: Delete Infraestructure/bin directory  </th>
+   <th>   </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  782df17511a0121d7de8a9050933a9bd6beab706  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  782df17511a0121d7de8a9050933a9bd6beab706  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  27dc8ff4f0f090263dde042ad7a52110bba50125  </th>
+   <th>  chore:Delete Application/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  da106e50ae1ea939c669c7a42feb3e7af306ca22  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  ddccc53810cc5d64d4b8f6fc4208763c74762b9c  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  2e8f66bebcf7a98f778e03a3505ed53a2fcfb9cc  </th>
+   <th> chore: Create .gitignore  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  3038f1d89daf3708537df30bc9bfb3a31e7fa7b1  </th>
+   <th> chore: installed packages  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6c992992c3679ee88310dc5b88111ff4b560e912  </th>
+   <th> chore: Add DB Configuration </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 7857304641c775f6eae87adeffb356998991ca67 </th>
+   <th> feat: Add infrastructure layer to US19 </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 7857304641c775f6eae87adeffb356998991ca67 </th>
+   <th>feat(monetization): added bounded context aggregates and entities </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6fa2f5a5fcdb512f55cc36b2f18dfbe5ec83b307 </th>
+   <th> refactor(monetization): refactor aggregates class into the aggregates folder </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f32b4b5016df15e0e8fec5a1e732c702b3228a0b </th>
+   <th> fix(monetization): fixed value object impl </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cfda17a6c850a61af2c303b9825ff867306a7c76 </th>
+   <th> feat(monetization): added observer impl for payment and subscription </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cfda17a6c850a61af2c303b9825ff867306a7c76 </th>
+   <th> feat(monetization): added observer impl for payment and subscription </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6af6ae374522ec5193feef1191d595686ce22324 </th>
+   <th> feat(monetization): added service folder </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 20e034301ef04b22861346ee1a24876bc6c575d9 </th>
+   <th> feat(monetization): config and added AppDbContext and domain repositories </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 20e034301ef04b22861346ee1a24876bc6c575d9 </th>
+   <th> feat(monetization): config and added AppDbContext and domain repositories </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> ae0b6eb4a808309b2a2f4eb618385a2f01208a08 </th>
+   <th> feat(monetization): added data repsotories and commition dbset config </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f89afa1c9766272408683a4e97b761c5d6e098ed </th>
+   <th> feat: Add Controller and Domain for Reader Creation </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f89afa1c9766272408683a4e97b761c5d6e098ed </th>
+   <th> feat: Add Controller and Domain for Reader Creation </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cb2137ba3ad267db65ce49e339a9186d190de040 </th>
+   <th>feat: Add GetByEmail and GetByUsernamePassword </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> ce9e60768b88b37f4451dd405b5b81a02320c32e </th>
+   <th> feat: Infraestructure Context and Models </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8fe07ca838ca145ce5ff9776690409665b8e9884 </th>
+   <th> feat: Domain Comments Data </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8fe07ca838ca145ce5ff9776690409665b8e9884 </th>
+   <th> feat: Domain Comments Data </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8e78ca67ab20e60944b4181109c3e512bad72d4b </th>
+   <th> feat(US08): Added folders to infrastructure layer </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> dcd5c5a032184e631f0cc114c202abddfacd69b3 </th>
+   <th> feat: Application Controller, Mapper, Request and Response </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 2363056af968bfbb7eff68bef58301d8b839ffb5 </th>
+   <th> fix: Date in Response </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 27d0a97cf1b3a7dde3dc519c1283cd85a2a0217a </th>
+   <th> feat: Add Directorys in Domain and Infraestructure </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 68fa72e4ca741b1042060ff958d0a63ad56815c1 </th>
+   <th> feat(Monetization): added controller and commisions table </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 298895f9aa94c84a2f63b820aa97187f8cd6cffe </th>
+   <th> chore(Monetization): changed user root password </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> c91d5065741ba826de1645248d16e90473ce5df7 </th>
+   <th> feat(Monetization): added subscription controller and mapped subscription aggregate </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> add125b5f7d379d2ff0f99bd76de60272f7c7d37 </th>
+   <th> refactor(Application): Removed WeatherForecast files </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 80e49d12c4f71bb7df42460d12d3c6d78e05fda4 </th>
+   <th> chore(Application): Added connection string </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> a4bc13f9f1a4dd2e7cfa3d35679d3576b473e2d2 </th>
+   <th> chore(Application): Added packages </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> b63feed897d9e7e9fb0543fcaf1203a2c126988d </th>
+   <th> feat(Application): Added connection with Db </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 2756c4fd7670bad7ef2e22d7150ff9cf4411a6c9 </th>
+   <th> feat(Application): Added controller file </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f1eccb610748b0e0b9116ee331fddcc8d9ba71f0 </th> 
+   <th>fix: Corrected email domain validation</th> 
+   <th> </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 063a8ba236f96ef23b5d60a88117505ae1bab820 </th> 
+   <th>feat(Application): Added CRUD methods to controller</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> bd9d0c023dd8e6da80b612fe8711c094e856d09f </th> 
+   <th>fix(Application): Removed comment in code line</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 924e848bf714c205fed67d301e273cec81cf94d2</th> 
+   <th>feat(Domain): Added RepositoryGeneric files</th> 
+   <th>  </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 4907dc7e23f99b72079ebbb1940f4c282ba9dd45 </th> 
+   <th>feat: added backup feature/US11-US15</th> 
+   <th> </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0f57afd81ff4e002a82c92cfea0c711832ff9614</th> 
+   <th>fix: waiting pull request</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>73a6e10394b8f536be448bddcbb045df4a282597</th> 
+   <th>feat(Infrastructure): Added Models</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>4db44bc912eea17e0dc1e58093a5d8799249ed96</th> 
+   <th>feat: add DDD organization and domain unit tests for AddSync</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>6ceaff7c51a0435a140f5a57ad5619adeb23c68c</th> 
+   <th>feat(Monetization): added Infrastructure unit test</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>5c3cc98319ec02d6feb916d5e6a57b7560dad768</th> 
+   <th>feat(Monetization): added domain unit testing</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>f312d53e8f6f2e2b3f65cd283653efa3a378f7c4</th> 
+   <th>chore: restored application config</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a74057ea29580dfc210406a37d6c14dcc0c7d91a</th> 
+   <th>fix: fixed external files</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 38e8de47534ad514360a963e8f16c1aa004dba4d </th> 
+   <th>feat: merge branch with hotfix</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a062667166a19a378717cea494d9e96191819b38</th> 
+   <th>refactor: changed code organization</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>7fbf3b9f471eabb4cd125d3df2832b6dc220678e</th> 
+   <th>feat(Domain): Added business rule</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>dc0d40597b8ab5f7b05bcd9031cb2074c9c8a0a3</th> 
+   <th>feat(InterfaceLayer): Added new get method</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>c70a06e33c3acaaefb08c723054512bbb3b5994b</th> 
+   <th>feat(monetization/controller): added cud methods</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 6c78394214caaa0af6536adf0873e3d8a8d55482</th> 
+   <th>refactor(Infrastructure): Folder renamed</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 6e90c952fda45dce25efacf9a5895bc5cbdc95ad </th> 
+   <th>refactor(Infrastructure): Applied DDD organization</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 42e174de10efa1a5a61be1eac764d46c6b4c9d39 </th> 
+   <th>refactor(Application): Applied DDD organization</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 457950bc8a9ddf59023bc632bec8b4904de71744 </th> 
+   <th>feat(Application): Added mapper to controller</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0652b5ae2dbef00106a210a84b08f2d58e874b77 </th> 
+   <th>chore(monetization): changed organization folders</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> ba176cc33db852c1f2d88e4e26abd5ea1e3edb97</th> 
+   <th>feat(Application): Added automapper files</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8a9eec818d2b27ab9866b9ee9767ca43de056aa8 </th> 
+   <th>feat(Application): Added Request and Response</th> 
+   <th> /th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>54d51cc5d5894ec89da22bc5ac80d94ca24df460</th> 
+   <th>chore(InterfaceLayer): Added automapper packages</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> fcf2d0de9939f742469b6538a015f7eb42d51d29 </th> 
+   <th>refactor(Domain): Deleted unnecesary class</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f4dfe9252c3d8a50977a3514416fe934323c0553 </th> 
+   <th>feat/chore(infrastructure): Added var transaction</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a5225c9dfd4a6a123f49cde2b2ec00b5123c16ce </th> 
+   <th>fix(Infrastructure): Removed unnecesary builders</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 86306f30581cd3df85aaac090fce9835ded8b9ff </th> 
+   <th>feat(Infrastructure): Made some changes to the models</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 5227447498887b28049864154587ff5d90a9a4bc </th> 
+   <th>feat: Added configuration and models</th> 
+   <th></th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 74d1c51e83e1a35a671319d11ae0c2f7bfb1f3e4 </th> 
+   <th>feat/refactor(Domain. Test): Added unit test for domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 7e94c142e23c6a22d39506e879c0b7d61e0419e4 </th> 
+   <th>feat(domain): implement observer for update a subscription</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 62ce28d7ccac60fe6a74e86ec28d8f0b6518177e </th> 
+   <th>chore: restare package UnitTestDomain</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> d24d5a1cf5d2fb34dd03631be04fe6b64d8e2057 </th> 
+   <th>chore: restarted package config</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8b2af2b16a39ccc7e9497569b7906c8d63137643 </th> 
+   <th>chore: configured automapper for hidde not relevant bussiness context</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 752e716807ce7bbf97a51fbfee9648e124afe1bb </th> 
+   <th>chore/refactor(ApplicationLayer): Changed Database name</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> cdc02c2440859d2b89ed954460b25237632ece25 </th> 
+   <th>feat: added SubscritionData and SubscriptionsController</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> d1b38ee0f1d153ab85b0b795999177446591d0ab </th> 
+   <th>feat: added subscriptionRequest and SubscriptionDBContext</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 61fc2e873044cad69cbd22e7bb8cdcdfe6641aee </th> 
+   <th>feat: added rider project configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f43e74f397524fb3bd34919260159cdee5c7749b </th> 
+   <th>feat: added RequestToModel</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> c8205c4f120c016436537aaba2b8746cf4209ed0 </th> 
+   <th>feat: added project configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 182d2c2af5f2a62026e78f21f76e31c77f8a304e </th> 
+   <th>feat: added program.cs</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> bf0a49f3aaccbbcd046290928a1111ff5a20b381 </th> 
+   <th>feat: added ModelToRequest and ModelToResponse</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>c3b5b3e96a061b9fabbd31c47b2ab35b8ddccb12</th> 
+   <th>feat: added infraestructure configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> e8a7b380024ee428b0327c2ae4eb62d92f9fcb80 </th> 
+   <th>feat: Added domain configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 3d59f4a8e46c7c553eccaf90efaa9cce32e67c8a </th> 
+   <th>feat: added basemodel</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 772459289cafc1649dc2ca7623c1993ec1d7da22 </th> 
+   <th>feat: added appsettings.json configuration</th> 
+   <th></th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> ce8eef36a004624f7657a46d090d9096631a0674 </th> 
+   <th>feat: deleted unnecesary classes</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> b5322c25421485d2d1c9570cc92f99e1a985f0a3 </th> 
+   <th>feat: added application configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 5974d60ab2c7ba8c452b57647780bb6702cf7f3e </th> 
+   <th>feat: added gitignore</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> c8b96ed1db2a9cdc6c3c6686c11e0f86852e912e </th> 
+   <th>test/feat(InterfaceLayer): Added new unit tests for Domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 78216739c5517d66a89c3a889cf1f4b129bec94b </th> 
+   <th>fix(UnitTestInfrastructure/monetization): rename unit test package</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 29d66be454c57c0133fb5aaa72e286b6d09f9567 </th> 
+   <th>feat(UnitTestingDomain/monetization): added unit testing for observer response</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 17b7e67fa177099f4f7ce926de6eaaab497934ba </th> 
+   <th>feat(InterfaceLayer): Added new unit tests for domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0c7e0414465bb491e238a4ecdc5f8342b431a28e </th> 
+   <th>feat: added CRUD</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8a937df99ed1339ffc084100e793edfb88f8c6b1 </th> 
+   <th>feat(InterfaceLayer): Added new get methods</th> 
+   <th>CamiAm404</th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>a93ef17668a06189da36000b2af87e517b8b055f </th> 
+   <th>feat(InterfaceLayer): Changed get methods path</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+</table>
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
