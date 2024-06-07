@@ -6375,6 +6375,8 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
 
 
+
+
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 
 
