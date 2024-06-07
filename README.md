@@ -5779,6 +5779,14 @@ Por otro lado, la implementación y validación del producto se realizaron media
 </p>
 
 ## Video About-the-Team
+En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
+
+Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248710482580471939/image.png?ex=6664a7c2&is=66635642&hm=15d4de2e1a97c772b818b3ffa93628612f976e1cc7632b65a0669cbe22abaaa0&=&format=webp&quality=lossless&width=550&height=308" alt="Primera versión video about the team">
+
+Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVjyXdRMgcJGnrnSqv6TSdABbry1xKM2Kmdm_ZeCF6uuBA?e=Tze6jU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
