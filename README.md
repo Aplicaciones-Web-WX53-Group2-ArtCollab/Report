@@ -5423,7 +5423,7 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1246990747652325467/image.png?ex=666454e2&is=66630362&hm=2c8f9fa829e5b035626d355a347e8d9c032f08909cbd10589e80d8334cf19725&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -5627,7 +5627,7 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=6663ff58&is=6662add8&hm=68636faed19cbf63b559c380dfb6235d72c868d9566778d54c73384eb6e8fc59&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -5785,7 +5785,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ***Problema:***
 No hay botón o enlace que redirija a la página de inicio
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=6662f135&is=66619fb5&hm=7922b1e4a2df9dea504dabe33d3314414c453654f6d97be108a93d32f207239f&=&format=webp&quality=lossless&width=277&height=411" alt="Problema 3">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 4">
 
 *Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.*
 
@@ -5801,7 +5801,7 @@ Se debería agregar un botón o un enlace al logo del aplicativo, para que de es
 ***Problema:***
 No se muestran los vehículos registrados en la pestaña Alquiler
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248062950779125781/image.png?ex=6662f573&is=6661a3f3&hm=77ddf64878ffbc4404a90b0d62dc6a477f8e5d028b00b6e09701dcfe521ddbe7&=&format=webp&quality=lossless&width=793&height=411" alt="Problema 3">
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248062950779125781/image.png?ex=666446f3&is=6662f573&hm=ff8a307562c5d06649b97e9468f8bad05633123caae435f8ca3c8777acd9b564&=&format=webp&quality=lossless" alt="Problema 5">
 
 *Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.*
 
