@@ -4037,8 +4037,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 <p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web. </p>
 
-Enlace del deploy de la landing page mediante Netlify: https://group2-wx53-si730.netlify.app/
-
+Enlace del deploy de la landing page mediante Netlify: https://66636d9e7be51c0008bdd8ee--ephemeral-rabanadas-a3e8b8.netlify.app/
 
 
 
@@ -6271,7 +6270,9 @@ En el presente no realizamos cambios en el frontend, dado a que cumplimos con to
 https://elegant-beijinho-a167d8.netlify.app/#/home
 
 
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
+https://66636d9e7be51c0008bdd8ee--ephemeral-rabanadas-a3e8b8.netlify.app/
 
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
