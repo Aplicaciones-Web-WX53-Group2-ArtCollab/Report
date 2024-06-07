@@ -5425,7 +5425,12 @@ Evidencia de la entrevista:
 
 <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 00:11
+
+Fin: 06:48
 
 Resumen de la entrevista:
 
@@ -5453,7 +5458,12 @@ Evidencia de entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Eb0HZ39W04NLldw7mkyFswYBYqksX9xMfUvm5edJpprJVw?e=2rvBty&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 06:48
+
+Fin: 08:55
 
 Resumen de entrevista:
 
@@ -5474,7 +5484,12 @@ Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
 
-Enlace de entrevista: https://drive.google.com/file/d/1-zCTLik8Z1lUEQCuwr9YZA3Ln5QEmlNk/view?usp=sharing 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 08:55
+
+Fin: 12:55
 
 Resumen de la entrevista:
 
@@ -5500,7 +5515,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EfDr97NshilPgrq11mdjl2sBQyIITwftP6KkNSZg5RX20A?e=j3mYXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 13:01
+
+Fin: 12:58
 
 Resumen de la entrevista: 
 
@@ -5524,11 +5544,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicio: 
+Inicio: 15:58
 
-Fin: 
+Fin: 22:55
 
 Resumen de la entrevista:
 
@@ -5552,7 +5573,12 @@ Entrevistador: Mathias Alejandro Jave Diaz
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248010463673847839/image.png?ex=66621bd1&is=6660ca51&hm=c1323881f464a66c766513301863bac0b32d544bdda2913d220396270f9d0a81&=&format=webp&quality=lossless&width=1100&height=460">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EaSE9eBA40lOmleQ7JSHaSMBpRifRtbdV5xklyd9ovPM_w?e=M2axs4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 22:56
+
+Fin: 29:10
 
 Resumen de la entrevista:
 
@@ -5572,7 +5598,12 @@ Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
 
-Enlace de entrevista: https://drive.google.com/file/d/1soGlZmnUhnicLxNDpwXWvzP4WqpGgA3M/view?usp=sharing
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 29:10
+
+Fin: 33:20
 
 Resumen de la entrevista:
 
@@ -5598,7 +5629,12 @@ Evidencia de la entrevista:
 
 <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 33:26
+
+Fin: 39:18
 
 Resumen de la entrevista:
 
@@ -5627,7 +5663,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EdRSRwIYaNtHqBfGSTB5Qo4BrP1PZfCQB3EN6D3NIo2Clg?e=BEUEPZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 39:18
+
+Fin: 42:15
 
 Resumen de la entrevista:
 
@@ -5653,11 +5694,11 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 03 Segmento Lector">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Inicio: 42:15
 
-Inicio: 
-
-Fin: 
+Fin: 48:46
 
 Resumen de la entrevista:
 
@@ -5681,7 +5722,12 @@ Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
 
-Enlace de entrevista: https://drive.google.com/file/d/1Ffw5a35i7NG59Ysbjf2mAbCpW1-vkv-m/view?usp=sharing
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 48:46
+
+Fin: 51:57
 
 Resumen de la entrevista:
 
@@ -5804,3 +5850,6 @@ R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad 
 | ------------ | ------------ |
 | Video grupal del TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
 | Prototypes Navigation/ Product Navigation | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY |
+| Video grupal del TP1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
+| Video grupal del TB2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eda4u05Eb9dFhA2-15qUhlEBJ2AK5KRhA0f8GNbrC7Z9kA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AUmvWn  |
+| Validation Interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
