@@ -264,6 +264,9 @@ En el avance del trabajo se hizo mediante branches para la colaboracion en la cr
 TP1 <br>
 En esta entrega, el trabajo donde se desarrollo el front de nuestra aplicacion web donde se utilizo las diversas ramas para la organizacion del trabajo. Ademas, del uso de GitFlow y el DDD permitiendo un enfoque claro y estructurado para el diseño del sistemas y mantenimiento del codigo.
 
+TB2 <br>
+En este avance se trabajo mendiante el uso de github mediante diferentes branches cada una correspondiente a las User Stories destinadas a la API.
+
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
@@ -311,6 +314,9 @@ Para la entrega del trabajo, se realizaron diversos analices para identificar y 
 
 TP1<br>
 En el avance del trabajo, se realizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
+
+TB2 <br>
+Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
