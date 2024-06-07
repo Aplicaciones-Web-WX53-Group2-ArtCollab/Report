@@ -5763,7 +5763,12 @@ No se muestran los vehículos registrados en la pestaña Alquiler
 Añadir una función que actualice la página con los vehículos registrados por el usuario.*
 
 ## 5.4. Video About-the-Product
+En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248708421650223164/image.png?ex=6664a5d7&is=66635457&hm=b18cbb9c982fb3b64bf18bf17cd2f24597c5a44ce2a839760ec2ef71a2450b42&=&format=webp&quality=lossless" alt="Primera versión video about the product">
+
+Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EaWCj12LcndCm7zJvnCl39kBjUR3LTILd44hkBVdcfYMsg?e=e1GmbL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 <p>En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
