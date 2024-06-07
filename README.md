@@ -6160,7 +6160,7 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Apli
 <table>
   <tr>
    <th style="text-align:center;"><strong> Bounded Context </strong> </th>
-    <th colspan="2" style="text-align:center;"> Monetization </th>
+    <th colspan="2" style="text-align:center;">   </th>
   </tr>
 
   <tr>
