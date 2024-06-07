@@ -80,9 +80,9 @@ Jave Diaz,  Mathias Alejandro
             <td align = "center">TP1</td>
             <td>02/05/2024</td>
             <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
-            <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7 y 5.2.2.8 </td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
         </tr>
-        <tr>
+  <tr>
             <td align = "center">TB2</td>
             <td>06/06/2024</td>
             <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
@@ -108,6 +108,17 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Network-Graph.png?raw=true" alt="Pon aca el nombre de User" style="width: 100%;">
   
+TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735286231597167/image.png?ex=6662ef6b&is=66619deb&hm=136bc937831b97c2642fdb2f6fdcc2e69f4f395215c0ebb85af2bcbaebab074f&=&format=webp&quality=lossless&width=829&height=411" alt="Report Commits 1 TP1"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1235735371719905452/image.png?ex=6662ef7f&is=66619dff&hm=06f0670bb2f4a7c0a585ebb064dc912393d2684d92aed846dfa509873660a48b&=&format=webp&quality=lossless&width=448&height=411" alt="Report Commits 2 TP1"/>
+<br>
+
 ---
 
 # Contenido 
@@ -196,7 +207,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
   - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
@@ -206,7 +216,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
   - [5.2.3. Sprint 3](#523-sprint-3)
     - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-2)
     - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-2)
@@ -228,7 +237,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [Video about the team](#video-about-the-team)
 
 ## [Bibliografía](#bibliografía)
-
 ## [Anexos](#anexos)
 
 ---  
@@ -1459,9 +1467,9 @@ Evidencia de la entrevista:
   ### 2.3. Needfinding
 
 ### 2.3.1. User Personas.
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Autor.png"> 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Ilustrador.png">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-personas/User-Persona-Lector.png">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942436270171/User-Persona-Autor.png?ex=66354d29&is=6633fba9&hm=3d2a638501ffe1775803bb6296df408090a358463a554e93d2e274450e25a917&"> 
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693942754775200/User-Persona-Ilustrador.png?ex=66354d2a&is=6633fbaa&hm=e3e02acea9009450e4e1e56eb50d354f705231a1fbdac6c8482e0c949276401d&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235693994680520704/User-Persona-Lector.png?ex=66354d36&is=6633fbb6&hm=973d04f0e2902467819f0cd772cf048863d624985d363384670e6ef3c3c83c06&">
 
 ### 2.3.2. User Task Matrix
 |                        | Marian Cornwell (Autor) | Javier Pérez (Ilustrador) | Jimena Fuentes (Lectora) |
@@ -1480,9 +1488,10 @@ Evidencia de la entrevista:
 | Escribir reseñas | - / - | - / - | Media / Media |
 
 ### 2.3.3. User Journey Mapping
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Autor.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Ilustrador.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/user-journey-map/User-journey-map-Lector.png?raw=true">
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481277841488/journey-map-autor.png?ex=66354f87&is=6633fe07&hm=5892c52ee847c5256123c1c997784d5c0098476a339eb46731c90102772886aa&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481600536606/journey-map-ilustrador.png?ex=66354f87&is=6633fe07&hm=eeb0ac56986257c794fed121822b477d392407ff0856f8308ec494e9eb84cabe&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235696481906724925/journey-map-lector.png?ex=66354f87&is=6633fe07&hm=dc61a31298d1b32510dd4c0ea559a9ff2a111e71f68eabece91332dbeb028e07&">
 
 ### 2.3.4. Empathy Mapping
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Empathy-map/Empathy-map-Autor.png?raw=true">
@@ -1532,9 +1541,9 @@ Evidencia de la entrevista:
 
 ## 3.1. To-Be Scenario Mapping.
 <hr>
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-Autor.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-ilustrador.png?raw=true">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/To-be-map/To-be-lector.png?raw=true">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235689007929622640/to-be-autor.png?ex=66354891&is=6633f711&hm=2275e26f156a60807bb6fcfc2ce53eb0aa810ebb4eeebc245101687242d865be&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688771178074204/to-be-ilustrador.png?ex=66354859&is=6633f6d9&hm=ff0fd52ca41e6fdae9d462c69a4795e8edd003d4e495046abd8859dda2422eb6&">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235688354209857578/to-be-lector.png?ex=663547f5&is=6633f675&hm=d66091a22aa1b42d7d99f5233a0493a166ab62673f4b70283ffc24dc6a8ef519&">
 
 
 
@@ -2007,9 +2016,9 @@ y elije la red la red social Twitter.
 <hr>
 
 ## 3.3. Impact Mapping.
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap1w.png" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap2w.png" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/impact-map/Impactmap3w.png" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953167159426/impact-map-1.png?ex=66354796&is=6633f616&hm=064e77faa549a1336e9cef711aa0fe7414502039857e1d3e5ea68bbaa16f60f6&" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687953494442125/impact-map-2.png?ex=66354796&is=6633f616&hm=0175959a5b3883cd0f551381328ce67e82bb950d6fdee9b9e802ba42645e9702&" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235687952781148222/impact-map-3.png?ex=66354795&is=6633f615&hm=87521804d956fe5a8408e3e6b05a403051b429fb631b90844e787dfb4c2d0756&" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
 <hr>
 
 ## 3.4. Product Backlog.
@@ -2418,19 +2427,40 @@ página principal basta con apretar en el logo de ArtCollab
 
 Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=2030-156&mode=design
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/Hero.png?raw=true" alt="Landing Page Hero Wireframe">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/DESCUBRE.png?raw=true" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/COLABORA.png?raw=true" alt="Landing Page COLABORA Wireframe">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/15a2df66574eeb927ea09f96512711ce0b8b0ccb/assets/images/landing-page/Wireframes/Footer.png?raw=true" alt="Landing Page Footer Wireframe">
+Versión Desktop:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235652421384933447/Hero.png?ex=6635267e&is=6633d4fe&hm=923194a2e636b7c91991290154c6c6562df8f20a5e30010f4c56f9bc9c5ab099&=&format=webp&quality=lossless&width=720&height=495" alt="Landing Page Hero Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651393826586634/DESCUBRE.png?ex=66352589&is=6633d409&hm=f03569ad2db9ada3858e3fe48248fb5a80c1443a88585b930762c68331d3f892&=&format=webp&quality=lossless&width=399&height=597" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651418723975198/COLABORA.png?ex=6635258f&is=6633d40f&hm=7f4288ffddd8a6d05e6971bf625041fe6ce40ff811625fd553a77ddc8fa8a26a&=&format=webp&quality=lossless&width=491&height=597" alt="Landing Page COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651442019139695/Footer.png?ex=66352595&is=6633d415&hm=08242b425f1a92f41eaa35e5a82aa85a5013fa20a8f0774bca549c5ab08f696a&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Footer Wireframe">
+
+Versión Mobile:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651541092925600/Hero-Mobile.png?ex=663525ac&is=6633d42c&hm=aa76fca0742780e647f8b61df210b39ec4a46baeda189309212cc81a082385b8&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651586437546035/DESCUBRE-Mobile.png?ex=663525b7&is=6633d437&hm=75134f13fb2cbb450126bbbe9a5a57c033063f443cb465d7ca8b06ec0dc765e0&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651612735705250/COLABORA-Mobile.png?ex=663525bd&is=6633d43d&hm=6585ad925c4c6ffb6ff607222d45174978ac1d778e1588e6b74a2f500980a1e5&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651642834292886/Footer-Mobile.png?ex=663525c4&is=6633d444&hm=527f1c01f06a3b835ee01dfe78e8b08ec0000f62beed00ed2084a53ef2ed4c81&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer Wireframe">
 
 ### 4.3.2. Landing Page Mockup.
-
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/Hero.png?raw=true" alt="Landing Page Desktop Hero">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/DESCUBRE.png?raw=true" alt="Landing Page Desktop DESCUBRE">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/COLABORA.png?raw=true" alt="Landing Page Desktop COLABORA">
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/b481dba5b11683e89bd056a8ba3e9b713d65f083/assets/images/Footer.png?raw=true" alt="Landing Page Desktop Footer">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=663527dc&is=6633d65c&hm=cd960b77b2404b41bca68e03ddbb1d8e73dc5df64187a9175474ac8005c2b20e&=&format=webp&quality=lossless&width=509&height=350" alt="Landing Page Desktop Hero">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=66352821&is=6633d6a1&hm=3d9ad2994d327be7ff94d7faaccd52a46a141a71a76678427cb697f725b8414c&=&format=webp&quality=lossless&width=234&height=350" alt="Landing Page Desktop DESCUBRE">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=66352823&is=6633d6a3&hm=528ff1e37f18d0d5aaf32e91c0e2bf9203bf08da489b6d44b95bb694ba3c0805&=&format=webp&quality=lossless&width=288&height=350" alt="Landing Page Desktop COLABORA">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=66352827&is=6633d6a7&hm=a67a0d6c83c6bb818edafa3f7fab8b4852080e274a344635fa513b546a5578ce&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Desktop Footer">
+
+Versión Mobile:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=66352833&is=6633d6b3&hm=987f2a01a3c906a3e577056e3f13823d92a996214308da33abcdb28461f7f48a&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=66352837&is=6633d6b7&hm=6a57a3b4a89a815809f3cf242af959a6561f842cbaa117920023f04e42c378da&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=6635283b&is=6633d6bb&hm=28e789b91f9d7b06db5b30fa78852b7efb55922b7e7f549cf997250417c0f2ed&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
 
 ## 4.4. Web Applications UX/UI Design
 Esta sección incluye secciones internas donde presentamos la propuesta visual y de interacción para nuestra web application, considerando la experiencia de usuario con el producto.
@@ -2439,49 +2469,49 @@ Esta sección incluye secciones internas donde presentamos la propuesta visual y
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
 #### Wireframes de la sección Géneros
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654741099544576/Generos.png?ex=663528a7&is=6633d727&hm=b1d0794f30d60b0d5998ce27cf5b53ceddb2cacdb1f809ca40e2ca4cfc031877&=&format=webp&quality=lossless&width=865&height=1002" alt="Web App Desktop Generos">
 
 #### Wireframes de la sección Populares
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654728592130068/Populares.png?ex=663528a4&is=6633d724&hm=f9c54739a7cca53e97e5f1230d775a89c2249c43d8b781784c27bda765788dab&=&format=webp&quality=lossless&width=861&height=1002" alt="Web App Desktop Populares">
 
 #### Wireframes de la sección Suscripciones
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654705385046146/Suscripciones.png?ex=6635289f&is=6633d71f&hm=eaa0c32eebd68f23f6445687cf937a82923ff60cc274f85b860189a2894b2ccc&=&format=webp&quality=lossless&width=1920&height=930" alt="Web App Desktop Suscripciones">
 
 #### Wireframes de la sección Monetización
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654692449816730/Monetizacion.png?ex=6635289c&is=6633d71c&hm=f6e9ae61b9b5b5add851f336286808ce9121e2b781788295bd7b20493a12c5da&=&format=webp&quality=lossless&width=756&height=1002" alt="Web App Desktop artistas monetización">
 
 #### Wireframes de la sección Artistas
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654680588058644/Artistas.png?ex=66352899&is=6633d719&hm=d4bccda0eef038c37ff2c78eb687212f610f45f15f4ff9535db3c379b9241537&=&format=webp&quality=lossless&width=627&height=1002" alt="Web App Desktop Artistas">
 
 #### Wireframes de la sección inicio de sesión
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
 #### Wireframes de la sección registro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659313616261211/registro-web-app.png?ex=66352ce9&is=6633db69&hm=0afe9beac582f05e5d9a1267d0578a1e5dc344bf064ae113069a66cd6ff80723&=&format=webp&quality=lossless&width=1920&height=934" alt="Web App Desktop Registro">
 
 #### Wireframes de la sección recuperar contraseña
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659230418042891/recuperar-contrasena.png?ex=66352cd5&is=6633db55&hm=e9044c6c27fc3910ec7cb4cf642aa534d22e5d8981b0141fba679b8579c81547&=&format=webp&quality=lossless&width=1920&height=933" alt="Web App Desktop Recuperar contraseña">
 
 #### Wireframes de la sección perfiles
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659242917204060/perfiles.png?ex=66352cd8&is=6633db58&hm=06477de0575258bd5f7e30c9a744b8f55c4ea7e8e3d916e18d1425ec87528781&=&format=webp&quality=lossless&width=1705&height=1002" alt="Web App Desktop Perfiles">
 
 #### Wireframes de la sección chat artista
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659253956481044/chat-artista.png?ex=66352cdb&is=6633db5b&hm=18627e23387f30acde77bd444d41db4af7c051d603618b6ff78636678e891648&=&format=webp&quality=lossless&width=1920&height=868" alt="Web App Desktop Chat artista">
 
 #### Wireframes de la sección historia
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/historia.png?raw=true" alt="Web App Desktop Historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659263473483940/historia.png?ex=66352cdd&is=6633db5d&hm=c8e278cad00e7fdc5278887e8c360fa88d8c8c4cfa32dbeaed34ff47f2e650dd&=&format=webp&quality=lossless&width=1759&height=1002" alt="Web App Desktop Historia">
 
 #### Wireframes de la sección publicar libro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659276538613760/publicar-libro.png?ex=66352ce0&is=6633db60&hm=5a53677cca9eb408f090cb5dea9b3cd064f88513555343e23ae0ce40b154f1c1&=&format=webp&quality=lossless&width=1920&height=766" alt="Web App Desktop Publicar libro">
 
 #### Wireframes de la sección editar historia
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659284423905300/Editar-detalles-historia.png?ex=66352ce2&is=6633db62&hm=71aed3128acf03fa052418f08a5f41da7a6972c9de19597a74534acd57e1214a&=&format=webp&quality=lossless&width=1920&height=559" alt="Web App Desktop Editar historia">
 
 #### Wireframes de la sección editar perfil escritor/lector
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659293416620142/Editar-perfil-lector-escritor.png?ex=66352ce4&is=6633db64&hm=ec6b3585fbb8ae61c06d8f51bce44176f0387ec295cfac24346f21c2eff95a1f&=&format=webp&quality=lossless&width=1920&height=780" alt="Web App Desktop Editar perfil">
 
 #### Wireframes de la sección editar perfil artista
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659303969488966/Editar-perfil-ilustrador.png?ex=66352ce7&is=6633db67&hm=081afb78ffe1070c8893954487fe810debd06d7f691ac527faac2b6595bc00ec&=&format=webp&quality=lossless&width=1488&height=1002" alt="Web App Desktop Editar artista">
 
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=151%3A467&mode=design&t=UfHDditQXtCzv4qd-1
 
@@ -2567,53 +2597,102 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicativo web ArtCollab.
 
+### Mock-ups versión Desktop:
 #### Mock-ups de la página principal
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657428088131595/Pagina-principal.png?ex=66352b28&is=6633d9a8&hm=f96d772a5b0048e7fdfe1a0cf87da26672eb14f8225eef05c5bb845ec64bc931&=&format=webp&quality=lossless&width=720&height=308" alt="Web App Page Desktop Main page">
 
 #### Mock-ups de la sección Géneros
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657452565827696/Generos.png?ex=66352b2e&is=6633d9ae&hm=f0052557e2d40bf0fce243f79d427b1e649b9bb0531019f52235455a7f4a893f&=&format=webp&quality=lossless&width=517&height=603" alt="Web App Desktop Generos">
 
 #### Mock-ups de la sección Populares
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="[https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Populares.png?raw=true](https://media.discordapp.net/attachments/1235639705157107719/1235657473147408458/Populares.png?ex=66352b33&is=6633d9b3&hm=72c7164e8b1649e50ecd74669a85a1d43902c38c2bbcdeecc1b0550f65b00470&=&format=webp&quality=lossless&width=516&height=603)" alt="Web App Desktop Populares">
 
 #### Mock-ups de la sección Suscripciones
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657490109038682/Suscripciones.png?ex=66352b37&is=6633d9b7&hm=b024ec3f83e2233c5a21d8a6afc20f61ab79344ab7eccfc37c33a0f6d7abd59a&=&format=webp&quality=lossless&width=720&height=385" alt="Web App Desktop Suscripciones">
 
 #### Mock-ups de la sección Monetización
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657505338822666/Monetizacion.png?ex=66352b3a&is=6633d9ba&hm=6c831aad9184b321797b28c15599225d6f3ef5a10f515d3ee6542a36d2120636&=&format=webp&quality=lossless&width=456&height=602" alt="Web App Desktop artistas monetización">
 
 #### Mock-ups de la sección Artistas
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657523587977236/Artistas.png?ex=66352b3f&is=6633d9bf&hm=ba3120bd8dcb1ef7f278f3ae72624841f3be788a113213ada7bef0d7eafe6f14&=&format=webp&quality=lossless&width=221&height=350" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657545465466964/iniciar-sesion-web.png?ex=66352b44&is=6633d9c4&hm=5054ee3e03999cff2bea0edc6329bd126f9f1a14444400d3dba2e3f5be14f1fa&=&format=webp&quality=lossless&width=481&height=350" alt="Web App Desktop Inicio de sesión">
 
 #### Mock-ups de la sección registro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657561034981446/registro-web-app.png?ex=66352b47&is=6633d9c7&hm=e63b89c51dc5f3223ef152e1156da0cf56e49fed89ffcfd31fa3588d3954b4fa&=&format=webp&quality=lossless&width=720&height=357" alt="Web App Desktop Registro">
 
 #### Mock-ups de la sección recuperar contraseña
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657587354112000/recuperar-contraseC3B1a.png?ex=66352b4e&is=6633d9ce&hm=382a5b691c8b405a4ad37184ffe410abeb46b86f63751b8277a2a9bd5de5c6b6&=&format=webp&quality=lossless&width=550&height=272" alt="Web App Desktop Recuperar contraseña">
 
 #### Mock-ups de la sección perfiles
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657604341170176/perfiles.png?ex=66352b52&is=6633d9d2&hm=2a2f365a7a05b723f6b659ac910c16a8f0e1f4ff3f2c7ceea94f17274ac1bbe8&=&format=webp&quality=lossless&width=550&height=311" alt="Web App Desktop Perfiles">
 
 #### Mock-ups de la sección chat artista
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657622372356177/chat-artista.png?ex=66352b56&is=6633d9d6&hm=c7bd643713399f67ebe81a94a1ecbe1560d78f9fe4ad8b5262e31ec5049de8d2&=&format=webp&quality=lossless&width=720&height=326" alt="Web App Desktop Chat artista">
 
 #### Mock-ups de la sección historia
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/historia.png?raw=true" alt="Web App Desktop Historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657645185306645/historia.png?ex=66352b5c&is=6633d9dc&hm=48d80ade29f57e68a8b5488eafed8edbd76dc7ace8b89d15364a272e6f85d003&=&format=webp&quality=lossless&width=550&height=304" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657660762947646/publicar-libro.png?ex=66352b5f&is=6633d9df&hm=3e0d0617e7872c4f84f38eca073ec860d58410a8cc8e42ddb137a7293968fa9e&=&format=webp&quality=lossless&width=550&height=218" alt="Web App Desktop Publciar libro">
 
 #### Mock-ups de la sección editar historia
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235658744004743290/Editar-detalles-historia.png?ex=66352c62&is=6633dae2&hm=40e77e55f3e7e16d8ec1c34ea34447be45c4771c4dc8502f627c278334939468&=&format=webp&quality=lossless&width=720&height=207" alt="Web App Desktop Editar historia">
 
 #### Mock-ups de la sección editar perfil escritor/lector
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657677359808512/Editar-perfil-lector-escritor.png?ex=66352b63&is=6633d9e3&hm=7abb415af8ca32a0d14785c3d56a1d020ad5137e5446187fda8918446e90d273&=&format=webp&quality=lossless&width=720&height=286" alt="Web App Desktop Editar perfil">
 
 #### Mock-ups de la sección editar perfil artista
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Mockups/Editar-perfil-ilustrador.png?raw=truee" alt="Web App Desktop Editar artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657694375837726/Editar-perfil-ilustrador.png?ex=66352b67&is=6633d9e7&hm=d8210ee69db2efc9cf93981a7aa10732c935c6de228e6b088837d8563fb267c6&=&format=webp&quality=lossless&width=511&height=350" alt="Web App Desktop Editar artista">
+
+<br>
+
+### Mock-ups versión Mobile:
+
+#### Mock-ups de la página principal
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660665000165446/Pagina-principal.png?ex=66352e2c&is=6633dcac&hm=ab460797cfe03bdb9e95b5bf88b9eb4213bf926cb5b9495d922df3e5bc6acdb7&=&format=webp&quality=lossless&width=681&height=662" alt="Web App Page Desktop Main page">
+
+#### Mock-ups de la sección Géneros
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660689922723871/Generos.png?ex=66352e31&is=6633dcb1&hm=5790eb1b8314567b8e82804e9afc12af1de27acb8afbd972831d225c1f8ca136&=&format=webp&quality=lossless&width=325&height=437" alt="Web App Desktop Generos">
+
+#### Mock-ups de la sección Populares
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660715256320083/Populares.png?ex=66352e37&is=6633dcb7&hm=82570a4310da08f14cca33f776266cc451c5b40b92ec356bdf9669955d92fb69&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop Populares">
+
+#### Mock-ups de la sección Suscripciones
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660734231478272/Suscripciones.png?ex=66352e3c&is=6633dcbc&hm=2c42727ade68fa085bdae792d444c82d9207d200fe8a404e39a6bd83501e9eb8&=&format=webp&quality=lossless&width=365&height=437" alt="Web App Desktop Suscripciones">
+
+#### Mock-ups de la sección Monetización
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660749775573023/Monetizacion.png?ex=66352e40&is=6633dcc0&hm=eecfaaf58e2410dad98fca0b5360836f9198df08123b277efd80478df826a3a2&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop artistas monetización">
+
+#### Mock-ups de la sección Artistas
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660771942207558/Artistas.png?ex=66352e45&is=6633dcc5&hm=c1842b02717fe18370a1b7c16a1312b3170def355f3c613cc4563e8a13dc3177&=&format=webp&quality=lossless&width=440&height=437" alt="Web App Desktop Artistas">
+
+#### Mock-ups de la sección inicio de sesión
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660790430961714/iniciar-sesion-web.png?ex=66352e49&is=6633dcc9&hm=0ed16aead1a79f20967b154e2689965452fa4734097c73287caaa9d430df881d&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Inicio de sesión">
+
+#### Mock-ups de la sección registro
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660813994561586/registro-web-app.png?ex=66352e4f&is=6633dccf&hm=b0a70cc8d686375426370d9996733b99ea248febfac483afac649e22a6d83ea0&=&format=webp&quality=lossless&width=492&height=662" alt="Web App Desktop Registro">
+
+#### Mock-ups de la sección recuperar contraseña
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660830293622835/recuperar-contraseC3B1a.png?ex=66352e53&is=6633dcd3&hm=c1ae92a5cf0a41de15d5c5cc0e16dcc70817312b0f049531a266c1cc906f4c01&=&format=webp&quality=lossless&width=340&height=437" alt="Web App Desktop Recuperar contraseña">
+
+#### Mock-ups de la sección perfiles
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660852301140118/perfiles.png?ex=66352e58&is=6633dcd8&hm=47be79726d21f961ac0c131aed99286e5a32965883758f168a1f2b06889c8d01&=&format=webp&quality=lossless&width=633&height=437" alt="Web App Desktop Perfiles">
+
+#### Mock-ups de la sección chat artista
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660871066325105/chat-artista.png?ex=66352e5d&is=6633dcdd&hm=5c1b922fb81867fd7896b163efc1480ae6e626690cc97827f6cff31025cb833b&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Chat artista">
+
+#### Mock-ups de la sección historia
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660889773047909/historia.png?ex=66352e61&is=6633dce1&hm=49ab205df8fb91876996d0c5e740e3f17d07c5a5d5ff20bc9cd5e0f3fd8cef1b&=&format=webp&quality=lossless&width=356&height=437" alt="Web App Desktop Historia">
+
+#### Mock-ups de la sección publicar libro
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660906373972061/publicar-libro.png?ex=66352e65&is=6633dce5&hm=754f3cb0ea07d6303de2ca8cdf56dcb1d4253cc794f7f18e828a341976d87412&=&format=webp&quality=lossless&width=318&height=437" alt="Web App Desktop Publciar libro">
+
+
+#### Mock-ups de la sección editar cuenta
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660926523277362/Editar-cuenta.png?ex=66352e6a&is=6633dcea&hm=4fa018a103537f0fa1d59266cabe43a1f4f231883e31ea0ae53b71ebbefe730a&=&format=webp&quality=lossless&width=537&height=662" alt="Web App Desktop Editar perfil">
+
 
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
@@ -2738,33 +2817,35 @@ Timing: 8:54
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
+### 4.6.1. Software Architecture Context Diagram.
+
+<img src="https://images-ext-1.discordapp.net/external/qsi7A2QGjUTTZZbASZimPuJqrud68efVeUWAWVmx2tQ/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/context-diagram.png?format=webp&quality=lossless&width=1145&height=597" alt="ArtCollab Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/component-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+<img src="https://images-ext-1.discordapp.net/external/CuAmLHD1GS1Wcc8T3TW8r8TWbDhg9bCoQrkBssCB-Ek/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/container-diagram.png?format=webp&quality=lossless&width=686&height=597" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
 API Rest Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643595432792094/api-rest-component-diagram.png?ex=66351e46&is=6633ccc6&hm=804357892c353e6dbfdb9c682c508a07012987d5568ebdd6dac8f83054dbbf8c&=&format=webp&quality=lossless&width=1365&height=597" alt="API Rest Component Diagram">
 
 User Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//userbc-component-diagram.png?raw=true" alt="User BC Component Diagram">
+<img src="https://images-ext-1.discordapp.net/external/GLFcnJQ84zCelEznlOucJoFbz3spTZgQ4JtoIIOMr8A/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/userbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="User BC Component Diagram">
 
 Content Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//contentbc-component-diagram.png?raw=true" alt="Content BC Component Diagram">
+<img src="https://images-ext-1.discordapp.net/external/rj8J2DVeW-hf5-ZS3JyD1oaCWvimo_cYqE9H-fTpSLM/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/contentbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="Content BC Component Diagram">
 
 Collaboration Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/436f6b046b0b6bd7c34577964bf60d6747fb302c/assets/C4//collaborationbc-component-diagram.png?raw=true" alt="Collaboration BC Component Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643631227113502/collaborationbc-component-diagram.png?ex=66351e4e&is=6633ccce&hm=a0146639394f17a2bbcda8ede4c6c3f5ade5401491b2a418708b9b717dec5b7c&=&format=webp&quality=lossless&width=426&height=596" alt="Collaboration BC Component Diagram">
 
 Monetization Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization Bounded Context Class Diagram">
+<img src="https://images-ext-1.discordapp.net/external/vCbi4M9CQFGa0PZSNWOBc5_JN_Js-pQLqxjjmqtT-9I/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/monetizationbc-component-diagram.png?format=webp&quality=lossless&width=459&height=596" alt="Monetization Bounded Context Class Diagram">
 
 <hr>
 
@@ -3008,7 +3089,7 @@ Monetization Bounded Context
 ### 4.8.1. Database Diagram
 <div style="display:flex; justify-content:center; flex-direction:column; text-align:center">
    <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
-   <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/data-base-design/ArtCollab_DataBase.png" alt="ArtCollab Database Model"> 
+   <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/89cc7c61ae7e3dfc867889914aef0195e9a21f25/assets/data-base-design/ArtCollab_DataBase-2024-04-29_15-13.png?raw=true" alt="ArtCollab Database Model"> 
 </div>
 
 ---
@@ -4135,14 +4216,781 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Insights/ColaborationsInsights.png" />
 
-#### Anexo: Colaboration Insights en el periodo de 1 mes
+### 5.2.2. Sprint 2
 
----
-
-### 5.2.3. Sprint backlog 3
-## 5.2.3.1 Sprint Planning 3
+### 5.2.2.1. Sprint Planning 2
 
 <table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/04/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 21:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el merge con mayor anticipación para evitar inconvenientes. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> Para este sprint tenemos como objetivo implementar el frontend de nuestro aplicativo web y desplegarlo por medio de un servidor en la nube. Se hará uso de tecnologías como Vue, Prime vue y Prime Flex, al igual que se aplicará i18n y aria-labels para un mejor código. Además, se planifica el despliege en la plataforma de Firebase. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  94  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 58 <td>
+      </tr>
+
+
+  </table>
+
+
+
+### 5.2.2.2. Sprint backlog 2
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
+
+Link de Trello: https://trello.com/invite/b/wvn7u2uj/ATTIa02d0334a39e93f7946edc151ac94e16C8BAC0EA/artcollab-sprint2
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1872&height=1040"/>
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP2-US06 </th>
+     <th colspan="3"> Registro de cuentas  </th>
+      <th> W10  </th>
+     <th> User Bounded Context </th>
+      <th> Implementar el registro de una cuenta.
+      </th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> EP2-US07 </th>
+     <th colspan="3"> Inicio de sesión </th>
+      <th> W11  </th>
+     <th> User Bounded Context  </th>
+     <th> Implementar el inicio de sesión desde una cuenta externa o interna.</th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> E2-US08  </th>
+     <th colspan="3"> Recuperar contraseña</th>
+      <th> W12  </th>
+     <th> User Bounded Context </th>
+     <th> Recuperar la contraseña de un usuario.  </th>
+     <th> 1  </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US09  </th>
+     <th colspan="3"> Toolbar de navegación </th>
+      <th> W13  </th>
+     <th> Navegation system </th>
+     <th> Implementar una barra de navegación para el ruteo entre las diferentes secciones.  </th>
+     <th> 1 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US10 </th>
+     <th colspan="3"> Asignación de Rol </th>
+      <th> W14  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar los roles de usuarios en la aplicación. </th>
+     <th>  3 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US11 </th>
+     <th colspan="3"> Configuración de Perfil de Usuario </th>
+      <th> W15  </th>
+     <th> User Bounded Context </th>
+     <th> Implemntar la connfiguracion de perfil para un usuario.  </th>
+     <th> 3  </th>
+     <th> Frida Dam </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> E3-US12 </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W016</th>
+     <th> Content Bounded Context</th>
+     <th>  Implementar la opción la opción de subir libros  </th>
+     <th> 4 </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+   
+   
+
+  <tr>
+      <th> E3-US13 </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W17  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar un chat collaborativo entre artistas y escritores   </th>
+     <th> 2 </th>
+     <th> Mathias Jave/Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E5-US16 </th>
+     <th colspan="3">Diversos géneros literarios</th>
+      <th> W18  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la sección populares con libros según los generos de fantasia, comedia y romance. </th>
+     <th>  2 </th>
+     <th> Mathias Jave/Frids Dam/Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> E7-US23 </th>
+     <th colspan="3">Uso de API para el inicio de sesión</th>
+      <th> W19  </th>
+     <th> User Bounded Context </th>
+     <th> Utilizar un servicio para el inicio de sesion. </th>
+     <th>  5 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> E4-US014 </th>
+     <th colspan="3">Destaca tus libros</th>
+      <th> W20  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de destacar libros dentro de la plataforma. </th>
+     <th>  4 </th>
+     <th> Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+   <tr>
+    <th> E4-US015 </th>
+     <th colspan="3">Reparto por Ingresos publicitarios</th>
+      <th> W21  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos segun las obras publicadas. </th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> In Process </th>
+   </tr>
+
+   <tr>
+    <th> E5-US17 </th>
+     <th colspan="3"> Desbloqueo de Capítulos</th>
+      <th> W22  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la opción de desbloquear capitulos por suscripción.</th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> In Process </th>
+   </tr>
+
+   <tr>
+    <th> E5-US18 </th>
+     <th colspan="3"> Dejar comentarios </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de comentarios en cada obra publicada.</th>
+     <th>  4 </th>
+     <th> Gustavo Huilca/Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+    <tr>
+    <th> E6-US19</th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W25  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos por ilustraciones.</th>
+     <th>  7 </th>
+     <th> Frida Dam </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E6-US20</th>
+     <th colspan="3"> Flexibilidad al ilustrar <th>
+      <th> W26  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la facilidad de ilustrar obras para el segmento de artistas..</th>
+     <th>  5 </th>
+     <th> Frida Dam </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E7-US24</th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal <th>
+      <th> W28  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de pagos via paypal a traves de un servicio externo.</th>
+     <th>  7 </th>
+     <th> Mathias Jave/Gustavo Huilca </th> 
+     <th> ToDo </th>
+   </tr>
+
+   <tr>
+    <th> E7-US25</th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales <th>
+      <th> W29  </th>
+     <th> User Bounded Context </th>
+     <th> Implementar un servicio externo para compartir las redes sociales de nuestros usuarios.</th>
+     <th>  4 </th>
+     <th> Juan Cuadros/Camila Amaro </th> 
+     <th> ToDo </th>
+   </tr>
+
+</table>
+
+---
+     
+### 5.2.2.3. Development Evidence for Sprint Review.
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+    
+<table>
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th> ce3fbbd39473c43e47901b7124e9ad1ce1924b44  </th>
+   <th>  chore: Initial config </th>
+   <th> </th>
+   <th> 16/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  31a7598f98909351b1101476139a2ce041195144  </th>
+   <th>  chore: Updated .gitignore  </th>
+   <th>   </th>
+   <th>  20/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  2ec6d44867ada0e0b0e2422323c3ec59829e598b </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>    </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> artcollab.API </th>
+   <th>  develop </th>
+   <th>  d8f892627b16aacadf0ea18d3b61771ddc02808f </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th> </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  1383933773344900316778b33b76f80c16c21c6d  </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>  </th>
+   <th>  21/05/24 </th>
+ </tr>
+     
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> fa41cc3 </th>
+   <th> feat: added proyect via commit </th>
+   <th> </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> 049e961 </th>
+   <th> chore(primevue): added primevue into the public/components branch </th>
+   <th> </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> 202fee1</th>
+   <th> chore(primeflex): added primeflex into the public/components branch </th>
+   <th> </th>
+   <th> 22/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> a798094</th>
+   <th> feat(navbar)/chore(main.js): added navbar content and iconfield and inputicon components </th>
+   <th> </th>
+   <th> 23/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Frontend </th> 
+   <th> main </th>
+   <th> c27a944 </th>
+   <th> feat/chore: Added book publish components and configs </th>
+   <th> Added book publishing components and their settings. </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  1d7ea293b5e7cafeec8ce1ccae003baf834567083 </th>
+   <th>  feat(Infraestrcuture): added DbContext </th>
+   <th>  </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 8e272f3 </strong> </th>
+    <th> <strong> feat: Added second epic features </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 02/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> bd9dc50</strong> </th>
+    <th> <strong> feat: Added feature 08 </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 40e4b44 </strong> </th>
+    <th> <strong> feat: Added us-09 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> ef819f6 </strong> </th>
+    <th> <strong> feat: Added us-10 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> cc12820 </strong> </th>
+    <th> <strong> feat: Added us-11 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+</table>
+
+### 5.2.2.5 Execution Evidence for Sprint Review.
+
+<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas. </p>
+
+Enlace del deploy de la web app mediante : 
+
+https://elegant-beijinho-a167d8.netlify.app/#/home
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236088692376862800/Imagen_de_WhatsApp_2024-05-03_a_las_17.51.35_8e7468d0.jpg?ex=6636bccd&is=66356b4d&hm=19ecb23a47bde42126edd52a9b70036c1c295a7fb372f49955e5f9f1deb6bea3&=&format=webp&width=1176&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611968241774/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.38_a412ebd5.jpg?ex=663692d1&is=66354151&hm=2c48de1b559eccba011035979444186b02c22cf5ef47cd90c411a9ced4787e60&=&format=webp&width=1190&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612220035152/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.23_1984e9b6.jpg?ex=663692d1&is=66354151&hm=7e6999da87b9d4ce72eca85202ab9949eb77f7e6c782bef3cdf598896b33204c&=&format=webp&width=908&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612517564616/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.37_136265a6.jpg?ex=663692d1&is=66354151&hm=ef18af36d803d4cf416d0e23fde18c9a00995e732cf47f90486e91488f4a766f&=&format=webp&width=1279&height=675"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612756770866/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.14_6507db3b.jpg?ex=663692d1&is=66354151&hm=4af9235713fedc87314a802b8406f66e0513df80dec9fcb7cf61efaaaa956ff2&=&format=webp&width=674&height=676"/>
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 2 se ha priorizado el desarrollado del frontend web app, por lo que para este sprint no se evidencia el empleo de web services.
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarrollado el frontend de la web application. Para el despliegue se emplearon las siguientes herramientas.
+
+<ul>
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+
+ </li>
+
+ <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+
+ <li>
+    GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+ </li>
+
+ <li>
+    Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar nuestra el web application.
+ </li>
+
+</ul>
+
+
+
+### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th> Implementación de las secciones de populares, suscriipciones y monetización, tanto en su versión mobile como desktop. Además, apoyó en el desarrollo de la sección de chat. </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th> Implementación de las secciones de página principal, inicio de sesión,registro, recuperación de cuenta y artistas, tanto en su versión mobile como desktop. </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th> Implementación de las secciones de perfil artista, publicación de libro y capítulos y editar detalles del libro, tanto en su versión mobile como desktop. </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th> Implementación de las secciones géneros, perfil libro, mis historias y perfil escritor, tanto en su versión mobile como desktop. </th>
+ </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th> Implementacion de las secciones capítulo y su previsualización, sala de artistas y chat artistas, tanto en su versión mobile como desktop. </th>
+ </tr>
+
+</table>
+
+Hemos desarrollado en conjunto un total de 239 commits para el desarrollo, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990402230652928/image.png?ex=66366143&is=66350fc3&hm=400fcc8ae96f1a0bd1920029bd07b136c945a5368e93685aa6281fe94a02b95d&" Alt="Flujo de trabajo entre las ramas"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235995520380567643/image.png?ex=66366607&is=66351487&hm=fd9f346661ec9d9ffb28849502cf0203672ab0352f2508f3a5a11b7a4875ef0b&" Alt="Tabla de commits"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990603012243598/image.png?ex=66366173&is=66350ff3&hm=eba9b107cfe94f86fc89879a433c5ed60a4d2456b605b00f294476fb631800c3&" Alt="Flujo de trabajo"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1235990860005511199/image.png?ex=663661b0&is=66351030&hm=df161a2e4dea560ffbb46bbef506afdf0d46758f0bb8ee720b8e656df19d9b33&" Alt="Flujo de trabajo"/>
+
+---
+## 5.2.3. Sprint backlog 3
+### 5.2.3.1 Sprint Planning 3
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/05/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el merge con mayor anticipación para evitar inconvenientes y tambien la comunicación continua con el lider del grupo para evitar inconvenientes en las partes desarrolladas en el trabajo. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> Para este sprint tenemos como objetivo de realizar la implementación parcial del backend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usario correspondientes a cada funcionalidad. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td>  94  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 21 <td>
+      </tr>
+  </table>
+
+  ### 5.2.3.2 Sprint BackLog 3
+   
+   En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+   Link de Trello: https://trello.com/invite/b/mL0NRMRA/ATTIfea4e114b8101bdaf69c1d40463e6d49B8926514/artcollab-sprint3
+
+   <img src="https://media.discordapp.net/attachments/1235639705157107720/1247614920632045608/5ee48c04-6ebd-475a-8600-9cfa25b3baa8.png?ex=6660ab70&is=665f59f0&hm=a9068177dd0914c816cefb52ffa204faf919fb1ef574f03b78d462b4db32ef28&=&format=webp&quality=lossless&width=1100&height=532"/>
+
+   <table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP4-US11 </th>
+     <th colspan="3">  Reparto por Ingresos publicitarios  </th>
+      <th> W17  </th>
+     <th> Monetization Bounded Context </th>
+      <th> Implementar el sistema de subscripciones a traves del API. 
+      </th>
+     <th> 3 </th>
+     <th> Frida Dam </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> E3-US08  </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W18  </th>
+     <th> Content Bounded Context  </th>
+     <th> Implementar la funcion para subir libros a traves del API.</th>
+     <th> 2 </th>
+     <th> Camila Amaro </th> 
+     <th> To Review </th>
+   </tr>
+    <tr>
+      <th> E3-US09  </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W19  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar la funcion de guardar los comentarios a traves del API. </th>
+     <th> 3  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E6-US15  </th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W20  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de comisiones a traves del API.  </th>
+     <th> 2 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E7-US19 </th>
+     <th colspan="3"> Uso de API para el inicio de sesión </th>
+      <th> W21  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar el inicio de sesión a traves del API. </th>
+     <th>  3 </th>
+     <th> Gustavo Huilca </th> 
+     <th> To Review </th>
+   </tr>
+     <tr>
+      <th> E7-US20  </th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal </th>
+      <th> W22  </th>
+     <th> Monetization Bounded Context </th>
+     <th>  Utilizar una servicio externo para realizar el pago en una subscripción. </th>
+     <th>  4 </th>
+     <th> Mathias Jave </th> 
+     <th> To Do</th>
+   </tr>
+
+   <tr>
+      <th> E7-US21  </th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th>  Utilizar una servicio externo para compartir libros a traves de las redes sociales. </th>
+     <th>  4 </th>
+     <th> Camila Amaro </th> 
+     <th> To Do</th>
+   </tr>
+   </tr>
+</table>
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+table>
      <tr> 
         <th>  Sprint #  </th>
         <th> Sprint 3 </th>
@@ -5375,23 +6223,112 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
    <th>30/05/24</th> 
 </tr>
 
-
-
-
 </table>
+
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
 
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> ac0f0ed </strong> </th>
+    <th> <strong> feat: added acceptance test for api features </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 05/06/2024 </strong> </th>
+ </tr>
+
+</table>
+
+
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En el presente no realizamos cambios en el frontend, dado a que cumplimos con todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace.
+
+https://elegant-beijinho-a167d8.netlify.app/#/home
+
+
+
 
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
+En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
+
+Se adjunta el link del repositorio de la API en Github.: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/artcollab.API/tree/develop
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248682839575367721/image.png?ex=66648e04&is=66633c84&hm=f9518abe1c33d7b1a12f71ae3c4a2f3530042e6523005ecd9c6cd047b628a187&=&format=webp&quality=lossless&width=1448&height=236"> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248683658139664404/image.png?ex=66648ec7&is=66633d47&hm=dc40ef7405846ed914fd2917ba8d09289c9f1f296a42834daf7bfbf776fd7c7a&=&format=webp&quality=lossless&width=1448&height=376"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248687583152705607/image.png?ex=6664926f&is=666340ef&hm=e4499a5cafb9f95dec715548e376e3edd06846166cecfe94e54c45b6f84c5b3e&=&format=webp&quality=lossless&width=1448&height=324"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248688023952953504/image.png?ex=666492d8&is=66634158&hm=f5cfe9cb5fdef00d2de1fc131980155776c855d77953960f46149bcaa01b898a&=&format=webp&quality=lossless&width=1468&height=344"> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248688524232888411/image.png?ex=6664934f&is=666341cf&hm=919e2cbfec2f50e949e25a98ee19fada6a7d133454aa44521a84084276f869e4&=&format=webp&quality=lossless&width=1424&height=336"> </th>
+  </tr>
+
+</table>
+
+
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+
+</ul>
+    
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
