@@ -6170,32 +6170,32 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Apli
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> Reader </strong> </th>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248682839575367721/image.png?ex=66648e04&is=66633c84&hm=f9518abe1c33d7b1a12f71ae3c4a2f3530042e6523005ecd9c6cd047b628a187&=&format=webp&quality=lossless&width=1448&height=236"> </th>
   </tr>
 
 
   <tr>
-   <th style="text-align:center;"> <strong> Template </strong> </th>
+   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248683658139664404/image.png?ex=66648ec7&is=66633d47&hm=dc40ef7405846ed914fd2917ba8d09289c9f1f296a42834daf7bfbf776fd7c7a&=&format=webp&quality=lossless&width=1448&height=376"> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> Commision </strong> </th>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248687583152705607/image.png?ex=6664926f&is=666340ef&hm=e4499a5cafb9f95dec715548e376e3edd06846166cecfe94e54c45b6f84c5b3e&=&format=webp&quality=lossless&width=1448&height=324"> </th>
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> Comment </strong> </th>
+   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248688023952953504/image.png?ex=666492d8&is=66634158&hm=f5cfe9cb5fdef00d2de1fc131980155776c855d77953960f46149bcaa01b898a&=&format=webp&quality=lossless&width=1468&height=344"> </th>
   </tr>
 
 <tr>
-   <th style="text-align:center;"> <strong> Subscription </strong> </th>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1248688524232888411/image.png?ex=6664934f&is=666341cf&hm=919e2cbfec2f50e949e25a98ee19fada6a7d133454aa44521a84084276f869e4&=&format=webp&quality=lossless&width=1424&height=336"> </th>
   </tr>
