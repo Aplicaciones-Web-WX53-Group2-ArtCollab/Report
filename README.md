@@ -1,17 +1,17 @@
 # COURSE PROJECT
 
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <>Universidad Peruana de Ciencias Aplicadas</><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX53</strong><br>
-    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
+    <>Ingeniería de Software</><br>
+    <>Aplicaciones Web - WX53</><br>
+    <>Profesor: Naldo Reupo-Musayon Gastulo</><br>
     <br>INFORME
 </p>
 
 <p align="center">
-    <strong>Startup: ImaginaTales </strong><br>
-    <strong>Producto: ArtCollab </strong>
+    <>Startup: ImaginaTales </><br>
+    <>Producto: ArtCollab </>
 </p>
 
 <div>
@@ -1536,9 +1536,9 @@ Evidencia de la entrevista:
 <tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar una pagina</p>
-<p><strong>para</strong> saber acerca de los servicios de la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar una pagina</p>
+<p><>para</> saber acerca de los servicios de la
 aplicación</p></td>
 <td><p>Escenario 1: Header</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1553,10 +1553,10 @@ aplicación</p></td>
 <tr class="odd">
 <td>E1-US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar la sección de footer de la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar la sección de footer de la
 pagina</p>
-<p><strong>para</strong> encontrar los links de las redes
+<p><>para</> encontrar los links de las redes
 sociales</p></td>
 <td><p>Escenario 1: Footer</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
@@ -1572,10 +1572,10 @@ perfil de la startup</p></td>
 <tr class="even">
 <td>E1-US03</td>
 <td>Sección de Explora</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> conocer los servicios que ofrece la
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> conocer los servicios que ofrece la
 aplicación</p>
-<p><strong>para</strong> saber las características que ofrece</p></td>
+<p><>para</> saber las características que ofrece</p></td>
 <td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
 <p>Cuando se encuentre en la sección Explora</p>
@@ -1586,10 +1586,10 @@ mejores ilustradores</p></td>
 <tr class="odd">
 <td>E1-US04</td>
 <td>Sección Colabora</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> conocer las formas de colaborar con otros
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><strong>para</strong> facilitarme el contacto con otros
+<p><>para</> facilitarme el contacto con otros
 artistas</p></td>
 <td><p>Escenario 1: Colabora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1606,10 +1606,10 @@ informacion</p></td>
 <tr class="even">
 <td>E1-US05</td>
 <td>Sección Hero</td>
-<td><p><strong>Como</strong> Usuario</p>
-<p><strong>quiero</strong> visualizar una sección hero donde describa
+<td><p><>Como</> Usuario</p>
+<p><>quiero</> visualizar una sección hero donde describa
 brevemente la misión de la startup</p>
-<p><strong>para</strong> tener una idea de lo que ofrece la
+<p><>para</> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td><p>Escenario 1: Hero</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -1625,9 +1625,9 @@ pertenecer a la comunidad</p>
 <tr class="odd">
 <td>E2-US06</td>
 <td>Asignación de Rol</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> poder asignarle un rol</p>
-<p><strong>para</strong> poder visualizar la página</p></td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> poder asignarle un rol</p>
+<p><>para</> poder visualizar la página</p></td>
 <td><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
 <p>Dado que el usuario se encuentra logeado en la página </p>
 <p>Cuando se desplace le aparecerá una ventana para que elija un rol
@@ -1648,9 +1648,9 @@ al rol que haya escogido con nuevas herramientas.</p></td>
 <tr class="even">
 <td>E2-US07</td>
 <td>Configuración de Perfil del Usuario</td>
-<td><p><strong>Como</strong> lector, artista o escritor</p>
-<p><strong>quiero</strong> configurar mi perfil</p>
-<p><strong>para</strong> satisfacer mis gustos</p></td>
+<td><p><>Como</> lector, artista o escritor</p>
+<p><>quiero</> configurar mi perfil</p>
+<p><>para</> satisfacer mis gustos</p></td>
 <td><p>Escenario 1: Ingresar al perfil</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de click en su perfil</p>
@@ -1665,9 +1665,9 @@ portafolio</p></td>
 <tr class="odd">
 <td>E3-US08</td>
 <td>Sube tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> una plataforma</p>
-<p><strong>para</strong> subir mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> una plataforma</p>
+<p><>para</> subir mis libros</p></td>
 <td><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
@@ -1681,9 +1681,9 @@ portafolio</p></td>
 <tr class="even">
 <td>E3-US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> que mis obras sean ilustradas</p>
-<p><strong>para</strong> mejorarlas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> que mis obras sean ilustradas</p>
+<p><>para</> mejorarlas</p></td>
 <td><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -1702,9 +1702,9 @@ ilustradores</p>
 <tr class="odd">
 <td>E4-US10</td>
 <td>Destaca tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> destacar mis libros</p>
-<p><strong>para</strong> tener más vistas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> destacar mis libros</p>
+<p><>para</> tener más vistas</p></td>
 <td><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -1725,9 +1725,9 @@ obra</p></td>
 <tr class="even">
 <td>E4-US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> generar ingresos</p>
-<p><strong>para</strong> mejorar mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> generar ingresos</p>
+<p><>para</> mejorar mis libros</p></td>
 <td><p>Escenario 1:  Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
@@ -1748,10 +1748,10 @@ obra</p></td>
 <tr class="odd">
 <td>E5-US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><strong>para</strong> tener una gran variedad de opciones a elegir
+<p><>para</> tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
@@ -1767,10 +1767,10 @@ etc.</p></td>
 <tr class="even">
 <td>E5-US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><strong>para</strong> contar con más capítulos a mi
+<p><>para</> contar con más capítulos a mi
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal </p>
@@ -1790,9 +1790,9 @@ clic en desbloquear</p>
 <tr class="odd">
 <td>E5-US14</td>
 <td>Dejar Comentarios</td>
-<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
-<p><strong>quiero</strong> poder comentar las obras</p>
-<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+<td><p><>Como</> lector, escritor e ilustrador</p>
+<p><>quiero</> poder comentar las obras</p>
+<p><>para</> ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td><p>Escenario 1: Escoge el libro</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
@@ -1807,10 +1807,10 @@ feedback</p></td>
 <tr class="even">
 <td>E6-US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> contar con una monetización por mis
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> contar con una monetización por mis
 ilustraciones</p>
-<p><strong>para</strong> poder percibir ingresos dentro de la
+<p><>para</> poder percibir ingresos dentro de la
 aplicación</p></td>
 <td><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
@@ -1827,10 +1827,10 @@ externa</p>
 <tr class="odd">
 <td>E6-US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><strong>para</strong> tener un mejor rendimiento</p></td>
+<p><>para</> tener un mejor rendimiento</p></td>
 <td><p>Escenario 1: Añade Flexibilidad</p>
 <p>Dado que el ilustrador se encuentra en la página principal</p>
 <p>Cuando le dé clic a perfil</p>
@@ -1851,9 +1851,9 @@ creativa</p></td>
 <tr class="odd">
 <td>E1-US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><strong>Como</strong> usuario interesado en el producto</p>
-<p><strong>quiero</strong> que la landing page sea responsive</p>
-<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p><>Como</> usuario interesado en el producto</p>
+<p><>quiero</> que la landing page sea responsive</p>
+<p><>para</> tener un navegacion fluida y accesible</p></td>
 <td><p>Escenario 1: Ingresa desde una computadora</p>
 <p>Dado que el usuario se encuentra navegando en una computadora</p>
 <p>Cuando ingrese a la Landing page</p>
@@ -1877,9 +1877,9 @@ Y que se pueda interactuar correctamente con el touch.</p></td>
 <tr class="odd">
 <td>E1-US18</td>
 <td>Accesibilidad  en el Landing page</td>
-<td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
-<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><strong>para</strong> navegar de forma fluida 
+<td><p><>Como</> usuario que tiene una discapacidad </p>
+<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><>para</> navegar de forma fluida 
 y conocer su aplicación sin impedimentos</p></td>
 <td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
 <p>Dado que el usuario se encuentra en el landing page</p>
@@ -1900,9 +1900,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 
 <td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
 <p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
@@ -1922,9 +1922,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 
 <td><p>Escenario 1: Suscribirse</p>
 <p>Dado que el usuario Inicia sesión en la aplicación.</p>
@@ -1948,9 +1948,9 @@ es descriptivo.</p>
 <tr class="odd">
 <td>E7-US21</td>
 <td>Uso de API para compartir libros en redes sociales</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
 
 <td><p>Escenario 1: Compartir en Facebook</p>
 <p>Dado que el usuario está en la página del libro que desea compartir..</p>
@@ -2014,9 +2014,9 @@ https://trello.com/invite/b/XGFz58Qm/ATTId8b089f48c027b128a0df36e9f15df3c662ADF5
 <td>1</td>
 <td>US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><strong>Como</strong> escritor o lector</p>
-<p><strong>quiero</strong> visualizar una pagina</p>
-<p><strong>para</strong> saber acerca de los servicios de la
+<td><p><>Como</> escritor o lector</p>
+<p><>quiero</> visualizar una pagina</p>
+<p><>para</> saber acerca de los servicios de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2025,10 +2025,10 @@ aplicación</p></td>
 <td>2</td>
 <td>US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> visualizar la sección de footer de la
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar la sección de footer de la
 pagina</p>
-<p><strong>para</strong> encontrar los links de las redes
+<p><>para</> encontrar los links de las redes
 sociales</p></td>
 <td>Baja</td>
 <td>1</td>
@@ -2037,10 +2037,10 @@ sociales</p></td>
 <td>3</td>
 <td>US03</td>
 <td>Sección de Conócenos</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> conocer los servicios que ofrece la
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> conocer los servicios que ofrece la
 aplicación</p>
-<p><strong>para</strong> saber las características que ofrece</p></td>
+<p><>para</> saber las características que ofrece</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2048,10 +2048,10 @@ aplicación</p>
 <td>4</td>
 <td>US04</td>
 <td>Sección Colabora</td>
-<td><p><strong>Como</strong> escritor o ilustrador</p>
-<p><strong>quiero</strong> conocer las formas de colaborar con otros
+<td><p><>Como</> escritor o ilustrador</p>
+<p><>quiero</> conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><strong>para</strong> facilitarme el contacto con otros
+<p><>para</> facilitarme el contacto con otros
 artistas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2060,10 +2060,10 @@ artistas</p></td>
 <td>5</td>
 <td>US05</td>
 <td>Sección Hero</td>
-<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
-<p><strong>quiero</strong> visualizar una sección hero donde describa
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar una sección hero donde describa
 brevemente la misión del startup</p>
-<p><strong>para</strong> tener una idea de lo que ofrece la
+<p><>para</> tener una idea de lo que ofrece la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2072,9 +2072,9 @@ aplicación</p></td>
 <td>6</td>
 <td>US06</td>
 <td>Asignación de Rol</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> poder asignarle un rol</p>
-<p><strong>para</strong> poder visualizar la página</p></td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> poder asignarle un rol</p>
+<p><>para</> poder visualizar la página</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2082,9 +2082,9 @@ aplicación</p></td>
 <td>7</td>
 <td>US07</td>
 <td>Configuración de Perfil de Usuario</td>
-<td><p><strong>Como</strong> lector, artista o escritor</p>
-<p><strong>quiero</strong> configurar mi perfil</p>
-<p><strong>para</strong> satisfacer mis gustos</p></td>
+<td><p><>Como</> lector, artista o escritor</p>
+<p><>quiero</> configurar mi perfil</p>
+<p><>para</> satisfacer mis gustos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2092,9 +2092,9 @@ aplicación</p></td>
 <td>8</td>
 <td>US08</td>
 <td>Sube tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> una plataforma</p>
-<p><strong>para</strong> subir mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> una plataforma</p>
+<p><>para</> subir mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2102,9 +2102,9 @@ aplicación</p></td>
 <td>9</td>
 <td>US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> que mis obras sean ilustradas</p>
-<p><strong>para</strong> mejorarlas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> que mis obras sean ilustradas</p>
+<p><>para</> mejorarlas</p></td>
 <td>Media</td>
 <td>2</td>
 </tr>
@@ -2112,9 +2112,9 @@ aplicación</p></td>
 <td>10</td>
 <td>US10</td>
 <td>Destaca tus libros</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> destacar mis libros</p>
-<p><strong>para</strong> tener más vistas</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> destacar mis libros</p>
+<p><>para</> tener más vistas</p></td>
 <td>Media</td>
 <td>2</td>
 </tr>
@@ -2122,9 +2122,9 @@ aplicación</p></td>
 <td>11</td>
 <td>US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><strong>Como</strong> escritor</p>
-<p><strong>quiero</strong> generar ingresos</p>
-<p><strong>para</strong> mejorar mis libros</p></td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> generar ingresos</p>
+<p><>para</> mejorar mis libros</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2132,10 +2132,10 @@ aplicación</p></td>
 <td>12</td>
 <td>US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener una gran cantidad de géneros literarios
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><strong>para</strong> tener una gran variedad de opciones a elegir
+<p><>para</> tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2144,10 +2144,10 @@ para mis lecturas</p></td>
 <td>13</td>
 <td>US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><strong>Como</strong> lector</p>
-<p><strong>quiero</strong> tener acceso al contenido exclusivo de la
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><strong>para</strong> contar con más capítulos a mi
+<p><>para</> contar con más capítulos a mi
 disposición</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2156,9 +2156,9 @@ disposición</p></td>
 <td>14</td>
 <td>US14</td>
 <td>Dejar Comentarios</td>
-<td><p><strong>Como</strong> lector, escritor e ilustrador</p>
-<p><strong>quiero</strong> poder comentar las obras</p>
-<p><strong>para</strong> ayudar a otros usuarios brindándoles un
+<td><p><>Como</> lector, escritor e ilustrador</p>
+<p><>quiero</> poder comentar las obras</p>
+<p><>para</> ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2167,10 +2167,10 @@ feedback</p></td>
 <td>15</td>
 <td>US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> contar con una monetización por mis
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> contar con una monetización por mis
 ilustraciones</p>
-<p><strong>para</strong> poder percibir ingresos dentro de la
+<p><>para</> poder percibir ingresos dentro de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -2179,10 +2179,10 @@ aplicación</p></td>
 <td>16</td>
 <td>US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><strong>Como</strong> ilustrador</p>
-<p><strong>quiero</strong> tener flexibilidad creativa a la hora de
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><strong>para</strong> tener un mejor rendimiento</p></td>
+<p><>para</> tener un mejor rendimiento</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2190,9 +2190,9 @@ dibujar</p>
 <td>17</td>
 <td>US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><strong>Como</strong> usuario interesado en el producto</p>
-<p><strong>quiero</strong> que la landing page sea responsive</p>
-<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p><>Como</> usuario interesado en el producto</p>
+<p><>quiero</> que la landing page sea responsive</p>
+<p><>para</> tener un navegacion fluida y accesible</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2200,9 +2200,9 @@ dibujar</p>
 <td>18</td>
 <td>US18</td>
 <td>Accesibilidad en el Landing page</td>
-<td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
-<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><strong>para</strong> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
+<td><p><>Como</> usuario que tiene una discapacidad</p>
+<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><>para</> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2210,9 +2210,9 @@ dibujar</p>
 <td>19</td>
 <td>US19</td>
 <td>Uso de API para el inicio de sesión</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2220,9 +2220,9 @@ dibujar</p>
 <td>20</td>
 <td>US20</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
-<td><p><strong>Como</strong> desarrollador</p>
-<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -2465,78 +2465,78 @@ Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY
 
 Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
 
-<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
+<h4> <> User goal, usuario inicia sesion, se registra y recupera su contraseña </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/InicioSesion.png" />
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 Al iniciar la aplicación, el usuario se encuentra en la página de opciones, donde puede iniciar sesión mediante correo electrónico o las plataformas de Google y Facebook.
 El usuario también puede registrar una nueva cuenta utilizando su correo electrónico o las plataformas mencionadas anteriormente. En caso de olvidar su contraseña, el usuario tiene la opción de recuperarla utilizando su correo electrónico.
 
 
-<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
+<h4> <> User goal, usuario edita el contenido de una historia, como el contenido y las series. </> </h4>
 
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarLibro.png" />
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
  Cuando el usuario visualiza sus historias en su portafolio personal, puede editarlas. Al hacer clic en "editar", puede modificar el contenido de las historias, incluyendo el texto, las imágenes y otros elementos. Las historias se organizan en series. El usuario puede editar las series de una historia, añadiendo, eliminando o modificando las existentes. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su portafolio personal.
 
 
-<h4> <strong> User goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
+<h4> <> User goal, usuario publica una nueva historia y agrega series a la historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/PublicarLibro.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 El usuario puede crear una nueva historia desde su portafolio personal.Al crear una nueva historia, el usuario debe proporcionar los detalles correspondientes, como el título, la descripción, el género, etc.Una vez que la historia tenga los detalles básicos, el usuario puede agregar series a la misma. Cada serie representa una parte o capítulo de la historia. El usuario puede editar las series de la historia, añadiendo, eliminando o modificando las existentes. Una vez que la historia esté completa, el usuario puede publicarla para que otros usuarios puedan verla y leerla.
 
-<h4> <strong> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong> </h4>
+<h4> <> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IniciarSala.png" />
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 La plataforma ofrece una función de recomendación de artistas segun los intereses del usuario. Una vez que el usuario encuentra un artista que le interesa, puede contactarlo directamente desde la plataforma. Al establecer contacto con un artista, se crea una sala de chats privada donde ambos usuarios pueden comunicarse.
 
-<h4> <strong> User goal, usuario del tipo ilustrador edita su perfil  </strong> </h4>
+<h4> <> User goal, usuario del tipo ilustrador edita su perfil  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilArtista.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 
 Al iniciar sesion y encontrase dentro de la pantalla principal, el usuario del tipo ilustrador visualiza la opción de editar perfil. Al darle click puede editar su perfil profesional, posteriormente al guardar los cambios estos se actualizan en su perfil.
 
 
 
-<h4> <strong> User goal, usuario del tipo escritor edita su perfil  </strong> </h4>
+<h4> <> User goal, usuario del tipo escritor edita su perfil  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarPerfilEscritor.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Los usuarios del tipo escritor también pueden editar su perfil profesional desde la pantalla principal de la aplicación.Al editar su perfil, el usuario puede modificar su información profesional, como su nombre, biografía, portafolio, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su perfil.
 
 
-<h4> <strong> User goal, usuario busca un libro segun su popularidad y género  </strong> </h4>
+<h4> <> User goal, usuario busca un libro segun su popularidad y género  </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/BuscarLibros.png"/>
 
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
  Al iniciar la aplicación, el usuario se encuentra en la pantalla principal. La pantalla principal muestra una selección de los libros más populares de la plataforma. El usuario puede utilizar filtros de búsqueda para encontrar libros según su género de preferencia. La plataforma muestra una lista de resultados de búsqueda que coinciden con los criterios del usuario.
 
-<h4> <strong> User goal: usuario edita el perfil de cuenta </strong>  </h4>
+<h4> <> User goal: usuario edita el perfil de cuenta </>  </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/EditarCuenta.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 El usuario puede editar su perfil de cuenta desde la pantalla principal de la aplicación. Al editar su perfil de cuenta, el usuario puede modificar su información personal, como su nombre, correo electrónico, contraseña, etc. Una vez realizados los cambios, el usuario puede guardarlos y se actualizarán en su cuenta.
 
-<h4> <strong> User goal, usuario visualiza las comisiones obtenidas por cada historia </strong> </h4>
+<h4> <> User goal, usuario visualiza las comisiones obtenidas por cada historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/IngresosObtenidos.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al encontrarse dentro de su portafolio personal el usuario visualiza sus obras publicadas, al seleccionar la opción
 de editar la historia visualiza los detalles de su historia, posteriormente visualiza tres opciones, editar detalles de la historia, editar tabla de contenido y visualizar los ingresos obtenidos. Al seleccionar la opción de ver ingresos obtenidos, donde puede visualizar los ingresos obtenidos por una historia en particular.
 
 
-<h4> <strong> User goal: usuario visualiza los planes de suscripción </strong> </h4>
+<h4> <> User goal: usuario visualiza los planes de suscripción </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Suscripcion.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver planes de suscripción, luego selecciona la opción mencionada previamente y visualiza todos los planes disponibles.
 
 
 
-<h4> <strong> User goal: usuario visualiza el sistema de monetización </strong> </h4>
+<h4> <> User goal: usuario visualiza el sistema de monetización </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Monetizacion.png"/>
-<h4> <strong> Descripcion: </strong> </h4>
+<h4> <> Descripcion: </> </h4>
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver los sistemas de monetización, posteriomente selecciona la opción mencionada previamente y visualiza todas las opciones que ofrece la aplicación.
 
 
@@ -2598,13 +2598,13 @@ Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD
 Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/3042a7f1-cfbd-49ad-bb1d-7d5b1e8f9c67/edit?viewport_loc=248%2C38%2C5260%2C2976%2C0_0&invitationId=inv_faedf934-db22-495f-9b16-9d38cb444726
 
 
-<h4> <strong> User goal, usuario inicia sesion, se registra y recupera su contraseña </strong> </h4>
+<h4> <> User goal, usuario inicia sesion, se registra y recupera su contraseña </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/InicioSesion.png"/>
 
-<h4> <strong> UUser goal, usuario publica una nueva historia y agrega series a la historia </strong> </h4>
+<h4> <> UUser goal, usuario publica una nueva historia y agrega series a la historia </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/PublicarLibro.png"/>
 
-<h4> <strong> User goal, usuario edita el contenido de una historia, como el contenido y las series. </strong> </h4>
+<h4> <> User goal, usuario edita el contenido de una historia, como el contenido y las series. </> </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 <h4> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </h4>
@@ -2643,67 +2643,67 @@ Enlace a los prototipos de la App Web en Figma versión Desktop: https://www.fig
 Asimismo, se presentan capturas del video de presentación del prototipo y los timings de cada sección en los que se cumplen los
 user goals.
 
-<strong> User goal: usuario inicia sesion, se registra y recupera su contraseña </strong>
+<> User goal: usuario inicia sesion, se registra y recupera su contraseña </>
 
 Timing: 0:00
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
 <br>
-<strong> User goal: usuario publica una nueva historia y agrega series a la historia </strong>
+<> User goal: usuario publica una nueva historia y agrega series a la historia </>
 
 Timing: 1:32
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
 <br>
-<strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
+<> User goal: usuario edita el contenido de una historia, como el contenido y las series. </>
 
 Timing: 2:40
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/ce9ec3bf9b9b20dbd95b91eb62fabd2545965ac8/assets/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
 <br>
-<strong> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong>
+<> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </>
 
 Timing: 3:30
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
 <br>
-<strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
+<> User goal: usuario del tipo ilustrador edita su perfil </>
 
 Timing: 4:50
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
 <br>
-<strong> User goal: usuario del tipo escritor edita su perfil </strong>
+<> User goal: usuario del tipo escritor edita su perfil </>
 
 Timing: 5:27
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
 <br>
-<strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
+<> User goal: usuario busca un libro segun su popularidad y género  </>
 
 Timing: 6:05
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
 <br>
-<strong> User goal: usuario edita el perfil de cuenta </strong>
+<> User goal: usuario edita el perfil de cuenta </>
 
 Timing: 7:15
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
 <br>
-<strong>  User goal: usuario visualiza las comisiones obtenidas por cada historia </strong>
+<>  User goal: usuario visualiza las comisiones obtenidas por cada historia </>
 
 Timing: 7:50
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
 <br>
-<strong> User goal: usuario visualiza los planes de suscripción </strong>
+<> User goal: usuario visualiza los planes de suscripción </>
 
 Timing: 8:23
 
 <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
 <br>
-<strong> User goal: usuario visualiza el sistema de monetización </strong>
+<> User goal: usuario visualiza el sistema de monetización </>
 
 Timing: 8:54
 
@@ -3387,12 +3387,12 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 <table>
 
  <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
+    <th> <> Repository </> </th>
+    <th> <> Branch </> </th>
+    <th> <> Commit ID</> </th>
+    <th> <> Commit Message </> </th>
+     <th> <> Commit Message (Body) </> </th>
+     <th> <> Commited on (Date) </> </th>
  </tr>
 
   <tr>
@@ -3832,84 +3832,84 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 <table>
   <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
+    <th> <> Repository </> </th>
+    <th> <> Branch </> </th>
+    <th> <> Commit ID</> </th>
+    <th> <> Commit Message </> </th>
+     <th> <> Commit Message (Body) </> </th>
+     <th> <> Commited on (Date) </> </th>
  </tr>
 
  <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 4d69fbc54b771c61bdd247d72c58603587c9e618  </strong> </th>
-    <th> <strong> Initial commit </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 4d69fbc54b771c61bdd247d72c58603587c9e618  </> </th>
+    <th> <> Initial commit </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
   <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> a59189021fcba58acac041db7460f5815e28effd  </strong> </th>
-    <th> <strong> feat: Added us-01 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> a59189021fcba58acac041db7460f5815e28effd  </> </th>
+    <th> <> feat: Added us-01 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> f96bfc729fd1b1675138f985c486c076c545e18b  </strong> </th>
-    <th> <strong> feat: Added us-02 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> f96bfc729fd1b1675138f985c486c076c545e18b  </> </th>
+    <th> <> feat: Added us-02 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
   <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </strong> </th>
-    <th> <strong> feat: Added us-03 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> e96ea1a05cbdf07f8df42a2c2aacee33db655a41  </> </th>
+    <th> <> feat: Added us-03 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </strong> </th>
-    <th> <strong> feat: Added us-04 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> f54a23e4bd1b179a41c2451990ab32ebaf2bb408  </> </th>
+    <th> <> feat: Added us-04 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
    <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </strong> </th>
-    <th> <strong> feat: Added us-05 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 5294d34cd8c17dbc817c20b0c152e3b1c3442a6f  </> </th>
+    <th> <> feat: Added us-05 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 8ff78aabec9f8d6b500bb967fd53b3cab74a7d8e  </strong> </th>
-    <th> <strong> feat: Added us-17 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 8ff78aabec9f8d6b500bb967fd53b3cab74a7d8e  </> </th>
+    <th> <> feat: Added us-17 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 <tr>
-   <th> <strong> Acceptance-Test </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 1cb783d909328f6038d93f4a1959733c54cd48e9  </strong> </th>
-    <th> <strong> feat: Added us-18 acceptance test </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 11/04/2024 </strong> </th>
+   <th> <> Acceptance-Test </> </th>
+    <th> <> main </> </th>
+    <th> <> 1cb783d909328f6038d93f4a1959733c54cd48e9  </> </th>
+    <th> <> feat: Added us-18 acceptance test </> </th>
+    <th> <>  </> </th>
+    <th> <> 11/04/2024 </> </th>
  <tr>
 
 
@@ -4029,8 +4029,8 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
 
 <table>
   <tr> 
-   <th> <strong> Alumno </strong></th>
-   <th> <strong> Actividad </strong></th>
+   <th> <> Alumno </></th>
+   <th> <> Actividad </></th>
    </tr>
 
   <tr> 
@@ -4064,8 +4064,8 @@ Tabla de integrantes:
 
 <table>
   <tr> 
-   <th> <strong> Username (GitHub) </strong></th>
-   <th> <strong> Nombre </strong></th>
+   <th> <> Username (GitHub) </></th>
+   <th> <> Nombre </></th>
    </tr>
 
   <tr> 
@@ -4283,6 +4283,1078 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <> Repository </> </th>
+    <th> <> Branch </> </th>
+    <th> <> Commit ID</> </th>
+    <th> <> Commit Message </> </th>
+     <th> <> Commit Message (Body) </> </th>
+     <th> <> Commited on (Date) </> </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th> ce3fbbd39473c43e47901b7124e9ad1ce1924b44  </th>
+   <th>  chore: Initial config </th>
+   <th> </th>
+   <th> 16/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  31a7598f98909351b1101476139a2ce041195144  </th>
+   <th>  chore: Updated .gitignore  </th>
+   <th>   </th>
+   <th>  20/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  2ec6d44867ada0e0b0e2422323c3ec59829e598b </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>    </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> artcollab.API </th>
+   <th>  develop </th>
+   <th>  d8f892627b16aacadf0ea18d3b61771ddc02808f </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th> </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  1383933773344900316778b33b76f80c16c21c6d  </th>
+   <th>  chore(InterfaceLayer): config packages and folders  </th>
+   <th>  </th>
+   <th>  21/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  1d7ea293b5e7cafeec8ce1ccae003baf834567083 </th>
+   <th>  feat(Infraestrcuture): added DbContext </th>
+   <th>  </th>
+   <th>  21/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  f6ef99a9e9f57b274ab6cc5ab9998ed469ba710f  </th>
+   <th>  refactor(ArtcollabApi): applied ddd organization  </th>
+   <th>  </th>
+   <th>  22/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  02061a259f0651561860ce3e546ee4456127a58d  </th>
+   <th>  feat(Collaboration/Content): added Model folder  </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop </th>
+   <th>  97f28121b22423e8cc35b84b089d014f5d00941e  </th>
+   <th>  feat: waiting merge </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> f7edea5d29d57baea4523c964206ee0c61d6f953 </th>
+   <th>  feat(ArtCollab.API): added merge changes </th>
+   <th>  </th>
+   <th>  22/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th>  develop  </th>
+   <th> fa2846f6cd02a0441cf16a10c71734c3cdab547d  </th>
+   <th>  refactor: refactor organization code with apply ddd  </th>
+   <th>  </th>
+   <th>  22/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> b761295eda1af60b2d2b5910408261f682e0ccda  </th>
+   <th>  chore: Delete .idea directory  </th>
+   <th>  </th>
+   <th> 23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop </th>
+   <th>  c80cb976a188828610c629987d028121a487c062  </th>
+   <th> chore: Delete .DS_Store  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+<tr> 
+   <th> artcollab.API  </th>
+   <th>  develop </th>
+   <th>  88b1d16a6e71aaab60b9862456c69a4d2555b7cd  </th>
+   <th>  chore: Delete ArtcollabApi/bin directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop </th>
+   <th>  cc2ad2d30004618a99b76568aa1260b8a546ee3e  </th>
+   <th>  chore: Delete ArtcollabApi/obj directory  </th>
+   <th> </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th> 771d8a22c7a425db82c167718655b2be1ce2c305  </th>
+   <th> chore: Delete Domain/bin directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  ab4dc71c5571e7d783d7fa34a67751adb96c8e78  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th> artcollab.API </th>
+   <th>  develop  </th>
+   <th>  94038b8558e69aaa23eb2006a07b0cd7313af2e4  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th> </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  7c96da9c9ac0d6e57e3e2a66f59131903aa4f656  </th>
+   <th> chore: Delete .idea directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th> artcollab.API  </th>
+   <th>  develop </th>
+   <th>  f96c8ae67167ff697202e835165f52a52f344a51  </th>
+   <th>  chore: Delete .DS_Store </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th>  develop  </th>
+   <th>  f5eb72b18652742fd864880e444a3a4e57f42eb1  </th>
+   <th> chore: Delete ArtcollabApi/bin directory  </th>
+   <th>  </th>
+   <th> 23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop  </th>
+   <th>  f8ad981f09397b079d5b24da5f15ebd07f9b9744 </th>
+   <th>  chore: Delete ArtcollabApi/obj directory </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th> develop  </th>
+   <th>  608cde512d0a3dfbe597a67ec08a404c98a83364  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>  develop  </th>
+   <th>  e1a51ae46855241c4b0216980de251a44f319e53  </th>
+   <th>  chore: Delete Infraestructure/bin directory  </th>
+   <th>   </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  782df17511a0121d7de8a9050933a9bd6beab706  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  782df17511a0121d7de8a9050933a9bd6beab706  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  27dc8ff4f0f090263dde042ad7a52110bba50125  </th>
+   <th>  chore:Delete Application/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  da106e50ae1ea939c669c7a42feb3e7af306ca22  </th>
+   <th>  chore: Delete Domain/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  ddccc53810cc5d64d4b8f6fc4208763c74762b9c  </th>
+   <th>  chore: Delete Infraestructure/obj directory  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  2e8f66bebcf7a98f778e03a3505ed53a2fcfb9cc  </th>
+   <th> chore: Create .gitignore  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th>  3038f1d89daf3708537df30bc9bfb3a31e7fa7b1  </th>
+   <th> chore: installed packages  </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6c992992c3679ee88310dc5b88111ff4b560e912  </th>
+   <th> chore: Add DB Configuration </th>
+   <th>  </th>
+   <th>  23/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 7857304641c775f6eae87adeffb356998991ca67 </th>
+   <th> feat: Add infrastructure layer to US19 </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 7857304641c775f6eae87adeffb356998991ca67 </th>
+   <th>feat(monetization): added bounded context aggregates and entities </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6fa2f5a5fcdb512f55cc36b2f18dfbe5ec83b307 </th>
+   <th> refactor(monetization): refactor aggregates class into the aggregates folder </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f32b4b5016df15e0e8fec5a1e732c702b3228a0b </th>
+   <th> fix(monetization): fixed value object impl </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cfda17a6c850a61af2c303b9825ff867306a7c76 </th>
+   <th> feat(monetization): added observer impl for payment and subscription </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cfda17a6c850a61af2c303b9825ff867306a7c76 </th>
+   <th> feat(monetization): added observer impl for payment and subscription </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 6af6ae374522ec5193feef1191d595686ce22324 </th>
+   <th> feat(monetization): added service folder </th>
+   <th>  </th>
+   <th>  25/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 20e034301ef04b22861346ee1a24876bc6c575d9 </th>
+   <th> feat(monetization): config and added AppDbContext and domain repositories </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 20e034301ef04b22861346ee1a24876bc6c575d9 </th>
+   <th> feat(monetization): config and added AppDbContext and domain repositories </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> ae0b6eb4a808309b2a2f4eb618385a2f01208a08 </th>
+   <th> feat(monetization): added data repsotories and commition dbset config </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f89afa1c9766272408683a4e97b761c5d6e098ed </th>
+   <th> feat: Add Controller and Domain for Reader Creation </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> f89afa1c9766272408683a4e97b761c5d6e098ed </th>
+   <th> feat: Add Controller and Domain for Reader Creation </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> cb2137ba3ad267db65ce49e339a9186d190de040 </th>
+   <th>feat: Add GetByEmail and GetByUsernamePassword </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> ce9e60768b88b37f4451dd405b5b81a02320c32e </th>
+   <th> feat: Infraestructure Context and Models </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8fe07ca838ca145ce5ff9776690409665b8e9884 </th>
+   <th> feat: Domain Comments Data </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8fe07ca838ca145ce5ff9776690409665b8e9884 </th>
+   <th> feat: Domain Comments Data </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 8e78ca67ab20e60944b4181109c3e512bad72d4b </th>
+   <th> feat(US08): Added folders to infrastructure layer </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> dcd5c5a032184e631f0cc114c202abddfacd69b3 </th>
+   <th> feat: Application Controller, Mapper, Request and Response </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 2363056af968bfbb7eff68bef58301d8b839ffb5 </th>
+   <th> fix: Date in Response </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 27d0a97cf1b3a7dde3dc519c1283cd85a2a0217a </th>
+   <th> feat: Add Directorys in Domain and Infraestructure </th>
+   <th>  </th>
+   <th>  26/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 68fa72e4ca741b1042060ff958d0a63ad56815c1 </th>
+   <th> feat(Monetization): added controller and commisions table </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 298895f9aa94c84a2f63b820aa97187f8cd6cffe </th>
+   <th> chore(Monetization): changed user root password </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> c91d5065741ba826de1645248d16e90473ce5df7 </th>
+   <th> feat(Monetization): added subscription controller and mapped subscription aggregate </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> add125b5f7d379d2ff0f99bd76de60272f7c7d37 </th>
+   <th> refactor(Application): Removed WeatherForecast files </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+   <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 80e49d12c4f71bb7df42460d12d3c6d78e05fda4 </th>
+   <th> chore(Application): Added connection string </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> a4bc13f9f1a4dd2e7cfa3d35679d3576b473e2d2 </th>
+   <th> chore(Application): Added packages </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> b63feed897d9e7e9fb0543fcaf1203a2c126988d </th>
+   <th> feat(Application): Added connection with Db </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>  artcollab.API  </th>
+   <th>   develop  </th>
+   <th> 2756c4fd7670bad7ef2e22d7150ff9cf4411a6c9 </th>
+   <th> feat(Application): Added controller file </th>
+   <th>  </th>
+   <th>  27/05/24 </th>
+ </tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f1eccb610748b0e0b9116ee331fddcc8d9ba71f0 </th> 
+   <th>fix: Corrected email domain validation</th> 
+   <th> </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 063a8ba236f96ef23b5d60a88117505ae1bab820 </th> 
+   <th>feat(Application): Added CRUD methods to controller</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> bd9d0c023dd8e6da80b612fe8711c094e856d09f </th> 
+   <th>fix(Application): Removed comment in code line</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 924e848bf714c205fed67d301e273cec81cf94d2</th> 
+   <th>feat(Domain): Added RepositoryGeneric files</th> 
+   <th>  </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 4907dc7e23f99b72079ebbb1940f4c282ba9dd45 </th> 
+   <th>feat: added backup feature/US11-US15</th> 
+   <th> </th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0f57afd81ff4e002a82c92cfea0c711832ff9614</th> 
+   <th>fix: waiting pull request</th> 
+   <th></th> 
+   <th>27/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>73a6e10394b8f536be448bddcbb045df4a282597</th> 
+   <th>feat(Infrastructure): Added Models</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>4db44bc912eea17e0dc1e58093a5d8799249ed96</th> 
+   <th>feat: add DDD organization and domain unit tests for AddSync</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>6ceaff7c51a0435a140f5a57ad5619adeb23c68c</th> 
+   <th>feat(Monetization): added Infrastructure unit test</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>5c3cc98319ec02d6feb916d5e6a57b7560dad768</th> 
+   <th>feat(Monetization): added domain unit testing</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>f312d53e8f6f2e2b3f65cd283653efa3a378f7c4</th> 
+   <th>chore: restored application config</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a74057ea29580dfc210406a37d6c14dcc0c7d91a</th> 
+   <th>fix: fixed external files</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 38e8de47534ad514360a963e8f16c1aa004dba4d </th> 
+   <th>feat: merge branch with hotfix</th> 
+   <th> </th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a062667166a19a378717cea494d9e96191819b38</th> 
+   <th>refactor: changed code organization</th> 
+   <th></th> 
+   <th>28/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>7fbf3b9f471eabb4cd125d3df2832b6dc220678e</th> 
+   <th>feat(Domain): Added business rule</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>dc0d40597b8ab5f7b05bcd9031cb2074c9c8a0a3</th> 
+   <th>feat(InterfaceLayer): Added new get method</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>c70a06e33c3acaaefb08c723054512bbb3b5994b</th> 
+   <th>feat(monetization/controller): added cud methods</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 6c78394214caaa0af6536adf0873e3d8a8d55482</th> 
+   <th>refactor(Infrastructure): Folder renamed</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 6e90c952fda45dce25efacf9a5895bc5cbdc95ad </th> 
+   <th>refactor(Infrastructure): Applied DDD organization</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 42e174de10efa1a5a61be1eac764d46c6b4c9d39 </th> 
+   <th>refactor(Application): Applied DDD organization</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 457950bc8a9ddf59023bc632bec8b4904de71744 </th> 
+   <th>feat(Application): Added mapper to controller</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0652b5ae2dbef00106a210a84b08f2d58e874b77 </th> 
+   <th>chore(monetization): changed organization folders</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> ba176cc33db852c1f2d88e4e26abd5ea1e3edb97</th> 
+   <th>feat(Application): Added automapper files</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8a9eec818d2b27ab9866b9ee9767ca43de056aa8 </th> 
+   <th>feat(Application): Added Request and Response</th> 
+   <th> /th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>54d51cc5d5894ec89da22bc5ac80d94ca24df460</th> 
+   <th>chore(InterfaceLayer): Added automapper packages</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> fcf2d0de9939f742469b6538a015f7eb42d51d29 </th> 
+   <th>refactor(Domain): Deleted unnecesary class</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f4dfe9252c3d8a50977a3514416fe934323c0553 </th> 
+   <th>feat/chore(infrastructure): Added var transaction</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> a5225c9dfd4a6a123f49cde2b2ec00b5123c16ce </th> 
+   <th>fix(Infrastructure): Removed unnecesary builders</th> 
+   <th> </th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 86306f30581cd3df85aaac090fce9835ded8b9ff </th> 
+   <th>feat(Infrastructure): Made some changes to the models</th> 
+   <th></th> 
+   <th>29/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 5227447498887b28049864154587ff5d90a9a4bc </th> 
+   <th>feat: Added configuration and models</th> 
+   <th></th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 74d1c51e83e1a35a671319d11ae0c2f7bfb1f3e4 </th> 
+   <th>feat/refactor(Domain. Test): Added unit test for domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 7e94c142e23c6a22d39506e879c0b7d61e0419e4 </th> 
+   <th>feat(domain): implement observer for update a subscription</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 62ce28d7ccac60fe6a74e86ec28d8f0b6518177e </th> 
+   <th>chore: restare package UnitTestDomain</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> d24d5a1cf5d2fb34dd03631be04fe6b64d8e2057 </th> 
+   <th>chore: restarted package config</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8b2af2b16a39ccc7e9497569b7906c8d63137643 </th> 
+   <th>chore: configured automapper for hidde not relevant bussiness context</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 752e716807ce7bbf97a51fbfee9648e124afe1bb </th> 
+   <th>chore/refactor(ApplicationLayer): Changed Database name</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> cdc02c2440859d2b89ed954460b25237632ece25 </th> 
+   <th>feat: added SubscritionData and SubscriptionsController</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> d1b38ee0f1d153ab85b0b795999177446591d0ab </th> 
+   <th>feat: added subscriptionRequest and SubscriptionDBContext</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 61fc2e873044cad69cbd22e7bb8cdcdfe6641aee </th> 
+   <th>feat: added rider project configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> f43e74f397524fb3bd34919260159cdee5c7749b </th> 
+   <th>feat: added RequestToModel</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> c8205c4f120c016436537aaba2b8746cf4209ed0 </th> 
+   <th>feat: added project configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 182d2c2af5f2a62026e78f21f76e31c77f8a304e </th> 
+   <th>feat: added program.cs</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> bf0a49f3aaccbbcd046290928a1111ff5a20b381 </th> 
+   <th>feat: added ModelToRequest and ModelToResponse</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>c3b5b3e96a061b9fabbd31c47b2ab35b8ddccb12</th> 
+   <th>feat: added infraestructure configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> e8a7b380024ee428b0327c2ae4eb62d92f9fcb80 </th> 
+   <th>feat: Added domain configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 3d59f4a8e46c7c553eccaf90efaa9cce32e67c8a </th> 
+   <th>feat: added basemodel</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 772459289cafc1649dc2ca7623c1993ec1d7da22 </th> 
+   <th>feat: added appsettings.json configuration</th> 
+   <th></th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> ce8eef36a004624f7657a46d090d9096631a0674 </th> 
+   <th>feat: deleted unnecesary classes</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> b5322c25421485d2d1c9570cc92f99e1a985f0a3 </th> 
+   <th>feat: added application configuration</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 5974d60ab2c7ba8c452b57647780bb6702cf7f3e </th> 
+   <th>feat: added gitignore</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> c8b96ed1db2a9cdc6c3c6686c11e0f86852e912e </th> 
+   <th>test/feat(InterfaceLayer): Added new unit tests for Domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 78216739c5517d66a89c3a889cf1f4b129bec94b </th> 
+   <th>fix(UnitTestInfrastructure/monetization): rename unit test package</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 29d66be454c57c0133fb5aaa72e286b6d09f9567 </th> 
+   <th>feat(UnitTestingDomain/monetization): added unit testing for observer response</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 17b7e67fa177099f4f7ce926de6eaaab497934ba </th> 
+   <th>feat(InterfaceLayer): Added new unit tests for domain layer</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 0c7e0414465bb491e238a4ecdc5f8342b431a28e </th> 
+   <th>feat: added CRUD</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th> 8a937df99ed1339ffc084100e793edfb88f8c6b1 </th> 
+   <th>feat(InterfaceLayer): Added new get methods</th> 
+   <th>CamiAm404</th> 
+   <th>30/05/24</th> 
+</tr>
+
+<tr> 
+   <th>artcollab.API</th> 
+   <th>develop</th> 
+   <th>a93ef17668a06189da36000b2af87e517b8b055f </th> 
+   <th>feat(InterfaceLayer): Changed get methods path</th> 
+   <th> </th> 
+   <th>30/05/24</th> 
+</tr>
+
+
+
+
+</table>
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
