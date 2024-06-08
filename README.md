@@ -317,6 +317,9 @@ Durante el avance del presente trabajo cada integrante del grupo trabajo mediant
 TP1 <br>
 Durante el avance del presente trabajo cada integrante participo de manera colaborativa para el desarrollo del frontend de la web app, asi como tambien se implementaron los servicios que fueron usados para las funcionalidades de la aplicación.
 
+TB2 <br> 
+Durante el avance del presente trabajo, se ha trabajada de manera equitativa el desarollo del backend distribuyendo los bounded context entre los participantes del equipo.
+
 
 </td>
             <td>TB1: El uso de herramientas de colaboración como GitHub y Figma nos ha permitido trabajar de manera eficiente y colaborativa en la creación de los diferentes entregables del proyecto.
@@ -377,9 +380,22 @@ En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diag
 TP1 <br>
 Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y funcionamiento de la api, asi como tambien me encargue de la estilizacion de componentes y organizacion de carpetas aplicando un enfoque DDD.
 
+
+TB2 <br>
+Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
+
 </td>
             <td>TB1: 
 En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.</td>
+
+<td>TP: 
+En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.</td>
+
+
+<td>TB2: 
+En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una arquitectura por capas y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como layer architecture asi como buenas practicas en el desarollo de servicios web en .Net 7, asi como también se hizo uso de algunos patrones de diseño como el tenmplate repository o como también el observer. Asimismo tambien se hizo uso de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
+
+
         <tr>
 </table>
 
