@@ -254,7 +254,7 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
   
 # Student Outcome
 
-<table >
+<table>
         <tr>
             <th style="text-align:center;">Criterio específico</th>
             <th style="text-align:center;">Acciones realizadas</th>
@@ -396,7 +396,7 @@ En esta etapa del proyecto, se realizo la implementación del frontend de la web
 En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una arquitectura por capas y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como layer architecture asi como buenas practicas en el desarollo de servicios web en .Net 7, asi como también se hizo uso de algunos patrones de diseño como el tenmplate repository o como también el observer. Asimismo tambien se hizo uso de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
 
 
-        <tr>
+  </tr>
 </table>
 
 <br>
