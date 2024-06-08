@@ -325,6 +325,11 @@ Durante el avance del presente trabajo, se ha trabajada de manera equitativa el 
             <td>TB1: El uso de herramientas de colaboración como GitHub y Figma nos ha permitido trabajar de manera eficiente y colaborativa en la creación de los diferentes entregables del proyecto.
 Además, la metodología ágil Scrum nos ha permitido organizar y planificar el trabajo de manera efectiva.</td>
 
+
+  <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
+
+   <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
+
    <tr>
             <td align = "center">Conoce al menos un sector
 empresarial o dominio de
