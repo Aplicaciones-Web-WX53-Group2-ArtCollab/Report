@@ -2819,11 +2819,11 @@ Timing: 8:54
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://images-ext-1.discordapp.net/external/qsi7A2QGjUTTZZbASZimPuJqrud68efVeUWAWVmx2tQ/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/context-diagram.png?format=webp&quality=lossless&width=1145&height=597" alt="ArtCollab Context Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392330539405503/structurizr-90530-Contexto.png?ex=6675b012&is=66745e92&hm=b5591ea5effacd4311c4185c5fb8a8c44fddb3bfba423b6f0d00cd99e39039a6&=&format=webp&quality=lossless&width=898&height=468" alt="ArtCollab Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://images-ext-1.discordapp.net/external/CuAmLHD1GS1Wcc8T3TW8r8TWbDhg9bCoQrkBssCB-Ek/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/container-diagram.png?format=webp&quality=lossless&width=686&height=597" alt="ArtCollab Container Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392331152031746/structurizr-90530-Contenedor.png?ex=6675b012&is=66745e92&hm=11ccd44fcfca4c0a5414f8d974fbcd2ca3834329e337b1fa6fd766e89a04f57e&=&format=webp&quality=lossless&width=543&height=468" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
