@@ -6309,6 +6309,199 @@ API
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248762406838997144/image.png?ex=6664d81e&is=6663869e&hm=ebbce35a22039626fd34d0a0c720fcb34fcfc83a7cb7407e36d82fab453115b6&=&format=webp&quality=lossless&width=719&height=450" Alt="Flujo de trabajo"/>
    
 
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+En esta sección se presentarán las evidencias de desarrollo del sprint:
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th> 9cd6ea5ed945daf00a6b529b6ad5e462b7e5f3e2  </th>
+   <th> chore: Delete .idea directory </th>
+   <th> </th>
+   <th> 18/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  e169dc1f52e46c25a5f518640dc2fc88dd84f952  </th>
+   <th>  chore: Delete Application/bin directory  </th>
+   <th>   </th>
+   <th>  18/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  artcollab.API </th>
+   <th> develop  </th>
+   <th>  fcce1dccd2fdb3c856978f037fad3cd88f038554 </th>
+   <th>  chore: Delete Application/obj directory  </th>
+   <th>    </th>
+   <th>  18/06/24  </th>
+ </tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  b00037ce504d04ccf1fcb778400dff6267f39399  </th>
+<th>  chore: Delete Application/obj directory  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  6fbc3f3b321b9eb22f089437a162970d9f33bbe9  </th>
+<th>  chore: Delete Domain/bin directory  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  09d4d87bf8843176e4de444685f23cbae9e40edf  </th>
+<th>  chore: Delete Domain/obj directory  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  1fb21d81e885f54a03f35b3cf0ed0c9176e40164  </th>
+<th>  chore: Delete Infraestructure/bin directory  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  1c50575877322dd50340ea69a455d96764ee2f58  </th>
+<th>  chore: Delete Infraestructure/obj directory  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  767641c53ab629dfd4101fdf6e74980ca8ef4f4c  </th>
+<th>  chore: Update .gitignore  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>fdeab4f85648b189caf0bf3392019f4fe606641e   </th>
+<th>  fix: updated files to fix checkout  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  95d3bd4366be4251f2a16d9a5b92e9d6cde5cf0c  </th>
+<th>  fix: corrected .sln file </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  998f7d054d7ebfb7960383e59fef5309a47305ae  </th>
+<th>  feat/refactor(content): Added Models file to Domain  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> develop  </th>
+ <th>  745b90e1a96b2d36f3c823417d80b0cf6d949b41  </th>
+<th>  feat(content): Add files to domain  </th>
+<th>    </th>
+<th>  18/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> main  </th>
+ <th> 4ae8b00d132e43fba94aecf7bc11a5bbb10d68fd   </th>
+<th>  refactor: apply ddd and cqrs architecture  </th>
+<th>    </th>
+<th>  20/06/24  </th>
+</tr>
+
+<tr> 
+ <th>  artcollab.API </th>
+ <th> main  </th>
+ <th>  a51d273e6be4a1cac6b74444880c44d66220cb20  </th>
+<th>  refactor: apply ddd and cqrs architecture  </th>
+<th>    </th>
+<th>  20/06/24  </th>
+</tr>
+
+<tr>
+<th> artcollab.API</th>
+<th> main</th>
+<th>  b12f487da61c82b9557088ac1084f80c44d28034</th>
+<th> feat(user): added reader controllers</th>
+<th> </th>
+<th> 20/06/24</th>
+</tr>
+
+<tr>
+<th> artcollab.API</th>
+<th> main</th>
+<th>  8e2df38cae63620ca66996cd7bbe0c5187cc1ce9 </th>
+<th> feat(user): added reader controllers</th>
+<th> </th>
+<th> 20/06/24</th>
+</tr>
+
+</table>
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> ac0f0ed </th>
+    <th> feat: added acceptance test for api features </th>
+    <th>  </th>
+    <th> 20/06/2024 </th>
+ </tr>
+
+
 ---
 
 ## 5.3 Validation Interviews
