@@ -6478,7 +6478,7 @@ En esta sección se presentarán las evidencias de desarrollo del sprint:
 
 </table>
 
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
 
@@ -6503,6 +6503,23 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 
 ---
+
+### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarollado el API  de la web application y se ha implementado en el frontend. Para lo cual se emplearon las siguientes herramientas.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+
+</ul>
+    
+
+### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+El equipo estructuró el desarrollo del backend de la aplicación web en ramas basadas en historias de usuario, permitiendo así trabajar cada sección de manera independiente, lo cual optimizó el mantenimiento y la colaboración durante el sprint. Se implementaron las convenciones estándar de GitFlow, creando ramas de desarrollo y funcionalidad según la necesidad de cada historia de usuario. A continuación, se describen las tareas asignadas a cada miembro del equipo, junto con los commits del equipo realizados a través de la plataforma GitHub:
 
 ## 5.3 Validation Interviews
 
