@@ -6521,6 +6521,109 @@ Para el presente sprint, se ha desarollado el API  de la web application y se ha
 
 El equipo estructuró el desarrollo del backend de la aplicación web en ramas basadas en historias de usuario, permitiendo así trabajar cada sección de manera independiente, lo cual optimizó el mantenimiento y la colaboración durante el sprint. Se implementaron las convenciones estándar de GitFlow, creando ramas de desarrollo y funcionalidad según la necesidad de cada historia de usuario. A continuación, se describen las tareas asignadas a cada miembro del equipo, junto con los commits del equipo realizados a través de la plataforma GitHub:
 
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+	
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th> Implementación del iam y los test de iam, suscripciones y comisiones. </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th> Implementación del test de usuarios (readers). </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th> Implementación del test de books e illustrations. </th>
+ </tr>
+  <tr> 
+   <th> Dam Rubianes, Frida Sofia  </th>
+   <th> Implementación del test de suscripciones. </th>
+  </tr> <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th> Implementacion del test de comentarios. </th>
+  </tr>
+ </table>
+
+Hemos desarrollado en conjunto un total de 295 commits para el desarrollo, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> Frida-Dam </th>
+   <th> Dam Rubianes, Frida Sofia  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Web Application
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src=" "/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src=" "/>
+
+#### Anexo: Flujo de trabajo
+
+<img src=" "/>
+
+#### Anexo: Colaboration Insights 
+
+<img src=" "/>
+API
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src=" "/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src=" "/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src=" "/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src=" "/>
+   
+
+ 
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
