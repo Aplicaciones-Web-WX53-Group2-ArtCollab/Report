@@ -6419,11 +6419,11 @@ API
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-          <td>  <td>
+          <td> 52 <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td>  <td>
+          <td> 7 <td>
       </tr>
   </table>
 
