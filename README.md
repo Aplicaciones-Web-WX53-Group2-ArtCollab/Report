@@ -2043,6 +2043,61 @@ y elije la red la red social Twitter.
 <td>7</td>
 </tr>
 
+<tr class="odd">
+<td>E8-US22</td>
+<td>Uso de IAM dentro de la API</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar IAM dentro la API</p>
+<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
+
+<td><p>Escenario 1: Inicio de sesión, por medio de la API, por parte de usuario administrador</p>
+<p>Dado que el usuario está en la página de inicio de sesión.</p>
+<p>e ingresa los datos de su cuenta.</p>
+<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados.</p>
+
+<td><p>Escenario 2: Registro, por medio de la API, por parte de usuario administrador</p>
+<p>Dado que el usuario está en la página de registro.</p>
+<p>e ingresa los datos de su cuenta.</p>
+<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados y que el nombre de usuario no sea uno existente.</p>
+
+<p>Escenario 3: Inicio de sesión, por medio de la API, por parte de usuario no administrador </p>
+<p>Dado que el usuario está en la página de inicio de sesión.</p>
+<p>e ingresa los datos de su cuenta.</p>
+<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el ingreso del usuario al no tener los permisos adecuados.</p>
+
+<td><p>Escenario 4: Registro, por medio de la API, por parte de usuario no administrador</p>
+<p>Dado que el usuario está en la página de registro.</p>
+<p>e ingresa los datos de su cuenta.</p>
+<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el registro del usuario al no tener los permisos adecuados.</p>
+
+<td>8</td>
+</tr>
+
+<tr class="odd">
+<td>E8-US23</td>
+<td>Uso de JSON web token para uso de la API</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
+<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+
+<td><p>Escenario 1: Realización de consultas a la API</p>
+<p>Dado que el usuario se encuentra dentro del aplicativo.</p>
+<p>y desea visualizar los libros disponibles.</p>
+<p>Entonces la aplicación verifica que el token web sea válido y procede a retornar los resultados de la consulta.</p>
+
+<td><p>Escenario 2: Publicación de libro </p>
+<p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
+<p>y desea publicar un nuevo libro.</p>
+<p>Entonces la aplicación verifica que el token sea válido y procede a seguir con el post.</p>
+
+<td><p>Escenario 3: Edición de libro </p>
+<p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
+<p>y desea editar uno de sus libros.</p>
+<p>Entonces la aplicación verifica que el token sea válido y procede a continuar con el put.</p>
+
+<td>8</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
