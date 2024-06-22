@@ -6305,6 +6305,72 @@ API
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248762406838997144/image.png?ex=6664d81e&is=6663869e&hm=ebbce35a22039626fd34d0a0c720fcb34fcfc83a7cb7407e36d82fab453115b6&=&format=webp&quality=lossless&width=719&height=450" Alt="Flujo de trabajo"/>
    
+---
+
+## 5.2.4. Sprint backlog 4
+### 5.2.4.1 Sprint Planning 4
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 17/06/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 16:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Dam Rubianes, Frida Sofia 
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 3, se logró implementar un gran avance la API Rest. Además, se llego a cumplir con todos de los requisitos funcionales indicados en el Sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el haber implementado la arquitectura DDD con mayor anticipación, ya que eso mejora ampliamente la organización de nuestro código. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> Para este sprint tenemos como objetivo terminar realizar la implementación del backend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usario correspondientes a cada funcionalidad. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td>  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td>  <td>
+      </tr>
+  </table>
 
 ### 5.2.4.3. Development Evidence for Sprint Review.
 
