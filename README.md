@@ -6130,59 +6130,6 @@ En el landing page se agregaron los videos about the product y about the team, p
 
 https://66636d9e7be51c0008bdd8ee--ephemeral-rabanadas-a3e8b8.netlify.app/
 
-
-### 5.2.4.6.Services Documentation Evidence for Sprint Review.
-
-En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
-En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
-
-Se adjunta el link del repositorio de la API en Github.: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/artcollab.API/tree/develop
-
-<table>
-  <tr>
-   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
-    <th colspan="2" style="text-align:center;">   </th>
-  </tr>
-
-  <tr>
-   <th style="text-align:center;"> <strong> Entity </strong> </th>
-    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
-    <th style="text-align:center;"> <strong> Swagger </strong> </th>
-  </tr>
-
-  <tr>
-   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254123770415943700/image.png?ex=66785947&is=667707c7&hm=ccf7486b21bb022fb396694ac9023e294c93835f2db885ce4a06674f72077564&=&format=webp&quality=lossless&width=1440&height=323"> </th>
-  </tr>
-
-
-  <tr>
-   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254123929367482438/image.png?ex=6678596d&is=667707ed&hm=19a1e42bfed115b727f2b5eaeccb43397db788d46966ea29af9772b1f1d70fca&=&format=webp&quality=lossless&width=1440&height=491"> </th>
-  </tr>
-
-  <tr>
-   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=66785985&is=66770805&hm=9a82d2c7677ec8b4f681334673b949be134af9e2f8a4107f3d62472c748b1c55&=&format=webp&quality=lossless&width=1440&height=328"> </th>
-  </tr>
-
-  <tr>
-   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=66785990&is=66770810&hm=0f7c73160bac9d8424e5de12cfb467e418e80c5473094a92d7a83a0f5f402b2a&=&format=webp&quality=lossless&width=1440&height=322"> </th>
-  </tr>
-
-<tr>
-   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124128999309312/image.png?ex=6678599c&is=6677081c&hm=4add512222972dddd744e5721c3f877d10a56c1c663d4c151a70e51650b8c6a9&=&format=webp&quality=lossless&width=1440&height=331"> </th>
-  </tr>
-
-</table>
-
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
@@ -6553,6 +6500,58 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 
 ---
+
+### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
+En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
+
+Se adjunta el link del repositorio de la API en Github.: https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/artcollab.API/tree/develop
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254123770415943700/image.png?ex=66785947&is=667707c7&hm=ccf7486b21bb022fb396694ac9023e294c93835f2db885ce4a06674f72077564&=&format=webp&quality=lossless&width=1440&height=323"> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254123929367482438/image.png?ex=6678596d&is=667707ed&hm=19a1e42bfed115b727f2b5eaeccb43397db788d46966ea29af9772b1f1d70fca&=&format=webp&quality=lossless&width=1440&height=491"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=66785985&is=66770805&hm=9a82d2c7677ec8b4f681334673b949be134af9e2f8a4107f3d62472c748b1c55&=&format=webp&quality=lossless&width=1440&height=328"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=66785990&is=66770810&hm=0f7c73160bac9d8424e5de12cfb467e418e80c5473094a92d7a83a0f5f402b2a&=&format=webp&quality=lossless&width=1440&height=322"> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124128999309312/image.png?ex=6678599c&is=6677081c&hm=4add512222972dddd744e5721c3f877d10a56c1c663d4c151a70e51650b8c6a9&=&format=webp&quality=lossless&width=1440&height=331"> </th>
+  </tr>
+
+</table>
 
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
