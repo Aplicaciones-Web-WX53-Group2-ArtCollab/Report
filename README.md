@@ -2346,6 +2346,36 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+<tr class="odd">
+<td>21</td>
+<td>US21</td>
+<td>Uso de API para compartir libros en redes sociales	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td>Media</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>US22</td>
+<td>Uso de IAM dentro de la API	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar IAM dentro la API</p>
+<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>US23</td>
+<td>Uso de JSON web token para uso de la API	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
+<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+<td>Alta</td>
+<td>2</td>
+</tr>
 </tbody>
 </table>
 
