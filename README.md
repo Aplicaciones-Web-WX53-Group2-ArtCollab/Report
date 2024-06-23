@@ -6427,6 +6427,86 @@ API
       </tr>
   </table>
 
+### 5.2.4.2 Sprint BackLog 4
+   
+   En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+   Link de Trello: https://trello.com/invite/b/KWs1B9bn/ATTI574a6773c573f96682c4bfee472fd3fb5DBB468F/artcollab-sprint4
+
+   <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254223728431206430/image.png?ex=6678b65f&is=667764df&hm=fd28bf04194c829852f53a77ce0675066c4c140121aaebd103228531c106cd64&"/>
+
+   <table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP8-US22 </th>
+     <th colspan="3">  Uso de IAM dentro de la API  </th>
+      <th> W24  </th>
+     <th> Inicio de sesión por parte de usuario administrador </th>
+      <th> Implementar IAM para inicio de sesión. 
+      </th>
+     <th> 2 </th>
+     <th> Frida Dam </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> E8-US22  </th>
+     <th colspan="3"> Uso de IAM dentro de la API </th>
+      <th> W23  </th>
+     <th> Registro por parte de usuario administrador  </th>
+     <th> Implementar IAM para registro. </th>
+     <th> 1 </th>
+     <th> Camila Amaro </th> 
+     <th> Done</th>
+   </tr>
+    <tr>
+      <th> E8-US22  </th>
+     <th colspan="3"> Uso de IAM dentro de la API </th>
+      <th> W24  </th>
+     <th> Inicio de sesión por parte de usuario no administrador </th>
+     <th> Implementar denegación por falta de permisos.  </th>
+     <th> 1  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E8-US22   </th>
+     <th colspan="3"> Uso de IAM dentro de la API </th>
+      <th> W25  </th>
+     <th> Registro por parte de usuario no administrador </th>
+     <th> Implementar denegación por falta de permisos.   </th>
+     <th> 1 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E8-US23 </th>
+     <th colspan="3"> Uso de JSON web token para uso de la API </th>
+      <th> W26  </th>
+     <th> Security </th>
+     <th>  Implementar solicitud de token para el uso de operaciones CRUD. </th>
+     <th>  2 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+</table>
+<br>
+
 ### 5.2.4.3. Development Evidence for Sprint Review.
 
 En esta sección se presentarán las evidencias de desarrollo del sprint:
