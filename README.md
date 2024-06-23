@@ -2055,7 +2055,7 @@ y elije la red la red social Twitter.
 <p>e ingresa los datos de su cuenta.</p>
 <p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados.</p>
 
-<td><p>Escenario 2: Registro, por medio de la API, por parte de usuario administrador</p>
+<p>Escenario 2: Registro, por medio de la API, por parte de usuario administrador</p>
 <p>Dado que el usuario está en la página de registro.</p>
 <p>e ingresa los datos de su cuenta.</p>
 <p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados y que el nombre de usuario no sea uno existente.</p>
@@ -2065,7 +2065,7 @@ y elije la red la red social Twitter.
 <p>e ingresa los datos de su cuenta.</p>
 <p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el ingreso del usuario al no tener los permisos adecuados.</p>
 
-<td><p>Escenario 4: Registro, por medio de la API, por parte de usuario no administrador</p>
+<p>Escenario 4: Registro, por medio de la API, por parte de usuario no administrador</p>
 <p>Dado que el usuario está en la página de registro.</p>
 <p>e ingresa los datos de su cuenta.</p>
 <p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el registro del usuario al no tener los permisos adecuados.</p>
@@ -2085,12 +2085,12 @@ y elije la red la red social Twitter.
 <p>y desea visualizar los libros disponibles.</p>
 <p>Entonces la aplicación verifica que el token web sea válido y procede a retornar los resultados de la consulta.</p>
 
-<td><p>Escenario 2: Publicación de libro </p>
+<p>Escenario 2: Publicación de libro </p>
 <p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
 <p>y desea publicar un nuevo libro.</p>
 <p>Entonces la aplicación verifica que el token sea válido y procede a seguir con el post.</p>
 
-<td><p>Escenario 3: Edición de libro </p>
+<p>Escenario 3: Edición de libro </p>
 <p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
 <p>y desea editar uno de sus libros.</p>
 <p>Entonces la aplicación verifica que el token sea válido y procede a continuar con el put.</p>
