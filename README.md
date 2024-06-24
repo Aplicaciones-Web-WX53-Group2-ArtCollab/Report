@@ -6729,8 +6729,14 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
     <th> 20/06/2024 </th>
  </tr>
 
+</table>
 
 ---
+
+### 5.2.4.5.Execution Evidence for Sprint Review.
+En el presente no realizamos cambios en el frontend, dado a que cumplimos con todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace.
+
+https://elegant-beijinho-a167d8.netlify.app/#/home
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
