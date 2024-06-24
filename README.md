@@ -6883,37 +6883,20 @@ Web Application
 
 #### Anexo: flujo de trabajo entre las ramas
 
-<img src=" "/>
-
-#### Anexo: tablas de commits en el periodo de 1 mes
-
-<img src=" "/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254935553778909294/image.png?ex=667b4d4f&is=6679fbcf&hm=75bc6b413e908961a1c846e4e402084cd4f4bd65f89b9067e18d777b7888cc92&"/>
 
 #### Anexo: Flujo de trabajo
 
-<img src=" "/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254935862983135232/image.png?ex=667b4d99&is=6679fc19&hm=9c7f26fee89d863baef3751176a1738c4944a8d0308a585567a95428be727d9b&"/>
 
 #### Anexo: Colaboration Insights 
 
-<img src=" "/>
-API
-
-#### Anexo: flujo de trabajo entre las ramas
-
-<img src=" "/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248761838758264852/image.png?ex=667b4117&is=6679ef97&hm=4aa1498c7d166a34b4a2fcfb9a27fcabb0dd3240c5b4d92fcba99400ec52108b&"/>
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
-<img src=" "/>
-
-#### Anexo: Flujo de trabajo en el periodo de 1 mes
-
-<img src=" "/>
-
-#### Anexo: Colaboration Insights en el periodo de 1 mes
-
-<img src=" "/>
-   
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254936046324416543/image.png?ex=667b4dc5&is=6679fc45&hm=54e16dda856a041bb62fb4bbb47a979ebb8f0d2888d137a24142b940f2032ed2&"/>
+ 
 
  
 ## 5.3 Validation Interviews
