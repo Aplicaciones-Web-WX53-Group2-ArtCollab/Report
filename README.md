@@ -279,6 +279,9 @@ Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su de
 TB2 <br>
 Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
+TF1 <br>
+El desarrollo del backend se ha completado con éxito, incluyendo la adición de JavaDocs y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su conexión con el frontend y asegurando un funcionamiento coordinado y optimizado del sistema.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
@@ -346,6 +349,9 @@ Para la entrega del segundo avance del trabajo, se completaron los requisitos es
 
 TB2 <br>
 Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
+
+TF1 <br>
+Para este último avance del trabajo, se termino de completar el backend y se procedió con el despliegue de este y de la base de datos. Asimismo, se realizó una refactorización del código para poder aplicarle la arquitectura DDD y el patrón CQRS, los cuales fueron de gran ayuda para una mejora y mantenibilidad del código.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
