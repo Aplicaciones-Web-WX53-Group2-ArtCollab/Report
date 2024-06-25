@@ -7014,7 +7014,7 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1246990747652325467/image.png?ex=666454e2&is=66630362&hm=2c8f9fa829e5b035626d355a347e8d9c032f08909cbd10589e80d8334cf19725&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
+<img src="https://i.imgur.com/wlccL6E.png" alt="Entrevista 01 Segmento escritor">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7047,7 +7047,7 @@ Entrevistador: Juan Cuadros Rodriguez
 
 Evidencia de entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
+<img src="https://i.imgur.com/CQRNUhW.png">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7076,7 +7076,7 @@ Lugar de residencia: Lima, Perú
 Entrevistador: Frida Dam Rubianes
 
 Evidencia de entrevista:
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752106337472602/entrevista_escritora.png?ex=6664ce86&is=66637d06&hm=34043a94ed2eab6fe829aa0aa7d91fa1e2c068631d2d6c3b6bc15a817593c3f5&">
+<img src="https://i.imgur.com/9aqD1ZS.png">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7136,7 +7136,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
+<img src="https://i.imgur.com/t0zlfO1.png" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7194,7 +7194,7 @@ Entrevistador: Frida Dam Rubianes
 
 Evidencia de la entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 02 Segmento ilustrador">
+<img src="https://i.imgur.com/53Cntl4.png" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7225,7 +7225,7 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=6663ff58&is=6662add8&hm=68636faed19cbf63b559c380dfb6235d72c868d9566778d54c73384eb6e8fc59&=&format=webp&quality=lossless&width=550&height=309" alt="Entrevista 01 Segmento escritor">
+<img src="https://i.imgur.com/FFSuRww.png" alt="Entrevista 01 Segmento escritor">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7290,7 +7290,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 03 Segmento Lector">
+<img src="https://i.imgur.com/zP1528u.png" alt="Entrevista 03 Segmento Lector">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7320,7 +7320,7 @@ Lugar de residencia: Lima, Perú
 
 Entrevistador: Frida Dam Rubianes
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248752441579536455/entrevistas_lector.png?ex=6664ced6&is=66637d56&hm=995f239a7b28f475c679f17596132f5db03dc4f6f2ccfd68e2a2201f07bb41a1&">
+<img src="https://i.imgur.com/Keoqz5t.png">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7385,7 +7385,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ***Problema:***
 Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 1">
+<img src="https://i.imgur.com/4lf4SxR.png" alt="Problema 1">
 
 ***Recomendación:**
 Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.*
@@ -7399,7 +7399,7 @@ Se recomienda incluir un componente de notificación o popup que le pueda indica
 ***Problema:***
 Al momento de ingresar a través de dispositivos móviles a la pantalla de registro, se muestran problemas con la adaptación de los componentes.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 2">
+<img src="https://i.imgur.com/2ldkryY.png" alt="Problema 2">
 
 ***Recomendación:**
 Se recomienda configurar la responsividad de esta vista para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
@@ -7427,7 +7427,7 @@ Se recomienda configurar la responsividad de estas vistas para dispositivos móv
 ***Problema:***
 No hay botón o enlace que redirija a la página de inicio
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248058397274800208/image.png?ex=666442b5&is=6662f135&hm=d3eef8349fb80800a482676063b9d24a08054681ce8acfcc2f15b3557a2e7788&=&format=webp&quality=lossless&width=399&height=592" alt="Problema 4">
+<img src="https://i.imgur.com/4lf4SxR.png" alt="Problema 4">
 
 *Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.*
 
@@ -7443,7 +7443,7 @@ Se debería agregar un botón o un enlace al logo del aplicativo, para que de es
 ***Problema:***
 No se muestran los vehículos registrados en la pestaña Alquiler
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248062950779125781/image.png?ex=666446f3&is=6662f573&hm=ff8a307562c5d06649b97e9468f8bad05633123caae435f8ca3c8777acd9b564&=&format=webp&quality=lossless" alt="Problema 5">
+<img src="https://i.imgur.com/A8jeuX5.png" alt="Problema 5">
 
 *Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.*
 
@@ -7453,7 +7453,7 @@ Añadir una función que actualice la página con los vehículos registrados por
 ## 5.4. Video About-the-Product
 En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248708421650223164/image.png?ex=6664a5d7&is=66635457&hm=b18cbb9c982fb3b64bf18bf17cd2f24597c5a44ce2a839760ec2ef71a2450b42&=&format=webp&quality=lossless" alt="Primera versión video about the product">
+<img src="https://i.imgur.com/gcvs6Tl.png" alt="Video about the product">
 
 Enlace al video:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EaWCj12LcndCm7zJvnCl39kBjUR3LTILd44hkBVdcfYMsg?e=e1GmbL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -7471,7 +7471,7 @@ En esta sección se encuentra el Video About the Team, donde mencionamos el proc
 
 Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248710482580471939/image.png?ex=6664a7c2&is=66635642&hm=15d4de2e1a97c772b818b3ffa93628612f976e1cc7632b65a0669cbe22abaaa0&=&format=webp&quality=lossless&width=550&height=308" alt="Primera versión video about the team">
+<img src="https://i.imgur.com/oehzEYd.png" alt="Video about the team">
 
 Enlace al video:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVjyXdRMgcJGnrnSqv6TSdABbry1xKM2Kmdm_ZeCF6uuBA?e=Tze6jU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
