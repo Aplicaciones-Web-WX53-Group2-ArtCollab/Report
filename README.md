@@ -88,6 +88,12 @@ Jave Diaz,  Mathias Alejandro
             <td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
         </tr>
+    <tr>
+<td align = "center">TF</td>
+<td>24/06/2024</td>
+<td> Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Dam Rubianes, Frida Sofia </td>
+<td>Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.</td>
+</tr>
 <table>
 
 <br>
@@ -228,14 +234,23 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-2)
-    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-2)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
     - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
     - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
@@ -280,7 +295,7 @@ TB2 <br>
 Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
 TF1 <br>
-El desarrollo del backend se ha completado con éxito, incluyendo la adición de JavaDocs y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su conexión con el frontend y asegurando un funcionamiento coordinado y optimizado del sistema.
+El desarrollo del backend se ha completado con éxito, incluyendo la adición de la documentación Swagger y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su conexión con el frontend y asegurando un funcionamiento coordinado y optimizado del sistema.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
