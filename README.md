@@ -6457,7 +6457,7 @@ API
 <table>
      <tr> 
         <th>  Sprint #  </th>
-        <th> Sprint 3 </th>
+        <th> Sprint 4 </th>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
