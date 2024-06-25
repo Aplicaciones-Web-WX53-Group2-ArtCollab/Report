@@ -6802,7 +6802,8 @@ https://elegant-beijinho-a167d8.netlify.app/#/home
 
 Para el alcance de este sprint se desplego el API de la aplicacion web. Por ello se utilizo la plataforma de Azure para su despliegue.
 
-Se puede acceder el API en el siguiente link:
+Se puede acceder el API en el siguiente link: https://art-collab.azurewebsites.net/
+
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
