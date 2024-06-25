@@ -6420,25 +6420,15 @@ Web Application
 
 #### Anexo: flujo de trabajo entre las ramas
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761282849407006/image.png?ex=6664d712&is=66638592&hm=cf5e608f27738f3f0b80d6fe1f818c6d656539335b05680b6885969a455958a1&=&format=webp&quality=lossless&width=719&height=272" Alt="Flujo de trabajo entre las ramas"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248761282849407006/image.png?ex=667c9212&is=667b4092&hm=0f914ca1305314393e4cc771cc84dcfa0e1a7810061e8f0630a12deb33656326&"/>
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761580372365393/image.png?ex=6664d759&is=666385d9&hm=0afe86c56ddeb7c612069d421835b4a04d92f0402b9d671a1c043af2f8fe579d&=&format=webp&quality=lossless&width=719&height=380" Alt="Tabla de commits"/>
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1248761580372365393/image.png?ex=667c9259&is=667b40d9&hm=dcbb7aa3ac767bc94a09d42bb6e704a5236f77c7785d740b4a71f54190f5c991&" Alt="Tabla de commits"/>
 
 #### Anexo: Flujo de trabajo
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248761737088335992/image.png?ex=6664d77e&is=666385fe&hm=9c43ace87791ca438b5dc0c93ee66204aa839253577d7221aafea54cdbbd75cb&=&format=webp&quality=lossless&width=719&height=283" Alt="Flujo de trabajo"/>
-
-#### Anexo: Colaboration Insights 
-
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248761838758264852/image.png?ex=6664d797&is=66638617&hm=738e79bbce4209d76883274a9b79199207bfbb1fdad5cedbb59b371bb162286a&=&format=webp&quality=lossless&width=630&height=592" Alt="Flujo de trabajo"/>
-
-API
-
-#### Anexo: flujo de trabajo entre las ramas
-
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248762187955310633/image.png?ex=6664d7ea&is=6663866a&hm=9ab2b9a52f26cf7dd2c2fd3ecfad7ec9642106beb49508ee52dbbcd35814a8be&=&format=webp&quality=lossless&width=719&height=274" Alt="Flujo de trabajo entre las ramas"/>
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
