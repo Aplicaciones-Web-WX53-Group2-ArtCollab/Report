@@ -349,6 +349,9 @@ TB2 <br>
 Durante el avance del presente trabajo, se ha trabajada de manera equitativa el desarollo del backend distribuyendo los bounded context entre los participantes del equipo.
 
 
+TF1 <br>
+En esta ùltima entrega, hemos cumplido con exito los requerimientos establecidos en nuestros technical user stories, el equipo aporto significativamente en el proceso de desarollo del presente trabajo. Asimismo, en el grupo pudimos aprender sobre nuestros errores en las entregas pasadas y pudimos hacer hincapie en solucionar dichos percances.
+
 </td>
             <td>TB1: El uso de herramientas de colaboración como GitHub y Figma nos ha permitido trabajar de manera eficiente y colaborativa en la creación de los diferentes entregables del proyecto.
 Además, la metodología ágil Scrum nos ha permitido organizar y planificar el trabajo de manera efectiva.</td>
@@ -357,6 +360,8 @@ Además, la metodología ágil Scrum nos ha permitido organizar y planificar el 
   <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
 
    <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
+
+   TF1: Como equipo, coordinamos los tiempos de entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para cada funcionalidad con el fin de evitar contratiempos al momento de realizar el merge, también logramos exitosamente el deployment de nuestro backend gracias a la coordinación en equipo para cumplir a tiempo las tareas asignadas, por lo tanto destacamos la coordinación y comunicación constante como parte de nuestros factores de éxito.
 
    <tr>
             <td align = "center">Conoce al menos un sector
@@ -420,6 +425,9 @@ Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y fun
 TB2 <br>
 Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
 
+TF1 <br>
+En este último avance del proyecto, se completó el backend y se realizó su despliegue junto con el de la base de datos. También se llevó a cabo una refactorización del código para implementar la arquitectura DDD y el patrón CQRS, lo cual mejoró significativamente la calidad y mantenibilidad del código.
+
 </td>
             <td>TB1: 
 En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.</td>
@@ -431,6 +439,8 @@ En esta etapa del proyecto, se realizo la implementación del frontend de la web
 <td>TB2: 
 En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una arquitectura por capas y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como layer architecture asi como buenas practicas en el desarollo de servicios web en .Net 7, asi como también se hizo uso de algunos patrones de diseño como el tenmplate repository o como también el observer. Asimismo tambien se hizo uso de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
 
+TF1: 
+En esta etapa del proyecto, se realizo la implementación completa del backend de la web app siguiendo un enfoque ddd y considerando nuestras technical user stories como parte de nuestros requisitos no funcionales, se agregaron temas con la seguridad de nuestra API usando JWT y el esquema de bearer authentication.
 
   </tr>
 </table>
