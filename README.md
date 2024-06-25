@@ -317,6 +317,9 @@ En esta entrega, el trabajo donde se desarrollo el front de nuestra aplicacion w
 TB2 <br>
 En este avance se trabajo mendiante el uso de github mediante diferentes branches cada una correspondiente a las User Stories destinadas a la API.
 
+TF1 <br>
+En esta entrega se completo todos los endpoints de la API cada uno con su respectiva documentacion. Ademas, se logro desplegar la api y posteriormente su conexion con el frontend, asegurando una aplicacion web completa.
+
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
 Durante el desarrollo del proyecto he mantenido comunicación constante con los integrantes del equipo, mediante reuniones semanales. Hemos realizado colaborativamente cada parte del informe mediante branches y github para mantener el orden y las versiones del trabajo.
@@ -395,6 +398,9 @@ En el avance del trabajo, se realizo los componentes que conforman el desarrollo
 
 TB2 <br>
 Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.
+
+TF1 <br>
+En esta ultima entrega se logro completar satisfactoriamente cada uno de los endpoints del backend implementando la seguridad por medio de JWT con un esquema de Bearer para la seguridad de la API asi garantizando que solo el Administrador pueda visualizar y realizar cambios a la API.
 
 Dam Rubianes, Frida Sofia <br>
 TB1 <br>
