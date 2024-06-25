@@ -6524,7 +6524,7 @@ API
    En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
    Link de Trello: https://trello.com/invite/b/KWs1B9bn/ATTI574a6773c573f96682c4bfee472fd3fb5DBB468F/artcollab-sprint4
 
-   <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254223728431206430/image.png?ex=6678b65f&is=667764df&hm=fd28bf04194c829852f53a77ce0675066c4c140121aaebd103228531c106cd64&"/>
+   <img src="https://i.imgur.com/mMs6TxK.png"/>
 
    <table style="width:400px; height:100px;"> 
    <tr>
@@ -6950,11 +6950,11 @@ Web Application
 
 #### Anexo: flujo de trabajo entre las ramas
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254935553778909294/image.png?ex=667b4d4f&is=6679fbcf&hm=75bc6b413e908961a1c846e4e402084cd4f4bd65f89b9067e18d777b7888cc92&"/>
+<img src="https://i.imgur.com/NO5x2wv.png"/>
 
 #### Anexo: Flujo de trabajo
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254935862983135232/image.png?ex=667b4d99&is=6679fc19&hm=9c7f26fee89d863baef3751176a1738c4944a8d0308a585567a95428be727d9b&"/>
+<img src="https://i.imgur.com/gSxynnW.png"/>
 
 #### Anexo: Colaboration Insights 
 
@@ -6962,7 +6962,7 @@ Web Application
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1254936046324416543/image.png?ex=667b4dc5&is=6679fc45&hm=54e16dda856a041bb62fb4bbb47a979ebb8f0d2888d137a24142b940f2032ed2&"/>
+<img src="https://i.imgur.com/mgVWBml.png"/>
  
 
  
