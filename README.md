@@ -330,6 +330,9 @@ Logramos realizar el despliegue de nuestra aplicación web, siguiendo el modelo 
 TB2 <br>
 Se hicieron mejoras en el frontend y se desarrollo el backend de la aplicación. Mejorasmos las funcionalidades dentro de nuestra página y priorizamos tener un trabajo ordenado para facilitar el trabajo en equipo.
 
+TF1 <br>
+Logramos deasarrollar en equipo el backend completo. Se realizaron los test correspondientes Y se implementó IAM. Por ultimo despelgamos el backend y realizamos la coneccion con el frontend.
+
 Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page. 
@@ -410,7 +413,10 @@ TP1 <br>
 En esta entrega se hizo uso de un API para registrar y obtener la información de los usuarios, libros y otros elementos dentro de nuestra aplicación. Se aplicaron los metodos CRUD para lograr completar exitosamente esta entrega.
 
 TB2 <br>
-En este avance nosotros realizamos entrevistas de validacion para poder conocer la opinion de nuestros usuarios y realizar mejoras en base de sus recomendaciones. Realizamos el backend y mejoramos el forntend en base a las necesidades y requisitos encontrados
+En este avance nosotros realizamos entrevistas de validacion para poder conocer la opinion de nuestros usuarios y realizar mejoras en base de sus recomendaciones. Realizamos el backend y mejoramos el forntend en base a las necesidades y requisitos encontrados.
+
+TF1 <br>
+En esta entrega estructuramos el código para poder aplicarle la arquitectura DDD y el patrón CQRS. Nos aseguramos de seguir todos los criterios para tener un codigo limpio y que sea de facil mantenimiento.
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
