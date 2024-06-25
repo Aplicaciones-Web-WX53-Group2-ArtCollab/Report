@@ -6785,6 +6785,10 @@ En el presente no realizamos cambios en el frontend, dado a que cumplimos con to
 
 https://elegant-beijinho-a167d8.netlify.app/#/home
 
+Para el alcance de este sprint se desplego el API de la aplicacion web. Por ello se utilizo la plataforma de Azure para su despliegue.
+
+Se puede acceder el API en el siguiente link:
+
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
@@ -6820,19 +6824,25 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Apli
   <tr>
    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=66785985&is=66770805&hm=9a82d2c7677ec8b4f681334673b949be134af9e2f8a4107f3d62472c748b1c55&=&format=webp&quality=lossless&width=1440&height=328"> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=667c4e05&is=667afc85&hm=a8aab795a7630008307b5e7c5e449ff1914a909c4a352a34f4a65af9a924b18b&=&format=webp&quality=lossless&width=1440&height=328"> </th>
   </tr>
 
   <tr>
    <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=66785990&is=66770810&hm=0f7c73160bac9d8424e5de12cfb467e418e80c5473094a92d7a83a0f5f402b2a&=&format=webp&quality=lossless&width=1440&height=322"> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=667c4e10&is=667afc90&hm=330fbf6acb9b13a58134117d32ef6a7ba78f3217bb4696f4633a28da910f3104&=&format=webp&quality=lossless&width=1440&height=322"> </th>
   </tr>
 
 <tr>
    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124128999309312/image.png?ex=6678599c&is=6677081c&hm=4add512222972dddd744e5721c3f877d10a56c1c663d4c151a70e51650b8c6a9&=&format=webp&quality=lossless&width=1440&height=331"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Authentication </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/authentication </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254128616766312609/image.png?ex=667c524a&is=667b00ca&hm=f197348a15aec9eaf9500b45bfa7a0c626b3c0dd71fe4c2b4a4135b951d0ff83&=&format=webp&quality=lossless&width=1440&height=148"> </th>
   </tr>
 
 </table>
