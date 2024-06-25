@@ -7413,7 +7413,7 @@ Se recomienda configurar la responsividad de esta vista para dispositivos móvil
 ***Problema:***
 Al momento de ingresar a través de dispositivos móviles a la aplicación, se muestran problemas con la adaptación de los componentes de alguna vistas.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107720/1248718643722850427/image.png?ex=6664af5c&is=66635ddc&hm=05f085ea7610b4c28abc8904fe95228cec86aa4ace3efc941176f298a43168a5&=&format=webp&quality=lossless&width=490&height=592" alt="Problema 3">
+<img src="https://i.imgur.com/2ldkryY.png" alt="Problema 3">
 
 ***Recomendación:**
 Se recomienda configurar la responsividad de estas vistas para dispositivos móviles para mejorar la accesibilidad de la aplicación.*
