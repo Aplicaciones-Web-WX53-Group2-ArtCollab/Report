@@ -338,6 +338,9 @@ En este avance del trabajo, se realizó la programación de la parte de frontend
 TB2 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar la implementación de los servicios de la aplicación web distribuyendo las tareas  por las historias de usuario asignadas.
 
+TF1 <br>
+En esta última entrega, se ha completado con éxito el desarrollo del backend de la aplicación, se distribuyó el trabajo restante entre los miembros del equipo y se ha documentado el proceso de desarrollo siguiendo las buenas prácticas de programación y el uso de herramientas de gestión de proyectos.
+
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
@@ -413,6 +416,9 @@ En este avance del trabajo, se hizo uso de los servicios de búsqueda http para 
 
 TB2 <br>
 En este avance del trabajo, se codificaron los servicios del api para la aplicación web usando el framework de Spring Boot, haciendo uso de buenas prácticas de programación y diseño de software.
+
+TF1 <br>
+En esta última entrega del proyecto, se implementaron los servicios de IAM para la gestión segura de accesos a la aplicación, así como la documentación de los endpoints de la API. Además, se completó la implementación del backend y se desplegó la aplicación, asegurando su disponibilidad para los usuarios finales.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
